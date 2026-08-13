@@ -1,0 +1,3605 @@
+{
+  "items": [
+    {
+      "description": "Stuck on a configuration, wondering why a device will not pair, or just want to see what other people are building? Home Assistant has one of the most active home-automation communities on the internet, and most of it is free to join. The official channels are below; further down you will find communities in your language and around specific projects from the wider ecosystem.",
+      "items": [],
+      "title": "In case you need help"
+    },
+    {
+      "description": "Discords, forums, and chats run by community projects you will see elsewhere on this list. Sorted alphabetically by project.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Frigate Discussions",
+          "description": "GitHub Discussions for the local-NVR / object-detection project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:45:06Z",
+            "owner": "blakeblackshear",
+            "repo": "frigate",
+            "stars": 35044
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zigbee2MQTT Discussions",
+          "description": "GitHub Discussions for the popular Zigbee bridge.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T19:53:51Z",
+            "owner": "Koenkk",
+            "repo": "zigbee2mqtt",
+            "stars": 15496
+          }
+        }
+      ],
+      "title": "🧩 Around community projects"
+    },
+    {
+      "description": "Wondering how more experienced users have set up their thermostat schedules, presence detection, or automations? These are full Home Assistant configurations published on GitHub. Read them like recipe books, copy the bits that look useful, and skip the rest.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Carlo Costanzo",
+          "description": "Probably the most documented configuration out there (5,208★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T17:59:16Z",
+            "owner": "CCOSTAN",
+            "repo": "Home-AssistantConfig",
+            "stars": 5259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Franck Nijhof",
+          "description": "Home Assistant OS based, very different configuration structure compared to others (2,009★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-07T14:38:00Z",
+            "owner": "frenck",
+            "repo": "home-assistant-config",
+            "stars": 2016
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alok Saboo",
+          "description": "Also known as arsaboo. Regularly updated (1,953★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-03T18:33:37Z",
+            "owner": "arsaboo",
+            "repo": "homeassistant-config",
+            "stars": 1956
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geekofweek",
+          "description": "Has 300+ automations (1,477★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-15T22:20:54Z",
+            "owner": "geekofweek",
+            "repo": "homeassistant",
+            "stars": 1480
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DubhAd",
+          "description": "Also known as Tinkerer, shares his configuration files (688★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-30T13:03:10Z",
+            "owner": "DubhAd",
+            "repo": "Home-AssistantConfig",
+            "stars": 688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Klaas Schoute",
+          "description": "Home Assistant OS based, Intel NUC, Ubuntu Server, Docker and regularly updated (223★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-21T04:01:37Z",
+            "owner": "klaasnicolaas",
+            "repo": "Student-homeassistant-config",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ryan Warner",
+          "description": "Docker on Ubuntu HA Config, maintained since early HA. Highly documented and regularly updated (5★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-28T18:15:29Z",
+            "owner": "rwarner",
+            "repo": "Home-Assistant-Config",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Public Configurations"
+    },
+    {
+      "description": "Integrations Home Assistant does not ship with out of the box, written by the community. Install them through HACS in a couple of clicks.",
+      "items": [],
+      "title": "Custom Integrations"
+    },
+    {
+      "description": "Wire Home Assistant up to a large language model and let it read your devices, build dashboards, write automations, or describe what your cameras see.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LLM Vision",
+          "description": "Add visual intelligence to your automations: caption camera snapshots, summarize what is happening, react to specific events (1,373★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T12:43:58Z",
+            "owner": "valentinfrlch",
+            "repo": "ha-llmvision",
+            "stars": 1422
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Automation Suggester",
+          "description": "Scan your entities and ask an AI provider (OpenAI, Anthropic, Google, Groq, Ollama) for tailored automation suggestions, surfaced as notifications (749★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-11T09:59:19Z",
+            "owner": "ITSpecialist111",
+            "repo": "ai_automation_suggester",
+            "stars": 763
+          }
+        }
+      ],
+      "title": "🤖 AI & LLMs"
+    },
+    {
+      "description": "Effects, schedules, and behaviour layers that sit on top of your lights.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Adaptive Lighting",
+          "description": "Slowly adjust the brightness and color temperature of your lights based on the position of the sun (3,324★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:02:18Z",
+            "owner": "basnijholt",
+            "repo": "adaptive-lighting",
+            "stars": 3420
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Circadian Lighting",
+          "description": "Slowly synchronizes your color-changing lights with the naturally occurring color temperature of the sky throughout the day (886★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-19T22:55:20Z",
+            "owner": "claytonjn",
+            "repo": "hass-circadian_lighting",
+            "stars": 896
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Govee",
+          "description": "Local control of Govee Wi-Fi lights and bulbs, including effects and color modes (352★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-28T02:25:58Z",
+            "owner": "LaggAt",
+            "repo": "hacs-govee",
+            "stars": 357
+          }
+        }
+      ],
+      "title": "💡 Lighting"
+    },
+    {
+      "description": "Smarter thermostats, comfort sensors, and HVAC integrations that go beyond what comes built in.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Better Thermostat",
+          "description": "Smarter thermostat with window detection, heating curves, and per-room comfort profiles for thermostatic radiator valves (1,443★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-29T23:51:50Z",
+            "owner": "KartoffelToby",
+            "repo": "better_thermostat",
+            "stars": 1465
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Versatile Thermostat",
+          "description": "Full-featured thermostat with presets, window detection, motion-based comfort, and presence (1,075★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T19:26:50Z",
+            "owner": "jmcollin78",
+            "repo": "versatile_thermostat",
+            "stars": 1152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Midea Air Appliances LAN",
+          "description": "Local control of Midea air conditioners, dehumidifiers, and other appliances over LAN (460★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T16:24:06Z",
+            "owner": "nbogojevic",
+            "repo": "homeassistant-midea-air-appliances-lan",
+            "stars": 481
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smart Autotune Thermostat (SAT)",
+          "description": "Self-tuning thermostat that talks to OpenTherm, ESPHome, or MQTT gateways and adapts the heating curve to your home over time (246★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-18T20:52:21Z",
+            "owner": "Alexwijn",
+            "repo": "SAT",
+            "stars": 246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dual Smart Thermostat",
+          "description": "Enhanced version of the built-in generic thermostat, with separate heating and cooling, floor temperature limits, and humidity controls (225★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T18:52:14Z",
+            "owner": "swingerman",
+            "repo": "ha-dual-smart-thermostat",
+            "stars": 230
+          }
+        }
+      ],
+      "title": "🌡️ Climate"
+    },
+    {
+      "description": "Pull your solar inverter, smart meter, home battery, or utility tariff into Home Assistant and feed the energy dashboard.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Powercalc",
+          "description": "Calculate estimated power consumption of lights and other devices, even those that don't report it themselves (1,503★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T15:09:32Z",
+            "owner": "bramstroker",
+            "repo": "homeassistant-powercalc",
+            "stars": 1556
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anker Solix",
+          "description": "Pull Anker Solix balcony solar systems, batteries, and power stations into the energy dashboard with live state, history, and charging control (1,005★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T11:28:24Z",
+            "owner": "thomluther",
+            "repo": "ha-anker-solix",
+            "stars": 1056
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Octopus Energy",
+          "description": "Pull Octopus Energy tariffs, smart meter readings, intelligent dispatch slots, and saving sessions into your dashboard (940★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T10:32:07Z",
+            "owner": "BottlecapDave",
+            "repo": "HomeAssistant-OctopusEnergy",
+            "stars": 976
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Huawei Solar",
+          "description": "Read and control Huawei solar inverters and home batteries over Modbus, including grid charge windows (899★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T06:00:49Z",
+            "owner": "wlcrs",
+            "repo": "huawei_solar",
+            "stars": 918
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SolaX Modbus",
+          "description": "Talk to SolaX, Solinteg, Sofar, Growatt, and other inverters over Modbus, including read-only and inverter control modes (490★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T13:26:48Z",
+            "owner": "wills106",
+            "repo": "homeassistant-solax-modbus",
+            "stars": 507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solarman",
+          "description": "Read Deye, Sofar, and other Solarman-branded inverters via the Solarman stick logger (483★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-03T21:25:56Z",
+            "owner": "davidrapan",
+            "repo": "ha-solarman",
+            "stars": 506
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solcast PV Forecast",
+          "description": "Pulls Solcast solar production forecasts so you can see expected generation for the day, with up-to-the-hour confidence bands (420★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T09:05:47Z",
+            "owner": "BJReplay",
+            "repo": "ha-solcast-solar",
+            "stars": 437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OCPP",
+          "description": "Bring electric vehicle chargers that speak OCPP into the energy dashboard, with start, stop, and per-session metering (372★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T20:39:01Z",
+            "owner": "lbbrhzn",
+            "repo": "ocpp",
+            "stars": 388
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FoxESS Modbus",
+          "description": "Connects directly to FoxESS solar inverters over Modbus, no cloud round-trips, for real-time status and control (308★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T16:03:24Z",
+            "owner": "nathanmarlor",
+            "repo": "foxess_modbus",
+            "stars": 326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solis Sensor",
+          "description": "Talks to the SolisCloud PV monitoring portal so you can pull Solis inverter generation, battery, and grid data into the energy dashboard (320★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-27T16:29:36Z",
+            "owner": "hultenvp",
+            "repo": "solis-sensor",
+            "stars": 324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Victron GX",
+          "description": "Reads data from a Victron GX device over Modbus/TCP, exposing inverters, batteries, solar chargers, and AC inputs (317★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-07T21:40:19Z",
+            "owner": "sfstar",
+            "repo": "hass-victron",
+            "stars": 320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EPEX Spot",
+          "description": "Brings hourly EPEX spot electricity prices into your dashboard so you can shift loads to the cheapest slots (310★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-24T15:23:06Z",
+            "owner": "mampfes",
+            "repo": "ha_epex_spot",
+            "stars": 318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SolarEdge Modbus Multi",
+          "description": "Reads SolarEdge inverters, meters, and batteries locally over Modbus/TCP, with multi-inverter and three-phase support (303★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:36:58Z",
+            "owner": "WillCodeForCats",
+            "repo": "solaredge-modbus-multi",
+            "stars": 309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Energi Data Service",
+          "description": "Fetches Danish electricity spot prices from the Energi Data Service API for use in price-aware automations (275★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T04:03:37Z",
+            "owner": "MTrab",
+            "repo": "energidataservice",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ENTSO-e Day-Ahead Prices",
+          "description": "Fetches day-ahead electricity prices from the ENTSO-e Transparency Platform across most European countries (265★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-22T06:04:16Z",
+            "owner": "JaccoR",
+            "repo": "hass-entso-e",
+            "stars": 275
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solar Optimizer",
+          "description": "Starts and stops your appliances based on solar surplus production so you self-consume rather than export (228★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-09T19:54:38Z",
+            "owner": "jmcollin78",
+            "repo": "solar_optimizer",
+            "stars": 236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoodWe Inverter",
+          "description": "Pulls live data from GoodWe solar inverters over the local network for use in the energy dashboard (213★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-01T22:12:23Z",
+            "owner": "mletenay",
+            "repo": "home-assistant-goodwe-inverter",
+            "stars": 227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dynamic Energy Cost",
+          "description": "Tracks real-time and cumulative energy cost against a dynamic price feed like Nord Pool or EPEX (189★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-21T10:28:47Z",
+            "owner": "martinarva",
+            "repo": "dynamic_energy_cost",
+            "stars": 194
+          }
+        }
+      ],
+      "title": "⚡ Energy & solar"
+    },
+    {
+      "description": "Pair specific camera brands and video sources that Home Assistant does not support out of the box.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WebRTC Camera",
+          "description": "View RTSP streams from IP Cameras in real-time through WebRTC or MSE with Pan/Zoom controls (2,134★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-26T10:15:48Z",
+            "owner": "AlexxIT",
+            "repo": "WebRTC",
+            "stars": 2162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tapo Control",
+          "description": "Control TP-Link Tapo cameras with PTZ, motion events, and a live RTSP stream (1,912★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-25T22:03:24Z",
+            "owner": "JurajNyiri",
+            "repo": "HomeAssistant-Tapo-Control",
+            "stars": 1971
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eufy Security",
+          "description": "Manage Eufy Security cameras, doorbells, and base stations with live streams and event notifications (1,338★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-22T06:22:26Z",
+            "owner": "fuatakgun",
+            "repo": "eufy_security",
+            "stars": 1385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frigate",
+          "description": "Integrate the Frigate NVR with local object detection into your dashboard, alerts, and snapshots (1,181★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-16T15:03:17Z",
+            "owner": "blakeblackshear",
+            "repo": "frigate-hass-integration",
+            "stars": 1228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dahua",
+          "description": "Pair Dahua cameras and doorbells with motion events, snapshots, sirens, and PTZ controls (541★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-31T16:05:35Z",
+            "owner": "rroller",
+            "repo": "dahua",
+            "stars": 551
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HASS Aarlo",
+          "description": "Asynchronous Arlo integration. Similar to the Arlo web site; monitors events and states for all base stations, cameras and doorbells (470★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-11T17:18:15Z",
+            "owner": "twrecked",
+            "repo": "hass-aarlo",
+            "stars": 473
+          }
+        }
+      ],
+      "title": "📹 Cameras & video"
+    },
+    {
+      "description": "Turn Home Assistant into a fully-featured alarm system with arm and disarm flows, user codes, zones, and panic.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Alarmo",
+          "description": "Easy-to-use alarm system with arm/disarm flows, user codes, zones, and panic mode (2,148★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T12:13:39Z",
+            "owner": "nielsfaber",
+            "repo": "alarmo",
+            "stars": 2204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keymaster",
+          "description": "Manages user codes on Z-Wave smart locks, including per-user schedules, one-time codes, and notifications (334★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T14:34:09Z",
+            "owner": "FutureTense",
+            "repo": "keymaster",
+            "stars": 348
+          }
+        }
+      ],
+      "title": "🚨 Security & alarm"
+    },
+    {
+      "description": "Send commands to voice speakers and media players, or relay what they hear and play back into Home Assistant.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Alexa Media Player",
+          "description": "Control Amazon Alexa devices: announce, play media, and pull device state into your automations (1,948★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T19:06:08Z",
+            "owner": "alandtse",
+            "repo": "alexa_media_player",
+            "stars": 1959
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YandexStation",
+          "description": "Control Yandex Station speakers and other smart-home devices through Alice (1,868★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-17T09:45:26Z",
+            "owner": "AlexxIT",
+            "repo": "YandexStation",
+            "stars": 1908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yandex Smart Home",
+          "description": "Expose your devices to Yandex Alice and the Yandex smart-home app (1,066★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T08:59:47Z",
+            "owner": "dext0r",
+            "repo": "yandex_smart_home",
+            "stars": 1075
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spotcast",
+          "description": "Start Spotify playback on an idle Chromecast device as well as control Spotify connect devices (809★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-23T14:06:22Z",
+            "owner": "fondberg",
+            "repo": "spotcast",
+            "stars": 815
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "View Assist Companion",
+          "description": "Companion Android app and integration that turns a tablet into a hands-free voice and dashboard satellite (374★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T07:37:39Z",
+            "owner": "msp1974",
+            "repo": "ViewAssist_Companion_App",
+            "stars": 453
+          }
+        }
+      ],
+      "title": "🔊 Voice & media playback"
+    },
+    {
+      "description": "Track your car's battery, location, and charging state, or control where and when it plugs in.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kia Uvo & Hyundai Bluelink",
+          "description": "Track and control Kia Connect (Uvo) and Hyundai Bluelink cars across EU, Canada, and USA, including charging, climate, and lock state (870★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T10:09:59Z",
+            "owner": "Hyundai-Kia-Connect",
+            "repo": "kia_uvo",
+            "stars": 919
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tesla",
+          "description": "Track Tesla cars and Powerwalls with charging, climate, location, and security state, using a refresh token from a third-party login app (740★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T19:06:20Z",
+            "owner": "alandtse",
+            "repo": "tesla",
+            "stars": 776
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Volkswagen Carnet",
+          "description": "Track charging state, climate preconditioning, and remote lock and honk for Volkswagen cars on the Carnet platform (643★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T04:03:30Z",
+            "owner": "robinostlund",
+            "repo": "homeassistant-volkswagencarnet",
+            "stars": 669
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evcc",
+          "description": "Connects to an evcc instance to surface charge sessions, solar matching, and per-loadpoint state (410★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T08:10:37Z",
+            "owner": "marq24",
+            "repo": "ha-evcc",
+            "stars": 451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Audi Connect",
+          "description": "Tracks Audi cars over the Audi Connect API, including charging state, range, lock, and climate preconditioning (338★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T05:39:39Z",
+            "owner": "audiconnect",
+            "repo": "audi_connect_ha",
+            "stars": 361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EV Smart Charging",
+          "description": "Plans an electric vehicle charging schedule across the cheapest hours of a dynamic tariff, working with most chargers and price sensors (297★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T20:22:30Z",
+            "owner": "jonasbkarlsson",
+            "repo": "ev_smart_charging",
+            "stars": 318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Easee EV Charger",
+          "description": "Adds Easee EV chargers with live charge state, dynamic load balancing, and per-session metering (272★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T21:15:42Z",
+            "owner": "nordicopen",
+            "repo": "easee_hass",
+            "stars": 279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polestar",
+          "description": "Reads Polestar EVs through the Polestar app API, with range, charging, and location data (249★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T07:46:43Z",
+            "owner": "pypolestar",
+            "repo": "polestar_api",
+            "stars": 264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stellantis Vehicles",
+          "description": "Adds Stellantis cars (Peugeot, Citroen, Fiat, Opel, Vauxhall, DS) over the manufacturer API for range, lock, and climate (231★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T07:44:42Z",
+            "owner": "andreadegiovine",
+            "repo": "homeassistant-stellantis-vehicles",
+            "stars": 258
+          }
+        }
+      ],
+      "title": "🚗 Cars & EV charging"
+    },
+    {
+      "description": "Figure out who is home and where they are, often more accurately than the built-in device tracker.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "iCloud3",
+          "description": "Improved version of the iCloud device tracker component with a lot of capabilities (855★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:14:38Z",
+            "owner": "gcobb321",
+            "repo": "icloud3",
+            "stars": 890
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iPhone Detect",
+          "description": "Detect iPhones (and other phones) on the local Wi-Fi without an app, by sending a UDP probe and watching for the reply (625★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-03T23:33:39Z",
+            "owner": "mudape",
+            "repo": "iphonedetect",
+            "stars": 641
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flightradar24",
+          "description": "Track aircraft flying over a configurable bounding box around your home using Flightradar24 (468★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T15:22:11Z",
+            "owner": "AlexandrErohin",
+            "repo": "home-assistant-flightradar24",
+            "stars": 517
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Places",
+          "description": "Reverse-geocodes a device tracker location through OpenStreetMap so automations can react to \"at the supermarket\" rather than raw coordinates (191★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T23:01:07Z",
+            "owner": "custom-components",
+            "repo": "places",
+            "stars": 204
+          }
+        }
+      ],
+      "title": "📍 Presence & location"
+    },
+    {
+      "description": "Control specific robot vacuums and surface their map data, beyond what comes built in.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dreame Vacuum",
+          "description": "Dreame robot vacuums with full map support, including no-go zones and selective room cleaning (1,999★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-21T01:41:36Z",
+            "owner": "Tasshack",
+            "repo": "dreame-vacuum",
+            "stars": 2138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xiaomi Cloud Map Extractor",
+          "description": "Presents a live view of a map for Xiaomi (Roborock/Viomi/Roidmi/Dreame) vacuums without a need for rooting (1,405★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-20T03:21:16Z",
+            "owner": "PiotrMachowski",
+            "repo": "Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor",
+            "stars": 1416
+          }
+        }
+      ],
+      "title": "🧹 Vacuums"
+    },
+    {
+      "description": "Pull data from sensors that broadcast over Bluetooth, or use Bluetooth itself for room-level presence detection.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BLE Monitor",
+          "description": "Passively read sensor data from Xiaomi MiBeacon, Govee, ATC, Inkbird, Qingping, and many other BLE sensors (2,214★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T20:05:18Z",
+            "owner": "custom-components",
+            "repo": "ble_monitor",
+            "stars": 2233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bermuda",
+          "description": "Room-level presence detection by triangulating BLE signals across multiple ESPHome receivers (1,798★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T06:34:09Z",
+            "owner": "agittins",
+            "repo": "bermuda",
+            "stars": 1947
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EcoFlow BLE",
+          "description": "Pulls EcoFlow power stations and accessories over Bluetooth Low Energy, no cloud account required (304★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T16:41:30Z",
+            "owner": "rabits",
+            "repo": "ha-ef-ble",
+            "stars": 360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BLE Battery Management Systems",
+          "description": "Reads Bluetooth Low Energy battery management systems (BMS) from many vendors, exposing per-cell voltages, balancing, and SOC (328★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T18:48:06Z",
+            "owner": "patman15",
+            "repo": "BMS_BLE-HA",
+            "stars": 353
+          }
+        }
+      ],
+      "title": "🔵 Bluetooth & BLE"
+    },
+    {
+      "description": "Pull a specific manufacturer's devices into Home Assistant, often with more features or better local control than what comes built in.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Xiaomi MIoT",
+          "description": "Auto-integrate Xiaomi smart-home devices over Wi-Fi, BLE, and Zigbee using the MIoT-spec protocol (5,911★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T08:37:00Z",
+            "owner": "al-one",
+            "repo": "hass-xiaomi-miot",
+            "stars": 6072
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LocalTuya",
+          "description": "Local control of Tuya devices over the LAN, no cloud round-trips, supporting plugs, lights, climate, and covers (3,857★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-29T11:04:59Z",
+            "owner": "rospogrigio",
+            "repo": "localtuya",
+            "stars": 3928
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonoff LAN",
+          "description": "Control Sonoff devices with eWeLink (original) firmware over LAN and/or Cloud (3,257★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-17T14:12:30Z",
+            "owner": "AlexxIT",
+            "repo": "SonoffLAN",
+            "stars": 3292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SmartIR",
+          "description": "Integrates devices using Broadlink IR (2,733★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-21T13:00:17Z",
+            "owner": "smartHomeHub",
+            "repo": "SmartIR",
+            "stars": 2810
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xiaomi Gateway 3",
+          "description": "Local control of Xiaomi Multimode Gateway and Aqara Hub E1 over LAN, no cloud round-trips (2,757★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-11T12:49:59Z",
+            "owner": "AlexxIT",
+            "repo": "XiaomiGateway3",
+            "stars": 2777
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Midea AC LAN",
+          "description": "Local control of Midea air conditioners, heat pumps, and other M-Smart devices (1,684★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:54:36Z",
+            "owner": "wuwentao",
+            "repo": "midea_ac_lan",
+            "stars": 1830
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SmartThinQ Sensors",
+          "description": "LG appliances (washers, dryers, AC, fridges) wired up via SmartThinQ with rich state and remote start (1,310★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-25T22:06:39Z",
+            "owner": "ollo69",
+            "repo": "ha-smartthinq-sensors",
+            "stars": 1320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Home Connect Alt",
+          "description": "Alternative Home Connect integration for Bosch, Siemens, NEFF, and Gaggenau ovens, dishwashers, and washing machines, with richer state than the official one (970★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-22T19:38:15Z",
+            "owner": "ekutner",
+            "repo": "home-connect-hass",
+            "stars": 990
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tapo Devices",
+          "description": "TP-Link Tapo plugs, switches, bulbs, and energy monitoring (P100, P105, P110, L510, L530, L900) over LAN (954★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T08:12:16Z",
+            "owner": "petretiandrea",
+            "repo": "home-assistant-tapo-p100",
+            "stars": 966
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Meross",
+          "description": "Control Meross plugs, switches, bulbs, garage door openers, and humidifiers via the Meross IoT cloud (848★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-22T22:10:12Z",
+            "owner": "albertogeniola",
+            "repo": "meross-homeassistant",
+            "stars": 855
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Meross LAN",
+          "description": "Local control of Meross plugs, switches, lights, and garage door openers, falling back to cloud only when needed (718★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-24T11:48:36Z",
+            "owner": "krahabb",
+            "repo": "meross_lan",
+            "stars": 734
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SamsungTV Smart",
+          "description": "Improved Samsung TV integration with SmartThings support, source switching, app launching, and per-app icons (652★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-26T17:43:14Z",
+            "owner": "ollo69",
+            "repo": "ha-samsungtv-smart",
+            "stars": 670
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HomeMatic IP Local",
+          "description": "Local control of HomeMatic and HomeMatic IP devices through OpenCCU or RaspberryMatic, no cloud round-trips (572★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T18:05:33Z",
+            "owner": "SukramJ",
+            "repo": "homematicip_local",
+            "stars": 584
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nest Protect",
+          "description": "Track Nest Protect smoke and CO alarms with battery state, recent events, and per-room safety status (468★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T08:12:34Z",
+            "owner": "iMicknl",
+            "repo": "ha-nest-protect",
+            "stars": 477
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dyson",
+          "description": "Wi-Fi connected Dyson fans, purifiers, and humidifiers, with full per-mode control over the local network (418★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-15T20:21:55Z",
+            "owner": "libdyson-wg",
+            "repo": "ha-dyson",
+            "stars": 431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Home Connect Local",
+          "description": "Talks to Bosch, Siemens, NEFF, and Gaggenau appliances directly over the local network, no cloud detour (390★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T15:23:31Z",
+            "owner": "chris-mc1",
+            "repo": "homeconnect_local_hass",
+            "stars": 421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PETLIBRO",
+          "description": "Adds PETLIBRO smart pet feeders and fountains, with feeding schedules, dispense events, and battery levels (319★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T13:48:25Z",
+            "owner": "jjjonesjr33",
+            "repo": "petlibro",
+            "stars": 351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PetKit",
+          "description": "Adds PetKit feeders, fountains, and litter boxes over the manufacturer cloud, with full state and feeding controls (340★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-16T01:09:41Z",
+            "owner": "RobertD502",
+            "repo": "home-assistant-petkit",
+            "stars": 347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hOn",
+          "description": "Pulls Haier, Candy, and Hoover appliances from the official hOn cloud, exposing every state and parameter the app shows (253★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-22T09:15:47Z",
+            "owner": "gvigroux",
+            "repo": "hon",
+            "stars": 278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Miele",
+          "description": "Pairs Miele washing machines, dryers, dishwashers, ovens, and coffee machines, with detailed program state (267★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-21T10:13:51Z",
+            "owner": "astrandb",
+            "repo": "miele",
+            "stars": 264
+          }
+        }
+      ],
+      "title": "🏷️ Vendor & brand"
+    },
+    {
+      "description": "Helpers that make automations easier to write, debug, and maintain.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Browser Mod",
+          "description": "Turn each browser into a controllable entity: pop up cards, navigate views, play sounds, or detect who is looking at the dashboard (1,748★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T18:28:00Z",
+            "owner": "thomasloven",
+            "repo": "hass-browser_mod",
+            "stars": 1790
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spook",
+          "description": "A toolbox of helpful sensors, services, and templates that surface things the UI normally hides (1,138★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-12T07:52:38Z",
+            "owner": "frenck",
+            "repo": "spook",
+            "stars": 1224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pyscript",
+          "description": "Write automations and templates in Python instead of YAML (1,159★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T17:11:17Z",
+            "owner": "custom-components",
+            "repo": "pyscript",
+            "stars": 1178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scheduler Component",
+          "description": "Build weekly schedules for any entity through a card-driven UI, no YAML required (883★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-01T07:27:54Z",
+            "owner": "nielsfaber",
+            "repo": "scheduler-component",
+            "stars": 897
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Watchman",
+          "description": "Keep track of missing entities and services in your config files (655★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-25T19:10:30Z",
+            "owner": "dummylabs",
+            "repo": "thewatchman",
+            "stars": 676
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Node-RED Companion",
+          "description": "Companion component for the node-red-contrib-home-assistant-websocket project that exposes services, sensors, and binary sensors back to your dashboards (573★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T19:35:38Z",
+            "owner": "zachowj",
+            "repo": "hass-node-red",
+            "stars": 582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Magic Areas",
+          "description": "Auto-build per-room presence, climate, and media area entities, with motion-triggered scenes and bright/dark detection (493★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T23:44:07Z",
+            "owner": "jseidl",
+            "repo": "magic-areas",
+            "stars": 509
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Auto Backup",
+          "description": "Automate backups with custom schedules, retention rules, encryption, and uploads to remote storage (462★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T04:11:12Z",
+            "owner": "jcwillox",
+            "repo": "hass-auto-backup",
+            "stars": 464
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multiscrape",
+          "description": "Scrape multiple values (HTML, XML, or JSON) from a page in one request and turn them into sensors (437★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T06:25:52Z",
+            "owner": "danieldotnl",
+            "repo": "ha-multiscrape",
+            "stars": 447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Retry Service",
+          "description": "Wraps any service call so transient failures retry automatically with exponential backoff (163★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T10:49:54Z",
+            "owner": "amitfin",
+            "repo": "retry",
+            "stars": 169
+          }
+        }
+      ],
+      "title": "🛠️ Automation tooling"
+    },
+    {
+      "description": "Local services that turn into sensors and calendars: garbage collection schedules, school holidays, traffic, weather alerts, and similar.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mail and Packages",
+          "description": "Sensors for incoming and delivered packages plus USPS Informed Delivery preview images, all from your existing email account (844★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:23:27Z",
+            "owner": "moralmunky",
+            "repo": "Home-Assistant-Mail-And-Packages",
+            "stars": 866
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smart Irrigation",
+          "description": "Calculates how long to run each irrigation zone based on evapotranspiration, recent rainfall, and weather forecasts (509★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T20:20:50Z",
+            "owner": "altmenorg",
+            "repo": "HAsmartirrigation",
+            "stars": 543
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Moonraker (Klipper)",
+          "description": "Track Klipper-based 3D printers running Moonraker (Mainsail, Fluidd) with print progress, temperature, and webcam snapshots (469★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T20:53:13Z",
+            "owner": "marcolivierarsenault",
+            "repo": "moonraker-home-assistant",
+            "stars": 485
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Irrigation Unlimited",
+          "description": "Multi-zone irrigation controller with schedules, sequences, weather adjustments, and manual run support (435★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-22T04:33:27Z",
+            "owner": "rgc99",
+            "repo": "irrigation_unlimited",
+            "stars": 452
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UK Bin Collection",
+          "description": "Council bin collection schedules across UK local authorities, exposed as next-pickup sensors per waste stream (328★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T06:04:51Z",
+            "owner": "robbrad",
+            "repo": "UKBinCollectionData",
+            "stars": 343
+          }
+        }
+      ],
+      "title": "🏘️ Civic & household"
+    },
+    {
+      "description": "Sign in to Home Assistant with single sign-on, route through a tunnel, or pull network hardware into your dashboard.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OIDC Auth",
+          "description": "Sign in with single sign-on through any OpenID Connect provider, including Authelia, Authentik, Keycloak, and Pocket ID (936★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T07:02:55Z",
+            "owner": "christiaangoossens",
+            "repo": "hass-oidc-auth",
+            "stars": 1016
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mikrotik Router",
+          "description": "Pulls Mikrotik routers and access points into your dashboard, with per-client traffic, DHCP leases, and PoE controls (453★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-28T13:50:48Z",
+            "owner": "tomaae",
+            "repo": "homeassistant-mikrotik_router",
+            "stars": 465
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TP-Link Router",
+          "description": "Manages TP-Link and Mercusys routers with sensors, reboot button, switches, and per-client device tracking (348★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T07:48:01Z",
+            "owner": "AlexandrErohin",
+            "repo": "home-assistant-tplink-router",
+            "stars": 371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenID Connect Auth",
+          "description": "Sign in through any OpenID Connect provider, including Authelia, Keycloak, and Authentik (201★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-02T14:01:50Z",
+            "owner": "cavefire",
+            "repo": "hass-openid",
+            "stars": 206
+          }
+        }
+      ],
+      "title": "🔐 Network & authentication"
+    },
+    {
+      "description": "Send Home Assistant data to external systems for long-term storage, richer dashboards, or analysis.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Monitor Docker",
+          "description": "Watch CPU, memory, network, and uptime for every Docker container on a host, including remote ones, and start or stop them from automations (401★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-13T16:16:20Z",
+            "owner": "ualex73",
+            "repo": "monitor_docker",
+            "stars": 407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TrueNAS",
+          "description": "Pull TrueNAS Scale and Core stats, datasets, virtual machines, and apps into sensors and switches (370★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T06:24:34Z",
+            "owner": "tomaae",
+            "repo": "homeassistant-truenas",
+            "stars": 383
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unraid",
+          "description": "Monitors and controls an Unraid NAS, including CPU, memory, disks, virtual machines, and Docker containers (240★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T12:44:33Z",
+            "owner": "ruaan-deysel",
+            "repo": "ha-unraid",
+            "stars": 248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elasticsearch",
+          "description": "Publishes events to Elasticsearch (165★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T19:53:08Z",
+            "owner": "legrego",
+            "repo": "homeassistant-elasticsearch",
+            "stars": 165
+          }
+        }
+      ],
+      "title": "📊 Logging & analytics"
+    },
+    {
+      "description": "Lovelace plugins that drop into your dashboard. Grouped roughly by what they do.",
+      "items": [],
+      "title": "Dashboard Cards"
+    },
+    {
+      "description": "Full card collections that change the look and feel of your dashboards. Mushroom, Bubble Card, Floorplan, and similar all-in-one toolkits.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mushroom",
+          "description": "A complete card collection with a soft, mobile-first aesthetic that you can drop into existing dashboards (5,018★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-31T10:47:14Z",
+            "owner": "piitaya",
+            "repo": "lovelace-mushroom",
+            "stars": 5107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bubble Card",
+          "description": "Minimalist card collection with a pop-up touch and rich customization (4,323★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T12:36:40Z",
+            "owner": "Clooos",
+            "repo": "Bubble-Card",
+            "stars": 4492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI Lovelace Minimalist",
+          "description": "Drop-in dashboard collection with a uniform minimalist look across all your views, including ready-made cards and a button card library (2,036★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T10:05:09Z",
+            "owner": "UI-Lovelace-Minimalist",
+            "repo": "UI",
+            "stars": 2056
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Floorplan",
+          "description": "Map entities onto an SVG of your house and animate them based on state changes (1,553★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T03:29:41Z",
+            "owner": "ExperienceLovelace",
+            "repo": "ha-floorplan",
+            "stars": 1588
+          }
+        }
+      ],
+      "title": "🧱 Dashboard frameworks"
+    },
+    {
+      "description": "Cards that change where and how other cards appear: stack, fold, show conditionally, restyle, or template.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Button card",
+          "description": "Highly customizable button for your entities (2,456★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T16:08:31Z",
+            "owner": "custom-cards",
+            "repo": "button-card",
+            "stars": 2480
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Auto-Entities Card",
+          "description": "Dynamically adds entities: 🔮 Magic (1,756★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-09T13:58:25Z",
+            "owner": "thomasloven",
+            "repo": "lovelace-auto-entities",
+            "stars": 1787
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Card Modder",
+          "description": "Style your Lovelace cards (1,722★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-21T10:55:21Z",
+            "owner": "thomasloven",
+            "repo": "lovelace-card-mod",
+            "stars": 1780
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Layout Card",
+          "description": "Get fine-grained control over how cards are placed on your dashboard, including masonry-style and grid layouts (1,246★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-09T16:15:02Z",
+            "owner": "thomasloven",
+            "repo": "lovelace-layout-card",
+            "stars": 1241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vertical Stack In Card",
+          "description": "Group multiple cards into a single sleek card with one shared border (968★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-31T13:37:03Z",
+            "owner": "ofekashery",
+            "repo": "vertical-stack-in-card",
+            "stars": 975
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fold Entity Row",
+          "description": "A foldable row that hides extra entities behind a header until clicked (705★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-06-19T10:47:35Z",
+            "owner": "thomasloven",
+            "repo": "lovelace-fold-entity-row",
+            "stars": 709
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swipe Navigation",
+          "description": "Switch between dashboard views with a swipe gesture on mobile (543★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-28T18:50:23Z",
+            "owner": "zanna-37",
+            "repo": "hass-swipe-navigation",
+            "stars": 562
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Config Template Card",
+          "description": "Allow using templates in Lovelace (552★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-22T00:28:55Z",
+            "owner": "iantrich",
+            "repo": "config-template-card",
+            "stars": 561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "State Switch",
+          "description": "Dynamically swap one card for another based on the state of an entity, the time of day, or the user viewing (463★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-07-31T08:27:39Z",
+            "owner": "thomasloven",
+            "repo": "lovelace-state-switch",
+            "stars": 473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Custom Card Features",
+          "description": "Adds buttons, dropdowns, sliders, spinboxes, selectors, and toggles you can attach to tile cards to call any service (426★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T02:43:54Z",
+            "owner": "Nerwyn",
+            "repo": "custom-card-features",
+            "stars": 439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Expander Card",
+          "description": "Expandable and collapsible card to group and hide other cards behind a header (415★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2025-04-13T10:14:24Z",
+            "owner": "Alia5",
+            "repo": "lovelace-expander-card",
+            "stars": 420
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paper Buttons Row",
+          "description": "Highly configurable button rows that can call actions, fire haptics, and restyle per state (359★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T18:12:57Z",
+            "owner": "jcwillox",
+            "repo": "lovelace-paper-buttons-row",
+            "stars": 363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Restriction Card",
+          "description": "A card to provide restrictions on Lovelace cards defined within (317★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-17T03:10:55Z",
+            "owner": "iantrich",
+            "repo": "restriction-card",
+            "stars": 319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Custom Sidebar",
+          "description": "Personalise the sidebar per user or device, hide pages, reorder them, or restyle the look (278★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T13:25:03Z",
+            "owner": "elchininet",
+            "repo": "custom-sidebar",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Streamline Card",
+          "description": "Define a card template once and reuse it across the dashboard with different entities, no copy-paste YAML (258★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-05-24T14:35:04Z",
+            "owner": "brunosabot",
+            "repo": "streamline-card",
+            "stars": 264
+          }
+        }
+      ],
+      "title": "📐 Layout helpers"
+    },
+    {
+      "description": "Visualise sensor data over time. Gauges, line graphs, bars, and Sankey diagrams.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mini Graph Card",
+          "description": "A minimalistic sensor graph card (3,830★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-06T21:49:45Z",
+            "owner": "kalkih",
+            "repo": "mini-graph-card",
+            "stars": 3874
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ApexCharts Card",
+          "description": "Advanced graphs and charts powered by ApexChartsJS with timelines, multi-axis, and event markers (1,797★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-03T00:36:26Z",
+            "owner": "RomRider",
+            "repo": "apexcharts-card",
+            "stars": 1839
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sankey Chart",
+          "description": "Sankey-style flow diagram for visualising power, water, or any other flow across your home (660★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-01T14:36:36Z",
+            "owner": "MindFreeze",
+            "repo": "ha-sankey-chart",
+            "stars": 667
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Modern Circular Gauge",
+          "description": "Modern-looking circular gauge card with smooth animations, color stops, and template support (269★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-22T16:09:04Z",
+            "owner": "selvalt7",
+            "repo": "modern-circular-gauge",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flex Table Card",
+          "description": "Highly flexible table card with arbitrary columns, regex-matched entities, and per-row styling, useful for AppDaemon and templated content (268★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-23T10:47:48Z",
+            "owner": "custom-cards",
+            "repo": "flex-table-card",
+            "stars": 276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dual Gauge Card",
+          "description": "Shows two gauges in one (220★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-23T05:25:00Z",
+            "owner": "custom-cards",
+            "repo": "dual-gauge-card",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Canvas Gauge Card",
+          "description": "Use awesome gauges from canvas-gauges.com (216★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-09-27T23:48:00Z",
+            "owner": "custom-cards",
+            "repo": "canvas-gauge-card",
+            "stars": 217
+          }
+        }
+      ],
+      "title": "📈 Charts & graphs"
+    },
+    {
+      "description": "Compact rows that pack more information into entity-card style listings.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Battery State Card",
+          "description": "List devices with their battery levels in a tidy card, sorted and color-coded (1,246★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T23:32:10Z",
+            "owner": "maxwroc",
+            "repo": "battery-state-card",
+            "stars": 1263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scheduler Card",
+          "description": "Build and edit weekly schedules for any entity right from the dashboard (1,236★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-30T04:24:16Z",
+            "owner": "nielsfaber",
+            "repo": "scheduler-card",
+            "stars": 1247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slider Entity Row",
+          "description": "Add a slider to adjust, e.g., the brightness of lights in lovelace entity cards (912★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-02T11:22:27Z",
+            "owner": "thomasloven",
+            "repo": "lovelace-slider-entity-row",
+            "stars": 918
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Timer Bar Card",
+          "description": "Progress-bar card for any timer entity, with countdown, formatted remaining time, and configurable colors (578★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-07-19T17:32:18Z",
+            "owner": "rianadon",
+            "repo": "timer-bar-card",
+            "stars": 594
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vehicle Status Card",
+          "description": "Dashboard card showing fuel or charge level, range, doors, lock state, and a customizable image of the car (262★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T23:13:57Z",
+            "owner": "ngocjohn",
+            "repo": "vehicle-status-card",
+            "stars": 288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Entity Progress Card",
+          "description": "Progress-bar card for any numeric entity, with thresholds, gradients, and templated icons (257★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T09:34:43Z",
+            "owner": "francois-le-ko4la",
+            "repo": "lovelace-entity-progress-card",
+            "stars": 269
+          }
+        }
+      ],
+      "title": "📋 Status & info rows"
+    },
+    {
+      "description": "Weather widgets with the look you actually want.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Clock Weather Card",
+          "description": "Combined date, time, and weather forecast card with an iOS-inspired layout for the days ahead (841★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T05:10:04Z",
+            "owner": "pkissling",
+            "repo": "clock-weather-card",
+            "stars": 859
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Horizon Card",
+          "description": "Visualises the position of the Sun over the horizon throughout the day, with sunrise, sunset, and twilight markers (652★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-23T14:02:00Z",
+            "owner": "rejuvenate",
+            "repo": "lovelace-horizon-card",
+            "stars": 672
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Weather Chart Card",
+          "description": "Weather card with a chart-style hourly forecast and customizable layout (435★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-13T14:07:36Z",
+            "owner": "mlamberts78",
+            "repo": "weather-chart-card",
+            "stars": 437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Weather Radar",
+          "description": "Animated rain radar card using the public RainViewer tile service, with country-level and regional zoom (384★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T20:35:38Z",
+            "owner": "jpettitt",
+            "repo": "weather-radar-card",
+            "stars": 429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hourly Weather",
+          "description": "Show today's hourly forecast as a colored horizontal bar so you can see at a glance when conditions change (393★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T16:13:15Z",
+            "owner": "decompil3d",
+            "repo": "lovelace-hourly-weather",
+            "stars": 400
+          }
+        }
+      ],
+      "title": "☀️ Weather cards"
+    },
+    {
+      "description": "Replacement thermostat cards with a different look or feel.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Simple Thermostat",
+          "description": "A simpler and more flexible thermostat card (806★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-19T15:33:03Z",
+            "owner": "nervetattoo",
+            "repo": "simple-thermostat",
+            "stars": 807
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Thermostat Card",
+          "description": "Thermostat control card that looks like a Nest Thermostat (745★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T15:28:36Z",
+            "owner": "ciotlosm",
+            "repo": "lovelace-thermostat-dark-card",
+            "stars": 743
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mini Climate",
+          "description": "Compact climate card with current temperature, target, and per-mode controls, sized for small dashboards and mobile (322★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T23:33:50Z",
+            "owner": "artem-sedykh",
+            "repo": "mini-climate-card",
+            "stars": 326
+          }
+        }
+      ],
+      "title": "🌡️ Climate cards"
+    },
+    {
+      "description": "Specialised controls for lights, color temperature, and effects.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RGB Light Card",
+          "description": "Colorful buttons to control your RGB Lights (563★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-04T09:56:18Z",
+            "owner": "bokub",
+            "repo": "rgb-light-card",
+            "stars": 571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hue-Like Light Card",
+          "description": "Light card styled and laid out like the Philips Hue app, with grouped scenes and per-bulb control (368★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-01T05:32:31Z",
+            "owner": "Gh61",
+            "repo": "lovelace-hue-like-light-card",
+            "stars": 381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Light Entity Card",
+          "description": "Compact card to control any light or switch entity with brightness, color temperature, and color picker (282★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-08T17:52:07Z",
+            "owner": "ljmerza",
+            "repo": "light-entity-card",
+            "stars": 288
+          }
+        }
+      ],
+      "title": "💡 Lighting cards"
+    },
+    {
+      "description": "Show vacuum status, room maps, and start/stop controls in your dashboard.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vacuum Map Card",
+          "description": "This card provides a user-friendly way to fully control Xiaomi (Roborock/Viomi/Dreame/Roidmi) and Neato (+ possibly other) vacuums (1,885★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-24T15:59:35Z",
+            "owner": "PiotrMachowski",
+            "repo": "lovelace-xiaomi-vacuum-map-card",
+            "stars": 1925
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vacuum Card",
+          "description": "A card for controlling a robot vacuum (1,211★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-01T03:15:58Z",
+            "owner": "denysdovhan",
+            "repo": "vacuum-card",
+            "stars": 1233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Valetudo Map",
+          "description": "Display the live map from a robot vacuum running Valetudo (cloudless firmware) directly on a dashboard (304★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-12-15T10:40:08Z",
+            "owner": "Hypfer",
+            "repo": "lovelace-valetudo-map-card",
+            "stars": 313
+          }
+        }
+      ],
+      "title": "🧹 Vacuum cards"
+    },
+    {
+      "description": "Calendar views and rolling feeds of upcoming events.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Calendar Card Pro",
+          "description": "Customizable calendar card with event grouping, location indicators, and a clean modern look (1,122★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T17:24:09Z",
+            "owner": "alexpfau",
+            "repo": "calendar-card-pro",
+            "stars": 1142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Atomic Calendar Revive",
+          "description": "Calendar card with advanced settings (629★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T09:36:45Z",
+            "owner": "totaldebug",
+            "repo": "atomic-calendar-revive",
+            "stars": 661
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Week Planner Card",
+          "description": "Responsive multi-day overview of upcoming events, alarms, and reminders (514★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-26T09:17:47Z",
+            "owner": "FamousWolf",
+            "repo": "week-planner-card",
+            "stars": 522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trash Card",
+          "description": "Show the next trash pickup type (paper, plastic, organic) based on a calendar entity, with color-coded icons (356★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-03-11T12:52:54Z",
+            "owner": "idaho",
+            "repo": "hassio-trash-card",
+            "stars": 365
+          }
+        }
+      ],
+      "title": "📅 Calendar & feed"
+    },
+    {
+      "description": "Virtual remotes for TVs, streamers, and AV gear.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HA Firemote",
+          "description": "Virtual remote for Apple TV, Fire TV, Chromecast, Homatics, Shield, onn., Roku, Xiaomi, and more (987★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-08T06:20:31Z",
+            "owner": "PRProd",
+            "repo": "HA-Firemote",
+            "stars": 1031
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Universal Remote Card",
+          "description": "Fully customizable virtual remote for any media device, supporting custom buttons and haptics (569★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-12T08:03:03Z",
+            "owner": "Nerwyn",
+            "repo": "universal-remote-card",
+            "stars": 590
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LG WebOS Remote Control",
+          "description": "Remote Control for LG TV WebOS (551★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-08T09:43:41Z",
+            "owner": "madmicio",
+            "repo": "LG-WebOS-Remote-Control",
+            "stars": 568
+          }
+        }
+      ],
+      "title": "📡 Remote control"
+    },
+    {
+      "description": "Hide the chrome, run full-screen, or turn an old tablet on the wall into a dedicated touch panel.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wall Panel",
+          "description": "Wall-panel mode and photo-screensaver for tablets mounted on the wall (842★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-26T18:02:16Z",
+            "owner": "j-a-n",
+            "repo": "lovelace-wallpanel",
+            "stars": 870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kiosk Mode",
+          "description": "Hide the header, sidebar, and overflow menu for a clean kiosk-style view (738★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T15:37:17Z",
+            "owner": "NemesisRE",
+            "repo": "kiosk-mode",
+            "stars": 773
+          }
+        }
+      ],
+      "title": "🖥️ Kiosk & wallpanel"
+    },
+    {
+      "description": "Frameworks that replace or extend the default Home Assistant dashboard with a different look and feel.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dwains Dashboard",
+          "description": "A fully auto-generating dashboard for desktop, tablet and mobile (2,048★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-06T15:28:26Z",
+            "owner": "dwainscheeren",
+            "repo": "dwains-lovelace-dashboard",
+            "stars": 2061
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mushroom Strategy",
+          "description": "A strategy that automatically generates a dashboard using Mushroom cards (648★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T05:54:27Z",
+            "owner": "DigiLive",
+            "repo": "mushroom-strategy",
+            "stars": 664
+          }
+        }
+      ],
+      "title": "Dashboards"
+    },
+    {
+      "description": "It is all about the looks, apply some style.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Frosted Glass",
+          "description": "Modern frosted-glass dark and light themes with translucent cards (907★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-17T18:14:47Z",
+            "owner": "wessamlauf",
+            "repo": "homeassistant-frosted-glass-themes",
+            "stars": 974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iOS Themes",
+          "description": "Themes inspired by iOS dark and light modes (868★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jinja",
+            "last_commit": "2026-07-21T05:47:07Z",
+            "owner": "basnijholt",
+            "repo": "lovelace-ios-themes",
+            "stars": 878
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LCARS",
+          "description": "Star Trek LCARS-inspired theme for the bridge feel (534★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:50:35Z",
+            "owner": "th3jesta",
+            "repo": "ha-lcars",
+            "stars": 561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Catppuccin",
+          "description": "Soothing pastel theme matching the popular Catppuccin palette across editors and apps (427★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-07T22:41:56Z",
+            "owner": "catppuccin",
+            "repo": "home-assistant",
+            "stars": 489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Material You",
+          "description": "Material Design 3 theme that adapts to your accent color (452★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-06-22T03:07:29Z",
+            "owner": "Nerwyn",
+            "repo": "material-you-theme",
+            "stars": 465
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graphite",
+          "description": "Calm and clean theme with a focused, low-contrast feel (442★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-08T19:35:46Z",
+            "owner": "TilmanGriesel",
+            "repo": "graphite",
+            "stars": 452
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "visionOS",
+          "description": "Theme inspired by Apple's visionOS (313★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-25T17:15:19Z",
+            "owner": "Nezz",
+            "repo": "homeassistant-visionos-theme",
+            "stars": 343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mushroom Themes",
+          "description": "Additional themes designed to pair with the Mushroom card collection (304★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-26T14:14:39Z",
+            "owner": "piitaya",
+            "repo": "lovelace-mushroom-themes",
+            "stars": 306
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Synthwave",
+          "description": "A theme influenced by the cover artwork of modern Synthwave bands (200★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-08T07:08:53Z",
+            "owner": "bbbenji",
+            "repo": "synthwave-hass",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slate",
+          "description": "A dark theme close to the vanilla look (137★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-02T19:42:45Z",
+            "owner": "seangreen2",
+            "repo": "slate_theme",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nordic",
+          "description": "Light and dark themes in a Nordic palette, with several blue-tinted variants (43★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-04T15:11:53Z",
+            "owner": "coltondick",
+            "repo": "nordic-theme-main",
+            "stars": 43
+          }
+        }
+      ],
+      "title": "Themes"
+    },
+    {
+      "description": "Custom icon sets you install through HACS to replace or extend the default icons across your dashboards.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hass Hue Icons",
+          "description": "Additional Philips Hue bulbs and fixtures icons (377★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-14T07:09:39Z",
+            "owner": "arallsopp",
+            "repo": "hass-hue-icons",
+            "stars": 383
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Font Awesome Icons",
+          "description": "Use the free icons from Font Awesome in your frontend (339★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-29T13:29:46Z",
+            "owner": "thomasloven",
+            "repo": "hass-fontawesome",
+            "stars": 344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simpleicons",
+          "description": "Use the free icons from the simpleicons set (167★).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-01-26T08:58:54Z",
+            "owner": "vigonotion",
+            "repo": "hass-simpleicons",
+            "stars": 167
+          }
+        }
+      ],
+      "title": "Icon packs"
+    },
+    {
+      "description": "Need a database, a reverse proxy, an MQTT broker (the messaging service many smart-home devices use), or another tool running alongside Home Assistant? Apps, formerly called Add-ons, let you install them straight into Home Assistant OS. No Docker, no separate server, no command line required.",
+      "items": [],
+      "title": "Apps"
+    },
+    {
+      "description": "Created and maintained by the Home Assistant team.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DuckDNS",
+          "description": "Updates your Duck DNS IP address and generates SSL using Let's Encrypt.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-11T14:34:20Z",
+            "owner": "home-assistant",
+            "repo": "addons",
+            "stars": 2207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "File editor",
+          "description": "Browser-based configuration file editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-11T14:34:20Z",
+            "owner": "home-assistant",
+            "repo": "addons",
+            "stars": 2207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mosquitto",
+          "description": "Fast and reliable MQTT broker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-11T14:34:20Z",
+            "owner": "home-assistant",
+            "repo": "addons",
+            "stars": 2207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Terminal & SSH",
+          "description": "Allows logging in remotely using a web terminal or SSH client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-11T14:34:20Z",
+            "owner": "home-assistant",
+            "repo": "addons",
+            "stars": 2207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Samba",
+          "description": "Access your configuration files using Windows network shares.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-11T14:34:20Z",
+            "owner": "home-assistant",
+            "repo": "addons",
+            "stars": 2207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NGINX SSL proxy",
+          "description": "Reverse proxy with SSL termination.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-11T14:34:20Z",
+            "owner": "home-assistant",
+            "repo": "addons",
+            "stars": 2207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deCONZ",
+          "description": "Control a ZigBee network using ConBee or RaspBee hardware by Dresden Elektronik.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-11T14:34:20Z",
+            "owner": "home-assistant",
+            "repo": "addons",
+            "stars": 2207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Let's Encrypt",
+          "description": "Get a free SSL certificate from Let's Encrypt; an open and automated certificate authority (CA).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-11T14:34:20Z",
+            "owner": "home-assistant",
+            "repo": "addons",
+            "stars": 2207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MariaDB",
+          "description": "An open source relational database (fork of MySQL).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-11T14:34:20Z",
+            "owner": "home-assistant",
+            "repo": "addons",
+            "stars": 2207
+          }
+        }
+      ],
+      "title": "🛡️ Official Apps"
+    },
+    {
+      "description": "Anyone can create an app, the following are created by the community.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "zigbee2mqtt",
+          "description": "Zigbee to MQTT bridge, get rid of your proprietary Zigbee bridges (15,213★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T19:53:51Z",
+            "owner": "Koenkk",
+            "repo": "zigbee2mqtt",
+            "stars": 15496
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hass.io Google Drive Backup",
+          "description": "A complete and easy-to-configure solution for backing up to Google Drive (3,553★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-13T01:52:56Z",
+            "owner": "sabeechen",
+            "repo": "hassio-google-drive-backup",
+            "stars": 3557
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AppDaemon",
+          "description": "A loosely coupled, multi-threaded, sandboxed Python execution environment for writing automation apps (961★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T07:53:28Z",
+            "owner": "AppDaemon",
+            "repo": "appdaemon",
+            "stars": 964
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Node-RED",
+          "description": "Flow-based programming for the Internet of Things (639★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-06T17:40:46Z",
+            "owner": "hassio-addons",
+            "repo": "app-node-red",
+            "stars": 645
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AdGuard Home",
+          "description": "A network-wide ad-and-tracker blocking DNS server with parental control (520★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jinja",
+            "last_commit": "2026-07-31T07:55:15Z",
+            "owner": "hassio-addons",
+            "repo": "app-adguard-home",
+            "stars": 528
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SSH & Web Terminal",
+          "description": "SSH and Web-based terminal with tons of pre-loaded useful tools (501★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jinja",
+            "last_commit": "2026-08-12T15:37:56Z",
+            "owner": "hassio-addons",
+            "repo": "app-ssh",
+            "stars": 523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grocy",
+          "description": "ERP beyond your fridge! A groceries & household management solution for your home (433★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2026-08-12T09:35:27Z",
+            "owner": "hassio-addons",
+            "repo": "app-grocy",
+            "stars": 448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aircast",
+          "description": "AirPlay capabilities for your Chromecast players (397★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jinja",
+            "last_commit": "2026-08-08T13:37:21Z",
+            "owner": "hassio-addons",
+            "repo": "app-aircast",
+            "stars": 402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UniFi Controller",
+          "description": "The UniFi Controller allows you to manage your UniFi network using a web browser (374★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2026-07-20T06:02:21Z",
+            "owner": "hassio-addons",
+            "repo": "app-unifi",
+            "stars": 377
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "motionEye",
+          "description": "Simple, elegant and feature-rich CCTV/NVR for your cameras (332★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jinja",
+            "last_commit": "2026-08-12T22:41:19Z",
+            "owner": "hassio-addons",
+            "repo": "addon-motioneye",
+            "stars": 333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grafana",
+          "description": "Open platform for beautiful analytics and monitoring (279★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2026-08-12T21:51:10Z",
+            "owner": "hassio-addons",
+            "repo": "addon-grafana",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spotify Connect",
+          "description": "Stream music from Spotify directly to your Home Assistant device (250★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jinja",
+            "last_commit": "2026-08-11T01:44:07Z",
+            "owner": "hassio-addons",
+            "repo": "app-spotify-connect",
+            "stars": 257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TasmoAdmin",
+          "description": "Centrally manage all your Sonoff-Tasmota devices (256★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jinja",
+            "last_commit": "2026-08-10T15:14:10Z",
+            "owner": "hassio-addons",
+            "repo": "addon-tasmoadmin",
+            "stars": 257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InfluxDB",
+          "description": "Scalable datastore for metrics, events, and real-time analytics (196★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-31T21:20:25Z",
+            "owner": "hassio-addons",
+            "repo": "addon-influxdb",
+            "stars": 198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plex Media Server",
+          "description": "Your recorded media beautifully organized and ready to stream (190★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jinja",
+            "last_commit": "2026-08-04T17:13:14Z",
+            "owner": "hassio-addons",
+            "repo": "app-plex",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Glances",
+          "description": "A cross-platform system monitoring tool written in Python (186★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-08T09:55:11Z",
+            "owner": "hassio-addons",
+            "repo": "app-glances",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Traccar",
+          "description": "Modern GPS tracking platform (158★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T02:36:56Z",
+            "owner": "hassio-addons",
+            "repo": "addon-traccar",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AirSonos",
+          "description": "AirPlay capabilities for your Sonos players (121★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jinja",
+            "last_commit": "2026-08-08T12:29:51Z",
+            "owner": "hassio-addons",
+            "repo": "app-airsonos",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CrowdSec",
+          "description": "A next-gen collaborative IPS/IDS to protect you from intrusion (94★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2026-05-13T08:07:34Z",
+            "owner": "crowdsecurity",
+            "repo": "home-assistant-addons",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Log Viewer",
+          "description": "Browser-based live log viewing utility (94★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jinja",
+            "last_commit": "2026-08-12T21:51:45Z",
+            "owner": "hassio-addons",
+            "repo": "addon-log-viewer",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JupyterLab",
+          "description": "Create documents containing live code, equations, visualizations, and explanatory text (68★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2026-08-02T05:12:58Z",
+            "owner": "hassio-addons",
+            "repo": "addon-jupyterlab",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tor",
+          "description": "Protect your privacy and access your instance via Tor (62★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jinja",
+            "last_commit": "2026-08-13T03:46:23Z",
+            "owner": "hassio-addons",
+            "repo": "app-tor",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tautulli",
+          "description": "Monitor and get statistics from your Plex server (46★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jinja",
+            "last_commit": "2026-08-08T21:11:29Z",
+            "owner": "hassio-addons",
+            "repo": "addon-tautulli",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C-Gate Web Bridge",
+          "description": "Bridge Clipsal C-Bus lighting and automation systems to Home Assistant via MQTT with auto-discovery (4★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T22:34:44Z",
+            "owner": "dougrathbone",
+            "repo": "cgateweb-homeassistant",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "📦 Third Party Apps"
+    },
+    {
+      "description": "Some of the best smart-home gadgets do not exist as products you can buy, but other people have figured out how to build them. The projects below cover everything from soldering your own multi-sensor to repurposing a discontinued device. Most are weekend projects with parts that cost less than a coffee run.",
+      "items": [],
+      "title": "DIY"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tasmota",
+          "description": "Firmware for ESP8266 boards and devices (24,475★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T15:02:23Z",
+            "owner": "arendst",
+            "repo": "Tasmota",
+            "stars": 24688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonoff NSPanel",
+          "description": "Custom firmware for Sonoff NSPanel touchscreens with a Lovelace-style UI (988★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-06T18:26:14Z",
+            "owner": "joBr99",
+            "repo": "nspanel-lovelace-ui",
+            "stars": 993
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CODESYS V3 Home Automation",
+          "description": "PLC home-automation software that communicates over MQTT for wired automation setups (144★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:15:27Z",
+            "owner": "MichielVanwelsenaere",
+            "repo": "HomeAutomation.CoDeSys3",
+            "stars": 145
+          }
+        }
+      ],
+      "title": "🧩 Standalone projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenMQTTGateway",
+          "description": "A flexible MQTT gateway for IR, RF, BLE, MiFlora, SMS, and many sensors (4,023★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T11:33:26Z",
+            "owner": "1technophile",
+            "repo": "OpenMQTTGateway",
+            "stars": 4074
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "esp8266 Milight Hub",
+          "description": "Alternative hub for Milight/LimitlessLED devices that uses MQTT (1,040★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-02-11T04:37:17Z",
+            "owner": "sidoh",
+            "repo": "esp8266_milight_hub",
+            "stars": 1044
+          }
+        }
+      ],
+      "title": "🌉 DIY Gateways"
+    },
+    {
+      "description": "Helpers, daemons, and developer tools that sit alongside Home Assistant rather than inside it. Useful for editing your config, debugging your data, sending device data over MQTT, or wiring HA into a wider workflow.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Monitor",
+          "description": "Distributed advertisement-based BTLE presence detection reported via MQTT (2,104★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-07-31T17:50:15Z",
+            "owner": "andrewjfreyer",
+            "repo": "monitor",
+            "stars": 2110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Home Assistant Taskbar Menu",
+          "description": "A client for Windows that can display Lovelace views, control entities and show persistent notifications (342★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-04-05T00:26:58Z",
+            "owner": "PiotrMachowski",
+            "repo": "Home-Assistant-Taskbar-Menu",
+            "stars": 344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HASS Configurator",
+          "description": "Browser-based configuration file editor (334★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-07T20:46:32Z",
+            "owner": "danielperna84",
+            "repo": "hass-configurator",
+            "stars": 335
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HA-Dockermon",
+          "description": "A Node.js service for RESTful switches to control Docker containers (291★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-14T12:24:40Z",
+            "owner": "philhawthorne",
+            "repo": "ha-dockermon",
+            "stars": 292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jinja Scripts for Curious Minds",
+          "description": "Bunch of Jinja2 scripts helping you to understand it better.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-02T08:39:16Z",
+            "owner": "skalavala",
+            "repo": "mysmarthome",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HASS-data-detective",
+          "description": "Explore and analyse your database data (204★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-03T15:31:54Z",
+            "owner": "robmarkcole",
+            "repo": "HASS-data-detective",
+            "stars": 204
+          }
+        }
+      ],
+      "title": "Tools & Utilities"
+    },
+    {
+      "description": "Home Assistant has a thriving community of bloggers, YouTubers, podcasters, and people who love sharing what they have built. The folks below are some of the regular voices worth following, especially when something new ships and you want a hands-on take before deciding whether to dig in yourself.",
+      "items": [],
+      "title": "Online Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "✍️ Blogs"
+    },
+    {
+      "description": "Sit back, relax, watch, and learn.",
+      "items": [],
+      "title": "📺 YouTube Channels"
+    },
+    {
+      "description": "Accounts worth following for news, tips, and inspiration, across every network where the community is active.",
+      "items": [],
+      "title": "📱 Social"
+    },
+    {
+      "description": "Home Assistant is not the only home-automation platform out there. If you want to compare, or if you have specific needs Home Assistant does not cover, the projects below are the most active alternatives. Some are commercial, some are open source, and a few solve very different problems.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Homebridge",
+          "description": "Lightweight Node.js server that bridges non-HomeKit devices into Apple Home, with a large plugin ecosystem (25,384★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T21:02:19Z",
+            "owner": "homebridge",
+            "repo": "homebridge",
+            "stars": 25443
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Node-RED",
+          "description": "Flow-based visual programming tool for wiring together devices, APIs, and services, backed by the OpenJS Foundation (23,277★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-01T07:52:46Z",
+            "owner": "node-red",
+            "repo": "node-red",
+            "stars": 23521
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Domoticz",
+          "description": "A lightweight Home Automation System (3,773★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T06:58:28Z",
+            "owner": "domoticz",
+            "repo": "domoticz",
+            "stars": 3791
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gladys",
+          "description": "Open source program which runs on your Raspberry Pi (3,066★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T13:55:02Z",
+            "owner": "GladysAssistant",
+            "repo": "Gladys",
+            "stars": 3100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ioBroker",
+          "description": "Integration platform for IoT with hundreds of adapters and strong European protocol support for KNX and HomeMatic (1,371★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-01T02:06:42Z",
+            "owner": "ioBroker",
+            "repo": "ioBroker",
+            "stars": 1373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jeedom",
+          "description": "French-origin, cloudless platform with a plugin marketplace, running on any Linux system (414★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-13T00:27:10Z",
+            "owner": "jeedom",
+            "repo": "core",
+            "stars": 414
+          }
+        }
+      ],
+      "title": "Alternative Home Automation Software"
+    },
+    {
+      "description": "Like this list, but for adjacent topics? The lists below cover broader smart-home categories, specific protocols, and self-hosted software in general. They are good places to look when something does not fit Home Assistant directly but might solve part of your puzzle.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-selfhosted",
+          "description": "Curated list of awesome self hosted software (298,647★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T18:50:03Z",
+            "owner": "awesome-selfhosted",
+            "repo": "awesome-selfhosted",
+            "stars": 312282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-iot",
+          "description": "Curated list of awesome Internet of Things projects and resources (3,948★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-10T11:02:29Z",
+            "owner": "HQarroum",
+            "repo": "awesome-iot",
+            "stars": 4457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-mqtt",
+          "description": "Curated list of MQTT related stuff (2,350★).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-10T10:51:48Z",
+            "owner": "awesome-mqtt",
+            "repo": "awesome-mqtt",
+            "stars": 2383
+          }
+        }
+      ],
+      "title": "Other Awesome Lists"
+    },
+    {
+      "description": "This awesome list is an active open-source project and is always open to people who want to contribute to it. We have set up a separate document containing our Contribution Guidelines.\nThe original setup of this awesome list is by Franck Nijhof.\nFor a full list of all authors and contributors, check the contributor's page.\nThank you for being involved! 😍",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "Awesome Home Assistant is an independent, community-curated index. It is not created, endorsed, sponsored by, or affiliated with Home Assistant or the Open Home Foundation. \"Home Assistant\" and the Home Assistant logo are trademarks of the Open Home Foundation.\nAll other product names, logos, brands, trademarks, and registered trademarks referenced in this list are the property of their respective owners. References to specific manufacturers, products, integrations, add-ons, services, and community projects are for identification purposes only and do not imply endorsement by their owners.\nThe contents of this list are licensed under Creative Commons Attribution 4.0 International (CC-BY-4.0). See LICENSE.md for the full text.",
+      "items": [],
+      "title": "Trademark Legal Notice"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:58:31.774Z",
+    "original_repository": "frenck/awesome-home-assistant",
+    "original_repository_sha": "1d623b2a1e11afc81718ae11d28db88e2e91c521",
+    "enhanced_repository": "enhansome/enhansome-home-assistant",
+    "enhanced_repository_description": null,
+    "title": "Awesome Home Assistant with stars"
+  }
+}
