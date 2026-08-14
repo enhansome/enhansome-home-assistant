@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T23:45:06Z",
+            "last_commit": "2026-08-14T02:59:51Z",
             "owner": "blakeblackshear",
             "repo": "frigate",
-            "stars": 35051
+            "stars": 35076
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T19:53:51Z",
+            "last_commit": "2026-08-13T19:21:34Z",
             "owner": "Koenkk",
             "repo": "zigbee2mqtt",
-            "stars": 15496
+            "stars": 15498
           }
         }
       ],
@@ -50,7 +50,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T17:59:16Z",
+            "last_commit": "2026-08-13T21:00:54Z",
             "owner": "CCOSTAN",
             "repo": "Home-AssistantConfig",
             "stars": 5259
@@ -162,7 +162,7 @@
             "last_commit": "2026-08-05T12:43:58Z",
             "owner": "valentinfrlch",
             "repo": "ha-llmvision",
-            "stars": 1422
+            "stars": 1423
           }
         },
         {
@@ -176,7 +176,7 @@
             "last_commit": "2026-07-11T09:59:19Z",
             "owner": "ITSpecialist111",
             "repo": "ai_automation_suggester",
-            "stars": 763
+            "stars": 764
           }
         }
       ],
@@ -286,7 +286,7 @@
             "last_commit": "2026-03-18T20:52:21Z",
             "owner": "Alexwijn",
             "repo": "SAT",
-            "stars": 246
+            "stars": 247
           }
         },
         {
@@ -297,7 +297,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-05T18:52:14Z",
+            "last_commit": "2026-08-13T12:41:51Z",
             "owner": "swingerman",
             "repo": "ha-dual-smart-thermostat",
             "stars": 230
@@ -317,10 +317,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T06:42:31Z",
+            "last_commit": "2026-08-14T06:22:05Z",
             "owner": "bramstroker",
             "repo": "homeassistant-powercalc",
-            "stars": 1556
+            "stars": 1557
           }
         },
         {
@@ -334,7 +334,7 @@
             "last_commit": "2026-08-10T11:28:24Z",
             "owner": "thomluther",
             "repo": "ha-anker-solix",
-            "stars": 1057
+            "stars": 1056
           }
         },
         {
@@ -345,10 +345,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-03T10:32:07Z",
+            "last_commit": "2026-08-13T16:02:28Z",
             "owner": "BottlecapDave",
             "repo": "HomeAssistant-OctopusEnergy",
-            "stars": 976
+            "stars": 977
           }
         },
         {
@@ -404,7 +404,7 @@
             "last_commit": "2026-08-10T09:05:47Z",
             "owner": "BJReplay",
             "repo": "ha-solcast-solar",
-            "stars": 437
+            "stars": 438
           }
         },
         {
@@ -415,7 +415,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T20:39:01Z",
+            "last_commit": "2026-08-14T05:54:30Z",
             "owner": "lbbrhzn",
             "repo": "ocpp",
             "stars": 388
@@ -432,7 +432,7 @@
             "last_commit": "2026-08-10T16:03:24Z",
             "owner": "nathanmarlor",
             "repo": "foxess_modbus",
-            "stars": 326
+            "stars": 327
           }
         },
         {
@@ -474,7 +474,7 @@
             "last_commit": "2026-06-24T15:23:06Z",
             "owner": "mampfes",
             "repo": "ha_epex_spot",
-            "stars": 318
+            "stars": 319
           }
         },
         {
@@ -485,7 +485,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T22:36:58Z",
+            "last_commit": "2026-08-13T16:16:27Z",
             "owner": "WillCodeForCats",
             "repo": "solaredge-modbus-multi",
             "stars": 309
@@ -516,7 +516,7 @@
             "last_commit": "2026-06-22T06:04:16Z",
             "owner": "JaccoR",
             "repo": "hass-entso-e",
-            "stars": 275
+            "stars": 276
           }
         },
         {
@@ -578,7 +578,7 @@
             "last_commit": "2025-11-26T10:15:48Z",
             "owner": "AlexxIT",
             "repo": "WebRTC",
-            "stars": 2162
+            "stars": 2163
           }
         },
         {
@@ -620,7 +620,7 @@
             "last_commit": "2026-07-16T15:03:17Z",
             "owner": "blakeblackshear",
             "repo": "frigate-hass-integration",
-            "stars": 1229
+            "stars": 1231
           }
         },
         {
@@ -758,7 +758,7 @@
             "last_commit": "2026-08-02T07:37:39Z",
             "owner": "msp1974",
             "repo": "ViewAssist_Companion_App",
-            "stars": 453
+            "stars": 455
           }
         }
       ],
@@ -775,10 +775,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T10:09:59Z",
+            "last_commit": "2026-08-13T10:10:56Z",
             "owner": "Hyundai-Kia-Connect",
             "repo": "kia_uvo",
-            "stars": 919
+            "stars": 920
           }
         },
         {
@@ -848,7 +848,7 @@
             "last_commit": "2026-07-30T20:22:30Z",
             "owner": "jonasbkarlsson",
             "repo": "ev_smart_charging",
-            "stars": 318
+            "stars": 319
           }
         },
         {
@@ -938,7 +938,7 @@
             "last_commit": "2026-08-12T15:22:11Z",
             "owner": "AlexandrErohin",
             "repo": "home-assistant-flightradar24",
-            "stars": 517
+            "stars": 520
           }
         },
         {
@@ -1017,10 +1017,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T06:34:09Z",
+            "last_commit": "2026-08-14T06:32:57Z",
             "owner": "agittins",
             "repo": "bermuda",
-            "stars": 1948
+            "stars": 1952
           }
         },
         {
@@ -1048,7 +1048,7 @@
             "last_commit": "2026-08-13T05:48:58Z",
             "owner": "patman15",
             "repo": "BMS_BLE-HA",
-            "stars": 353
+            "stars": 354
           }
         }
       ],
@@ -1068,7 +1068,7 @@
             "last_commit": "2026-07-31T08:37:00Z",
             "owner": "al-one",
             "repo": "hass-xiaomi-miot",
-            "stars": 6072
+            "stars": 6076
           }
         },
         {
@@ -1082,7 +1082,7 @@
             "last_commit": "2026-01-29T11:04:59Z",
             "owner": "rospogrigio",
             "repo": "localtuya",
-            "stars": 3928
+            "stars": 3935
           }
         },
         {
@@ -1110,7 +1110,7 @@
             "last_commit": "2025-07-21T13:00:17Z",
             "owner": "smartHomeHub",
             "repo": "SmartIR",
-            "stars": 2811
+            "stars": 2812
           }
         },
         {
@@ -1121,7 +1121,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-11T12:49:59Z",
+            "last_commit": "2026-08-13T12:35:02Z",
             "owner": "AlexxIT",
             "repo": "XiaomiGateway3",
             "stars": 2777
@@ -1135,10 +1135,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T16:54:36Z",
+            "last_commit": "2026-08-14T05:23:41Z",
             "owner": "wuwentao",
             "repo": "midea_ac_lan",
-            "stars": 1835
+            "stars": 1837
           }
         },
         {
@@ -1278,7 +1278,7 @@
             "last_commit": "2026-08-10T15:23:31Z",
             "owner": "chris-mc1",
             "repo": "homeconnect_local_hass",
-            "stars": 421
+            "stars": 426
           }
         },
         {
@@ -1292,7 +1292,7 @@
             "last_commit": "2026-06-02T13:48:25Z",
             "owner": "jjjonesjr33",
             "repo": "petlibro",
-            "stars": 351
+            "stars": 352
           }
         },
         {
@@ -1351,7 +1351,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T18:28:00Z",
+            "last_commit": "2026-08-13T09:12:55Z",
             "owner": "thomasloven",
             "repo": "hass-browser_mod",
             "stars": 1790
@@ -1410,7 +1410,7 @@
             "last_commit": "2026-03-25T19:10:30Z",
             "owner": "dummylabs",
             "repo": "thewatchman",
-            "stars": 676
+            "stars": 677
           }
         },
         {
@@ -1463,7 +1463,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T06:25:52Z",
+            "last_commit": "2026-08-13T17:31:43Z",
             "owner": "danieldotnl",
             "repo": "ha-multiscrape",
             "stars": 447
@@ -1497,10 +1497,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T01:23:27Z",
+            "last_commit": "2026-08-13T20:31:36Z",
             "owner": "moralmunky",
             "repo": "Home-Assistant-Mail-And-Packages",
-            "stars": 866
+            "stars": 865
           }
         },
         {
@@ -1514,7 +1514,7 @@
             "last_commit": "2026-08-11T20:20:50Z",
             "owner": "altmenorg",
             "repo": "HAsmartirrigation",
-            "stars": 543
+            "stars": 544
           }
         },
         {
@@ -1528,7 +1528,7 @@
             "last_commit": "2026-08-10T20:53:13Z",
             "owner": "marcolivierarsenault",
             "repo": "moonraker-home-assistant",
-            "stars": 485
+            "stars": 486
           }
         },
         {
@@ -1576,7 +1576,7 @@
             "last_commit": "2026-08-10T07:02:55Z",
             "owner": "christiaangoossens",
             "repo": "hass-oidc-auth",
-            "stars": 1016
+            "stars": 1018
           }
         },
         {
@@ -1601,7 +1601,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T06:40:43Z",
+            "last_commit": "2026-08-13T06:53:35Z",
             "owner": "AlexandrErohin",
             "repo": "home-assistant-tplink-router",
             "stars": 371
@@ -1705,7 +1705,7 @@
             "last_commit": "2026-07-31T10:47:14Z",
             "owner": "piitaya",
             "repo": "lovelace-mushroom",
-            "stars": 5107
+            "stars": 5110
           }
         },
         {
@@ -1719,7 +1719,7 @@
             "last_commit": "2026-08-09T12:36:40Z",
             "owner": "Clooos",
             "repo": "Bubble-Card",
-            "stars": 4492
+            "stars": 4495
           }
         },
         {
@@ -1767,7 +1767,7 @@
             "last_commit": "2026-08-09T16:08:31Z",
             "owner": "custom-cards",
             "repo": "button-card",
-            "stars": 2480
+            "stars": 2481
           }
         },
         {
@@ -1781,7 +1781,7 @@
             "last_commit": "2026-05-09T13:58:25Z",
             "owner": "thomasloven",
             "repo": "lovelace-auto-entities",
-            "stars": 1787
+            "stars": 1788
           }
         },
         {
@@ -1795,7 +1795,7 @@
             "last_commit": "2026-07-21T10:55:21Z",
             "owner": "thomasloven",
             "repo": "lovelace-card-mod",
-            "stars": 1780
+            "stars": 1782
           }
         },
         {
@@ -2129,7 +2129,7 @@
             "last_commit": "2025-07-19T17:32:18Z",
             "owner": "rianadon",
             "repo": "timer-bar-card",
-            "stars": 594
+            "stars": 597
           }
         },
         {
@@ -2154,7 +2154,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T09:34:43Z",
+            "last_commit": "2026-08-13T21:43:26Z",
             "owner": "francois-le-ko4la",
             "repo": "lovelace-entity-progress-card",
             "stars": 269
@@ -2219,7 +2219,7 @@
             "last_commit": "2026-08-10T20:35:38Z",
             "owner": "jpettitt",
             "repo": "weather-radar-card",
-            "stars": 429
+            "stars": 431
           }
         },
         {
@@ -2233,7 +2233,7 @@
             "last_commit": "2026-08-10T16:13:15Z",
             "owner": "decompil3d",
             "repo": "lovelace-hourly-weather",
-            "stars": 400
+            "stars": 401
           }
         }
       ],
@@ -2363,7 +2363,7 @@
             "last_commit": "2026-08-01T03:15:58Z",
             "owner": "denysdovhan",
             "repo": "vacuum-card",
-            "stars": 1233
+            "stars": 1235
           }
         },
         {
@@ -2394,7 +2394,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T17:24:09Z",
+            "last_commit": "2026-08-14T00:36:07Z",
             "owner": "alexpfau",
             "repo": "calendar-card-pro",
             "stars": 1142
@@ -2411,7 +2411,7 @@
             "last_commit": "2026-08-11T09:36:45Z",
             "owner": "totaldebug",
             "repo": "atomic-calendar-revive",
-            "stars": 661
+            "stars": 662
           }
         },
         {
@@ -2459,7 +2459,7 @@
             "last_commit": "2026-03-08T06:20:31Z",
             "owner": "PRProd",
             "repo": "HA-Firemote",
-            "stars": 1031
+            "stars": 1035
           }
         },
         {
@@ -2487,7 +2487,7 @@
             "last_commit": "2026-05-08T09:43:41Z",
             "owner": "madmicio",
             "repo": "LG-WebOS-Remote-Control",
-            "stars": 568
+            "stars": 569
           }
         }
       ],
@@ -2507,7 +2507,7 @@
             "last_commit": "2026-07-26T18:02:16Z",
             "owner": "j-a-n",
             "repo": "lovelace-wallpanel",
-            "stars": 870
+            "stars": 872
           }
         },
         {
@@ -2521,7 +2521,7 @@
             "last_commit": "2026-08-09T15:37:17Z",
             "owner": "NemesisRE",
             "repo": "kiosk-mode",
-            "stars": 773
+            "stars": 776
           }
         }
       ],
@@ -2541,7 +2541,7 @@
             "last_commit": "2026-08-06T15:28:26Z",
             "owner": "dwainscheeren",
             "repo": "dwains-lovelace-dashboard",
-            "stars": 2061
+            "stars": 2062
           }
         },
         {
@@ -2552,7 +2552,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-07T05:54:27Z",
+            "last_commit": "2026-08-14T04:09:21Z",
             "owner": "DigiLive",
             "repo": "mushroom-strategy",
             "stars": 664
@@ -2575,7 +2575,7 @@
             "last_commit": "2026-03-17T18:14:47Z",
             "owner": "wessamlauf",
             "repo": "homeassistant-frosted-glass-themes",
-            "stars": 974
+            "stars": 976
           }
         },
         {
@@ -2600,7 +2600,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T21:50:35Z",
+            "last_commit": "2026-08-13T21:50:18Z",
             "owner": "th3jesta",
             "repo": "ha-lcars",
             "stars": 561
@@ -2659,7 +2659,7 @@
             "last_commit": "2026-07-25T17:15:19Z",
             "owner": "Nezz",
             "repo": "homeassistant-visionos-theme",
-            "stars": 343
+            "stars": 344
           }
         },
         {
@@ -2788,7 +2788,7 @@
             "last_commit": "2026-08-11T14:34:20Z",
             "owner": "home-assistant",
             "repo": "addons",
-            "stars": 2207
+            "stars": 2208
           }
         },
         {
@@ -2802,7 +2802,7 @@
             "last_commit": "2026-08-11T14:34:20Z",
             "owner": "home-assistant",
             "repo": "addons",
-            "stars": 2207
+            "stars": 2208
           }
         },
         {
@@ -2816,7 +2816,7 @@
             "last_commit": "2026-08-11T14:34:20Z",
             "owner": "home-assistant",
             "repo": "addons",
-            "stars": 2207
+            "stars": 2208
           }
         },
         {
@@ -2830,7 +2830,7 @@
             "last_commit": "2026-08-11T14:34:20Z",
             "owner": "home-assistant",
             "repo": "addons",
-            "stars": 2207
+            "stars": 2208
           }
         },
         {
@@ -2844,7 +2844,7 @@
             "last_commit": "2026-08-11T14:34:20Z",
             "owner": "home-assistant",
             "repo": "addons",
-            "stars": 2207
+            "stars": 2208
           }
         },
         {
@@ -2858,7 +2858,7 @@
             "last_commit": "2026-08-11T14:34:20Z",
             "owner": "home-assistant",
             "repo": "addons",
-            "stars": 2207
+            "stars": 2208
           }
         },
         {
@@ -2872,7 +2872,7 @@
             "last_commit": "2026-08-11T14:34:20Z",
             "owner": "home-assistant",
             "repo": "addons",
-            "stars": 2207
+            "stars": 2208
           }
         },
         {
@@ -2886,7 +2886,7 @@
             "last_commit": "2026-08-11T14:34:20Z",
             "owner": "home-assistant",
             "repo": "addons",
-            "stars": 2207
+            "stars": 2208
           }
         },
         {
@@ -2900,7 +2900,7 @@
             "last_commit": "2026-08-11T14:34:20Z",
             "owner": "home-assistant",
             "repo": "addons",
-            "stars": 2207
+            "stars": 2208
           }
         }
       ],
@@ -2917,10 +2917,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T19:53:51Z",
+            "last_commit": "2026-08-13T19:21:34Z",
             "owner": "Koenkk",
             "repo": "zigbee2mqtt",
-            "stars": 15496
+            "stars": 15498
           }
         },
         {
@@ -2934,7 +2934,7 @@
             "last_commit": "2026-07-13T01:52:56Z",
             "owner": "sabeechen",
             "repo": "hassio-google-drive-backup",
-            "stars": 3557
+            "stars": 3558
           }
         },
         {
@@ -2959,7 +2959,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-06T17:40:46Z",
+            "last_commit": "2026-08-14T06:12:55Z",
             "owner": "hassio-addons",
             "repo": "app-node-red",
             "stars": 645
@@ -2976,7 +2976,7 @@
             "last_commit": "2026-07-31T07:55:15Z",
             "owner": "hassio-addons",
             "repo": "app-adguard-home",
-            "stars": 528
+            "stars": 529
           }
         },
         {
@@ -2987,7 +2987,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jinja",
-            "last_commit": "2026-08-12T15:37:56Z",
+            "last_commit": "2026-08-14T04:00:41Z",
             "owner": "hassio-addons",
             "repo": "app-ssh",
             "stars": 523
@@ -3001,7 +3001,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dockerfile",
-            "last_commit": "2026-08-12T09:35:27Z",
+            "last_commit": "2026-08-14T04:32:19Z",
             "owner": "hassio-addons",
             "repo": "app-grocy",
             "stars": 448
@@ -3043,7 +3043,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jinja",
-            "last_commit": "2026-08-13T04:08:13Z",
+            "last_commit": "2026-08-14T02:50:15Z",
             "owner": "hassio-addons",
             "repo": "addon-motioneye",
             "stars": 333
@@ -3057,7 +3057,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dockerfile",
-            "last_commit": "2026-08-13T04:54:42Z",
+            "last_commit": "2026-08-13T12:54:07Z",
             "owner": "hassio-addons",
             "repo": "addon-grafana",
             "stars": 282
@@ -3074,7 +3074,7 @@
             "last_commit": "2026-08-11T01:44:07Z",
             "owner": "hassio-addons",
             "repo": "app-spotify-connect",
-            "stars": 257
+            "stars": 258
           }
         },
         {
@@ -3085,7 +3085,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jinja",
-            "last_commit": "2026-08-10T15:14:10Z",
+            "last_commit": "2026-08-14T04:03:41Z",
             "owner": "hassio-addons",
             "repo": "addon-tasmoadmin",
             "stars": 257
@@ -3102,7 +3102,7 @@
             "last_commit": "2026-03-31T21:20:25Z",
             "owner": "hassio-addons",
             "repo": "addon-influxdb",
-            "stars": 198
+            "stars": 199
           }
         },
         {
@@ -3127,7 +3127,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-08T09:55:11Z",
+            "last_commit": "2026-08-13T18:43:37Z",
             "owner": "hassio-addons",
             "repo": "app-glances",
             "stars": 188
@@ -3141,7 +3141,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-13T06:39:15Z",
+            "last_commit": "2026-08-14T06:46:00Z",
             "owner": "hassio-addons",
             "repo": "addon-traccar",
             "stars": 159
@@ -3183,7 +3183,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jinja",
-            "last_commit": "2026-08-13T04:47:47Z",
+            "last_commit": "2026-08-14T04:53:24Z",
             "owner": "hassio-addons",
             "repo": "addon-log-viewer",
             "stars": 95
@@ -3197,7 +3197,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dockerfile",
-            "last_commit": "2026-08-02T05:12:58Z",
+            "last_commit": "2026-08-14T04:14:15Z",
             "owner": "hassio-addons",
             "repo": "addon-jupyterlab",
             "stars": 69
@@ -3211,7 +3211,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jinja",
-            "last_commit": "2026-08-13T03:46:23Z",
+            "last_commit": "2026-08-13T16:07:08Z",
             "owner": "hassio-addons",
             "repo": "app-tor",
             "stars": 63
@@ -3264,10 +3264,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T15:02:23Z",
+            "last_commit": "2026-08-13T15:06:18Z",
             "owner": "arendst",
             "repo": "Tasmota",
-            "stars": 24688
+            "stars": 24696
           }
         },
         {
@@ -3292,7 +3292,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T06:14:39Z",
+            "last_commit": "2026-08-14T06:35:41Z",
             "owner": "MichielVanwelsenaere",
             "repo": "HomeAutomation.CoDeSys3",
             "stars": 145
@@ -3312,10 +3312,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-10T11:33:26Z",
+            "last_commit": "2026-08-14T03:03:34Z",
             "owner": "1technophile",
             "repo": "OpenMQTTGateway",
-            "stars": 4074
+            "stars": 4075
           }
         },
         {
@@ -3377,7 +3377,7 @@
             "last_commit": "2026-04-07T20:46:32Z",
             "owner": "danielperna84",
             "repo": "hass-configurator",
-            "stars": 335
+            "stars": 336
           }
         },
         {
@@ -3456,10 +3456,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T21:02:19Z",
+            "last_commit": "2026-08-13T19:42:47Z",
             "owner": "homebridge",
             "repo": "homebridge",
-            "stars": 25443
+            "stars": 25450
           }
         },
         {
@@ -3470,10 +3470,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-01T07:52:46Z",
+            "last_commit": "2026-08-13T15:42:31Z",
             "owner": "node-red",
             "repo": "node-red",
-            "stars": 23523
+            "stars": 23529
           }
         },
         {
@@ -3498,10 +3498,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T06:39:46Z",
+            "last_commit": "2026-08-14T06:42:46Z",
             "owner": "GladysAssistant",
             "repo": "Gladys",
-            "stars": 3100
+            "stars": 3101
           }
         },
         {
@@ -3526,7 +3526,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-13T00:27:10Z",
+            "last_commit": "2026-08-14T00:27:09Z",
             "owner": "jeedom",
             "repo": "core",
             "stars": 414
@@ -3549,7 +3549,7 @@
             "last_commit": "2026-08-12T18:50:03Z",
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 312310
+            "stars": 312521
           }
         },
         {
@@ -3595,7 +3595,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T06:52:25.094Z",
+    "last_updated": "2026-08-14T06:50:00.081Z",
     "original_repository": "frenck/awesome-home-assistant",
     "original_repository_sha": "1d623b2a1e11afc81718ae11d28db88e2e91c521",
     "enhanced_repository": "enhansome/enhansome-home-assistant",
