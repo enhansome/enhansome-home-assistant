@@ -211,7 +211,7 @@ wider ecosystem.
 
 *Wondering how more experienced users have set up their thermostat schedules, presence detection, or automations? These are full Home Assistant configurations published on GitHub. Read them like recipe books, copy the bits that look useful, and skip the rest.*
 
-* [Carlo Costanzo](https://github.com/CCOSTAN/Home-AssistantConfig#logo) ⭐ 5,266 | 🐛 93 | 🌐 Python | 📅 2026-08-24 - Probably the most documented configuration out there (5,208★).
+* [Carlo Costanzo](https://github.com/CCOSTAN/Home-AssistantConfig#logo) ⭐ 5,266 | 🐛 94 | 🌐 Python | 📅 2026-08-24 - Probably the most documented configuration out there (5,208★).
 * [Franck Nijhof](https://github.com/frenck/home-assistant-config) ⭐ 2,021 | 🐛 5 | 📅 2026-08-07 - Home Assistant OS based, very different configuration structure compared to others (2,009★).
 * [Alok Saboo](https://github.com/arsaboo/homeassistant-config) ⭐ 1,956 | 🐛 9 | 🌐 Python | 📅 2026-05-03 - Also known as arsaboo. Regularly updated (1,953★).
 * [geekofweek](https://github.com/geekofweek/homeassistant) ⭐ 1,481 | 🐛 0 | 🌐 Python | 📅 2026-05-15 - Has 300+ automations (1,477★).
@@ -311,7 +311,7 @@ wider ecosystem.
 * [EV Smart Charging](https://github.com/jonasbkarlsson/ev_smart_charging) ⭐ 322 | 🐛 80 | 🌐 Python | 📅 2026-07-30 - Plans an electric vehicle charging schedule across the cheapest hours of a dynamic tariff, working with most chargers and price sensors (297★).
 * [Easee EV Charger](https://github.com/nordicopen/easee_hass) ⭐ 279 | 🐛 31 | 🌐 Python | 📅 2026-07-24 - Adds Easee EV chargers with live charge state, dynamic load balancing, and per-session metering (272★).
 * [Polestar](https://github.com/pypolestar/polestar_api) ⭐ 266 | 🐛 3 | 🌐 Python | 📅 2026-08-08 - Reads Polestar EVs through the Polestar app API, with range, charging, and location data (249★).
-* [Stellantis Vehicles](https://github.com/andreadegiovine/homeassistant-stellantis-vehicles) ⭐ 262 | 🐛 10 | 🌐 Python | 📅 2026-08-25 - Adds Stellantis cars (Peugeot, Citroen, Fiat, Opel, Vauxhall, DS) over the manufacturer API for range, lock, and climate (231★).
+* [Stellantis Vehicles](https://github.com/andreadegiovine/homeassistant-stellantis-vehicles) ⭐ 262 | 🐛 11 | 🌐 Python | 📅 2026-08-25 - Adds Stellantis cars (Peugeot, Citroen, Fiat, Opel, Vauxhall, DS) over the manufacturer API for range, lock, and climate (231★).
 
 ### 📍 Presence & location
 
@@ -831,7 +831,7 @@ network where the community is active.*
 
 *Like this list, but for adjacent topics? The lists below cover broader smart-home categories, specific protocols, and self-hosted software in general. They are good places to look when something does not fit Home Assistant directly but might solve part of your puzzle.*
 
-* [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 314,864 | 🐛 0 | 📅 2026-08-22 - Curated list of awesome self hosted software (298,647★).
+* [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 314,866 | 🐛 0 | 📅 2026-08-22 - Curated list of awesome self hosted software (298,647★).
 * [awesome-iot](https://github.com/HQarroum/awesome-iot) ⭐ 4,477 | 🐛 8 | 📅 2026-08-10 - Curated list of awesome Internet of Things projects and resources (3,948★).
 * [awesome-mqtt](https://github.com/awesome-mqtt/awesome-mqtt#readme) ⭐ 2,388 | 🐛 0 | 📅 2026-08-22 - Curated list of MQTT related stuff (2,350★).
 
