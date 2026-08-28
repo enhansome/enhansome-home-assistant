@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 167694194,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T14:31:11Z",
+                "last_commit": "2026-08-28T17:26:09Z",
                 "owner": "blakeblackshear",
                 "repo": "frigate",
-                "stars": 35431
-              }
+                "stars": 35464
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -29,11 +30,12 @@
                 "archived": false,
                 "id": 128636610,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T10:17:17Z",
+                "last_commit": "2026-08-27T16:53:28Z",
                 "owner": "Koenkk",
                 "repo": "zigbee2mqtt",
-                "stars": 15576
-              }
+                "stars": 15579
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Discords, forums, and chats run by community projects you will see elsewhere on this list. Sorted alphabetically by project.",
@@ -55,11 +57,12 @@
             "archived": false,
             "id": 70612113,
             "language": "Python",
-            "last_commit": "2026-08-26T21:11:23Z",
+            "last_commit": "2026-08-27T21:06:17Z",
             "owner": "CCOSTAN",
             "repo": "Home-AssistantConfig",
             "stars": 5269
-          }
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         },
         {
           "node_type": "item",
@@ -74,7 +77,8 @@
             "owner": "frenck",
             "repo": "home-assistant-config",
             "stars": 2021
-          }
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         },
         {
           "node_type": "item",
@@ -88,8 +92,9 @@
             "last_commit": "2026-05-03T18:33:37Z",
             "owner": "arsaboo",
             "repo": "homeassistant-config",
-            "stars": 1956
-          }
+            "stars": 1955
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         },
         {
           "node_type": "item",
@@ -104,7 +109,8 @@
             "owner": "geekofweek",
             "repo": "homeassistant",
             "stars": 1481
-          }
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         },
         {
           "node_type": "item",
@@ -119,7 +125,8 @@
             "owner": "DubhAd",
             "repo": "Home-AssistantConfig",
             "stars": 688
-          }
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         },
         {
           "node_type": "item",
@@ -134,7 +141,8 @@
             "owner": "klaasnicolaas",
             "repo": "Student-homeassistant-config",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         },
         {
           "node_type": "item",
@@ -149,7 +157,8 @@
             "owner": "rwarner",
             "repo": "Home-Assistant-Config",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         }
       ],
       "title": "Public Configurations"
@@ -171,8 +180,9 @@
                 "last_commit": "2026-08-23T06:57:15Z",
                 "owner": "valentinfrlch",
                 "repo": "ha-llmvision",
-                "stars": 1443
-              }
+                "stars": 1444
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -187,7 +197,8 @@
                 "owner": "ITSpecialist111",
                 "repo": "ai_automation_suggester",
                 "stars": 772
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Wire Home Assistant up to a large language model and let it read your devices, build dashboards, write automations, or describe what your cameras see.",
@@ -208,8 +219,9 @@
                 "last_commit": "2026-08-24T19:20:06Z",
                 "owner": "basnijholt",
                 "repo": "adaptive-lighting",
-                "stars": 3433
-              }
+                "stars": 3435
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -223,8 +235,9 @@
                 "last_commit": "2025-09-19T22:55:20Z",
                 "owner": "claytonjn",
                 "repo": "hass-circadian_lighting",
-                "stars": 896
-              }
+                "stars": 897
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -238,8 +251,9 @@
                 "last_commit": "2026-04-28T02:25:58Z",
                 "owner": "LaggAt",
                 "repo": "hacs-govee",
-                "stars": 360
-              }
+                "stars": 361
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Effects, schedules, and behaviour layers that sit on top of your lights.",
@@ -260,8 +274,9 @@
                 "last_commit": "2026-08-25T14:32:49Z",
                 "owner": "KartoffelToby",
                 "repo": "better_thermostat",
-                "stars": 1471
-              }
+                "stars": 1472
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -272,11 +287,12 @@
                 "archived": false,
                 "id": 582589896,
                 "language": "Python",
-                "last_commit": "2026-08-25T20:49:43Z",
+                "last_commit": "2026-08-27T19:17:06Z",
                 "owner": "jmcollin78",
                 "repo": "versatile_thermostat",
                 "stars": 1164
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -291,7 +307,8 @@
                 "owner": "nbogojevic",
                 "repo": "homeassistant-midea-air-appliances-lan",
                 "stars": 483
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -305,8 +322,9 @@
                 "last_commit": "2026-03-18T20:52:21Z",
                 "owner": "Alexwijn",
                 "repo": "SAT",
-                "stars": 248
-              }
+                "stars": 249
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -317,11 +335,12 @@
                 "archived": false,
                 "id": 294037465,
                 "language": "Python",
-                "last_commit": "2026-08-22T15:27:18Z",
+                "last_commit": "2026-08-27T22:10:29Z",
                 "owner": "swingerman",
                 "repo": "ha-dual-smart-thermostat",
                 "stars": 232
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Smarter thermostats, comfort sensors, and HVAC integrations that go beyond what comes built in.",
@@ -339,11 +358,12 @@
                 "archived": false,
                 "id": 373845609,
                 "language": "Python",
-                "last_commit": "2026-08-27T16:30:50Z",
+                "last_commit": "2026-08-28T17:26:42Z",
                 "owner": "bramstroker",
                 "repo": "homeassistant-powercalc",
                 "stars": 1568
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -357,8 +377,9 @@
                 "last_commit": "2026-08-27T14:04:12Z",
                 "owner": "thomluther",
                 "repo": "ha-anker-solix",
-                "stars": 1072
-              }
+                "stars": 1074
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -373,7 +394,8 @@
                 "owner": "BottlecapDave",
                 "repo": "HomeAssistant-OctopusEnergy",
                 "stars": 991
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -384,11 +406,12 @@
                 "archived": false,
                 "id": 419381725,
                 "language": "Python",
-                "last_commit": "2026-08-21T16:16:14Z",
+                "last_commit": "2026-08-28T08:21:47Z",
                 "owner": "wlcrs",
                 "repo": "huawei_solar",
-                "stars": 924
-              }
+                "stars": 925
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -403,7 +426,8 @@
                 "owner": "davidrapan",
                 "repo": "ha-solarman",
                 "stars": 513
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -418,7 +442,8 @@
                 "owner": "wills106",
                 "repo": "homeassistant-solax-modbus",
                 "stars": 511
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -432,8 +457,9 @@
                 "last_commit": "2026-08-10T09:05:47Z",
                 "owner": "BJReplay",
                 "repo": "ha-solcast-solar",
-                "stars": 444
-              }
+                "stars": 446
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -444,11 +470,12 @@
                 "archived": false,
                 "id": 336054515,
                 "language": "Python",
-                "last_commit": "2026-08-26T19:06:57Z",
+                "last_commit": "2026-08-28T15:53:27Z",
                 "owner": "lbbrhzn",
                 "repo": "ocpp",
                 "stars": 391
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -463,7 +490,8 @@
                 "owner": "nathanmarlor",
                 "repo": "foxess_modbus",
                 "stars": 329
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -478,7 +506,24 @@
                 "owner": "hultenvp",
                 "repo": "solis-sensor",
                 "stars": 324
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
+            },
+            {
+              "node_type": "item",
+              "title": "EPEX Spot",
+              "description": "Brings hourly EPEX spot electricity prices into your dashboard so you can shift loads to the cheapest slots (310★).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 582268944,
+                "language": "Python",
+                "last_commit": "2026-06-24T15:23:06Z",
+                "owner": "mampfes",
+                "repo": "ha_epex_spot",
+                "stars": 321
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -493,22 +538,8 @@
                 "owner": "sfstar",
                 "repo": "hass-victron",
                 "stars": 321
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "EPEX Spot",
-              "description": "Brings hourly EPEX spot electricity prices into your dashboard so you can shift loads to the cheapest slots (310★).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 582268944,
-                "language": "Python",
-                "last_commit": "2026-06-24T15:23:06Z",
-                "owner": "mampfes",
-                "repo": "ha_epex_spot",
-                "stars": 320
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -519,11 +550,12 @@
                 "archived": false,
                 "id": 419786466,
                 "language": "Python",
-                "last_commit": "2026-08-26T23:15:28Z",
+                "last_commit": "2026-08-28T14:12:12Z",
                 "owner": "WillCodeForCats",
                 "repo": "solaredge-modbus-multi",
-                "stars": 314
-              }
+                "stars": 315
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -538,7 +570,8 @@
                 "owner": "MTrab",
                 "repo": "energidataservice",
                 "stars": 282
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -553,7 +586,8 @@
                 "owner": "JaccoR",
                 "repo": "hass-entso-e",
                 "stars": 278
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -568,7 +602,8 @@
                 "owner": "jmcollin78",
                 "repo": "solar_optimizer",
                 "stars": 237
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -582,8 +617,9 @@
                 "last_commit": "2026-07-01T22:12:23Z",
                 "owner": "mletenay",
                 "repo": "home-assistant-goodwe-inverter",
-                "stars": 230
-              }
+                "stars": 231
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -598,7 +634,8 @@
                 "owner": "martinarva",
                 "repo": "dynamic_energy_cost",
                 "stars": 198
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Pull your solar inverter, smart meter, home battery, or utility tariff into Home Assistant and feed the energy dashboard.",
@@ -619,8 +656,9 @@
                 "last_commit": "2025-11-26T10:15:48Z",
                 "owner": "AlexxIT",
                 "repo": "WebRTC",
-                "stars": 2168
-              }
+                "stars": 2169
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -634,8 +672,9 @@
                 "last_commit": "2026-08-18T11:04:33Z",
                 "owner": "JurajNyiri",
                 "repo": "HomeAssistant-Tapo-Control",
-                "stars": 1985
-              }
+                "stars": 1986
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -649,8 +688,9 @@
                 "last_commit": "2026-06-22T06:22:26Z",
                 "owner": "fuatakgun",
                 "repo": "eufy_security",
-                "stars": 1385
-              }
+                "stars": 1386
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -664,8 +704,9 @@
                 "last_commit": "2026-07-16T15:03:17Z",
                 "owner": "blakeblackshear",
                 "repo": "frigate-hass-integration",
-                "stars": 1244
-              }
+                "stars": 1245
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -680,7 +721,8 @@
                 "owner": "rroller",
                 "repo": "dahua",
                 "stars": 554
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -695,7 +737,8 @@
                 "owner": "twrecked",
                 "repo": "hass-aarlo",
                 "stars": 476
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Pair specific camera brands and video sources that Home Assistant does not support out of the box.",
@@ -717,7 +760,8 @@
                 "owner": "nielsfaber",
                 "repo": "alarmo",
                 "stars": 2217
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -728,11 +772,12 @@
                 "archived": false,
                 "id": 318359434,
                 "language": "Python",
-                "last_commit": "2026-08-27T15:38:39Z",
+                "last_commit": "2026-08-28T17:23:43Z",
                 "owner": "FutureTense",
                 "repo": "keymaster",
                 "stars": 347
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Turn Home Assistant into a fully-featured alarm system with arm and disarm flows, user codes, zones, and panic.",
@@ -754,7 +799,8 @@
                 "owner": "alandtse",
                 "repo": "alexa_media_player",
                 "stars": 1971
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -769,7 +815,8 @@
                 "owner": "AlexxIT",
                 "repo": "YandexStation",
                 "stars": 1917
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -784,7 +831,8 @@
                 "owner": "dext0r",
                 "repo": "yandex_smart_home",
                 "stars": 1076
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -799,7 +847,8 @@
                 "owner": "fondberg",
                 "repo": "spotcast",
                 "stars": 814
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -814,7 +863,8 @@
                 "owner": "msp1974",
                 "repo": "ViewAssist_Companion_App",
                 "stars": 463
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Send commands to voice speakers and media players, or relay what they hear and play back into Home Assistant.",
@@ -832,11 +882,12 @@
                 "archived": false,
                 "id": 356385629,
                 "language": "Python",
-                "last_commit": "2026-08-26T09:46:07Z",
+                "last_commit": "2026-08-27T19:41:07Z",
                 "owner": "Hyundai-Kia-Connect",
                 "repo": "kia_uvo",
                 "stars": 924
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -851,7 +902,8 @@
                 "owner": "alandtse",
                 "repo": "tesla",
                 "stars": 778
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -866,7 +918,8 @@
                 "owner": "robinostlund",
                 "repo": "homeassistant-volkswagencarnet",
                 "stars": 702
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -881,7 +934,8 @@
                 "owner": "marq24",
                 "repo": "ha-evcc",
                 "stars": 463
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -896,7 +950,8 @@
                 "owner": "audiconnect",
                 "repo": "audi_connect_ha",
                 "stars": 363
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -911,7 +966,8 @@
                 "owner": "jonasbkarlsson",
                 "repo": "ev_smart_charging",
                 "stars": 322
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -926,7 +982,8 @@
                 "owner": "nordicopen",
                 "repo": "easee_hass",
                 "stars": 279
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -940,8 +997,9 @@
                 "last_commit": "2026-08-08T07:46:43Z",
                 "owner": "pypolestar",
                 "repo": "polestar_api",
-                "stars": 266
-              }
+                "stars": 267
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -952,11 +1010,12 @@
                 "archived": false,
                 "id": 839422993,
                 "language": "Python",
-                "last_commit": "2026-08-27T16:20:09Z",
+                "last_commit": "2026-08-28T17:18:22Z",
                 "owner": "andreadegiovine",
                 "repo": "homeassistant-stellantis-vehicles",
                 "stars": 264
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Track your car's battery, location, and charging state, or control where and when it plugs in.",
@@ -974,11 +1033,12 @@
                 "archived": false,
                 "id": 222292912,
                 "language": "Python",
-                "last_commit": "2026-08-12T21:14:38Z",
+                "last_commit": "2026-08-27T18:23:04Z",
                 "owner": "gcobb321",
                 "repo": "icloud3",
-                "stars": 896
-              }
+                "stars": 898
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -992,8 +1052,9 @@
                 "last_commit": "2026-07-03T23:33:39Z",
                 "owner": "mudape",
                 "repo": "iphonedetect",
-                "stars": 642
-              }
+                "stars": 643
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1008,7 +1069,8 @@
                 "owner": "AlexandrErohin",
                 "repo": "home-assistant-flightradar24",
                 "stars": 527
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1023,7 +1085,8 @@
                 "owner": "custom-components",
                 "repo": "places",
                 "stars": 208
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Figure out who is home and where they are, often more accurately than the built-in device tracker.",
@@ -1045,7 +1108,8 @@
                 "owner": "Tasshack",
                 "repo": "dreame-vacuum",
                 "stars": 2157
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1059,8 +1123,9 @@
                 "last_commit": "2026-02-20T03:21:16Z",
                 "owner": "PiotrMachowski",
                 "repo": "Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor",
-                "stars": 1419
-              }
+                "stars": 1420
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Control specific robot vacuums and surface their map data, beyond what comes built in.",
@@ -1082,7 +1147,8 @@
                 "owner": "custom-components",
                 "repo": "ble_monitor",
                 "stars": 2237
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1096,8 +1162,9 @@
                 "last_commit": "2026-08-25T06:33:50Z",
                 "owner": "agittins",
                 "repo": "bermuda",
-                "stars": 1972
-              }
+                "stars": 1977
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1112,7 +1179,8 @@
                 "owner": "rabits",
                 "repo": "ha-ef-ble",
                 "stars": 367
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1123,11 +1191,12 @@
                 "archived": false,
                 "id": 766648885,
                 "language": "Python",
-                "last_commit": "2026-08-27T14:57:20Z",
+                "last_commit": "2026-08-27T18:38:38Z",
                 "owner": "patman15",
                 "repo": "BMS_BLE-HA",
                 "stars": 356
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Pull data from sensors that broadcast over Bluetooth, or use Bluetooth itself for room-level presence detection.",
@@ -1145,11 +1214,12 @@
                 "archived": false,
                 "id": 679713495,
                 "language": "Python",
-                "last_commit": "2026-08-26T10:08:35Z",
+                "last_commit": "2026-08-28T15:10:59Z",
                 "owner": "andrew-codechimp",
                 "repo": "HA-Battery-Notes",
                 "stars": 1153
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Keep an eye on the batteries in all your devices and get warned before they run flat.",
@@ -1170,8 +1240,9 @@
                 "last_commit": "2026-07-31T08:37:00Z",
                 "owner": "al-one",
                 "repo": "hass-xiaomi-miot",
-                "stars": 6090
-              }
+                "stars": 6092
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1186,7 +1257,8 @@
                 "owner": "rospogrigio",
                 "repo": "localtuya",
                 "stars": 3954
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1200,8 +1272,9 @@
                 "last_commit": "2026-07-17T14:12:30Z",
                 "owner": "AlexxIT",
                 "repo": "SonoffLAN",
-                "stars": 3296
-              }
+                "stars": 3297
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1216,7 +1289,8 @@
                 "owner": "smartHomeHub",
                 "repo": "SmartIR",
                 "stars": 2819
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1231,7 +1305,8 @@
                 "owner": "AlexxIT",
                 "repo": "XiaomiGateway3",
                 "stars": 2779
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1245,8 +1320,9 @@
                 "last_commit": "2026-08-25T07:47:29Z",
                 "owner": "wuwentao",
                 "repo": "midea_ac_lan",
-                "stars": 1859
-              }
+                "stars": 1861
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1261,7 +1337,8 @@
                 "owner": "ollo69",
                 "repo": "ha-smartthinq-sensors",
                 "stars": 1324
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1276,7 +1353,8 @@
                 "owner": "ekutner",
                 "repo": "home-connect-hass",
                 "stars": 999
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1291,7 +1369,8 @@
                 "owner": "petretiandrea",
                 "repo": "home-assistant-tapo-p100",
                 "stars": 970
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1306,7 +1385,8 @@
                 "owner": "albertogeniola",
                 "repo": "meross-homeassistant",
                 "stars": 856
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1320,8 +1400,9 @@
                 "last_commit": "2026-06-24T11:48:36Z",
                 "owner": "krahabb",
                 "repo": "meross_lan",
-                "stars": 740
-              }
+                "stars": 739
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1336,7 +1417,8 @@
                 "owner": "ollo69",
                 "repo": "ha-samsungtv-smart",
                 "stars": 675
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1347,11 +1429,12 @@
                 "archived": false,
                 "id": 389120303,
                 "language": "Python",
-                "last_commit": "2026-08-27T15:17:22Z",
+                "last_commit": "2026-08-28T13:27:52Z",
                 "owner": "SukramJ",
                 "repo": "homematicip_local",
                 "stars": 584
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1365,8 +1448,9 @@
                 "last_commit": "2026-08-24T08:11:38Z",
                 "owner": "iMicknl",
                 "repo": "ha-nest-protect",
-                "stars": 478
-              }
+                "stars": 479
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1380,8 +1464,9 @@
                 "last_commit": "2026-08-25T13:06:48Z",
                 "owner": "chris-mc1",
                 "repo": "homeconnect_local_hass",
-                "stars": 443
-              }
+                "stars": 444
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1396,7 +1481,8 @@
                 "owner": "libdyson-wg",
                 "repo": "ha-dyson",
                 "stars": 433
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1410,8 +1496,9 @@
                 "last_commit": "2026-08-16T11:26:44Z",
                 "owner": "jjjonesjr33",
                 "repo": "petlibro",
-                "stars": 354
-              }
+                "stars": 357
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1425,8 +1512,9 @@
                 "last_commit": "2025-11-16T01:09:41Z",
                 "owner": "RobertD502",
                 "repo": "home-assistant-petkit",
-                "stars": 350
-              }
+                "stars": 351
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1440,8 +1528,9 @@
                 "last_commit": "2026-06-22T09:15:47Z",
                 "owner": "gvigroux",
                 "repo": "hon",
-                "stars": 283
-              }
+                "stars": 284
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1456,7 +1545,8 @@
                 "owner": "astrandb",
                 "repo": "miele",
                 "stars": 264
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Pull a specific manufacturer's devices into Home Assistant, often with more features or better local control than what comes built in.",
@@ -1478,7 +1568,8 @@
                 "owner": "thomasloven",
                 "repo": "hass-browser_mod",
                 "stars": 1797
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1489,11 +1580,12 @@
                 "archived": false,
                 "id": 605635573,
                 "language": "Python",
-                "last_commit": "2026-08-27T16:14:40Z",
+                "last_commit": "2026-08-28T15:38:35Z",
                 "owner": "frenck",
                 "repo": "spook",
-                "stars": 1237
-              }
+                "stars": 1238
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1508,7 +1600,8 @@
                 "owner": "custom-components",
                 "repo": "pyscript",
                 "stars": 1181
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1523,7 +1616,8 @@
                 "owner": "nielsfaber",
                 "repo": "scheduler-component",
                 "stars": 900
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1538,7 +1632,8 @@
                 "owner": "dummylabs",
                 "repo": "thewatchman",
                 "stars": 681
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1553,7 +1648,8 @@
                 "owner": "zachowj",
                 "repo": "hass-node-red",
                 "stars": 583
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1568,7 +1664,8 @@
                 "owner": "jseidl",
                 "repo": "magic-areas",
                 "stars": 514
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1583,7 +1680,8 @@
                 "owner": "jcwillox",
                 "repo": "hass-auto-backup",
                 "stars": 464
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1594,11 +1692,12 @@
                 "archived": false,
                 "id": 358585486,
                 "language": "Python",
-                "last_commit": "2026-08-22T08:47:17Z",
+                "last_commit": "2026-08-27T21:34:51Z",
                 "owner": "danieldotnl",
                 "repo": "ha-multiscrape",
                 "stars": 449
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1613,7 +1712,8 @@
                 "owner": "amitfin",
                 "repo": "retry",
                 "stars": 169
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Helpers that make automations easier to write, debug, and maintain.",
@@ -1634,8 +1734,9 @@
                 "last_commit": "2026-08-27T00:25:10Z",
                 "owner": "moralmunky",
                 "repo": "Home-Assistant-Mail-And-Packages",
-                "stars": 871
-              }
+                "stars": 880
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1650,7 +1751,8 @@
                 "owner": "altmenorg",
                 "repo": "HAsmartirrigation",
                 "stars": 548
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1665,7 +1767,8 @@
                 "owner": "marcolivierarsenault",
                 "repo": "moonraker-home-assistant",
                 "stars": 488
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1680,7 +1783,8 @@
                 "owner": "rgc99",
                 "repo": "irrigation_unlimited",
                 "stars": 457
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1694,8 +1798,9 @@
                 "last_commit": "2026-08-04T06:04:51Z",
                 "owner": "robbrad",
                 "repo": "UKBinCollectionData",
-                "stars": 346
-              }
+                "stars": 347
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Local services that turn into sensors and calendars: garbage collection schedules, school holidays, traffic, weather alerts, and similar.",
@@ -1716,8 +1821,9 @@
                 "last_commit": "2026-08-24T05:22:43Z",
                 "owner": "christiaangoossens",
                 "repo": "hass-oidc-auth",
-                "stars": 1043
-              }
+                "stars": 1045
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1731,8 +1837,9 @@
                 "last_commit": "2026-07-28T13:50:48Z",
                 "owner": "tomaae",
                 "repo": "homeassistant-mikrotik_router",
-                "stars": 467
-              }
+                "stars": 468
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1743,11 +1850,12 @@
                 "archived": false,
                 "id": 716704833,
                 "language": "Python",
-                "last_commit": "2026-08-19T14:31:54Z",
+                "last_commit": "2026-08-28T14:05:45Z",
                 "owner": "AlexandrErohin",
                 "repo": "home-assistant-tplink-router",
-                "stars": 372
-              }
+                "stars": 374
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1762,7 +1870,8 @@
                 "owner": "cavefire",
                 "repo": "hass-openid",
                 "stars": 206
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Sign in to Home Assistant with single sign-on, route through a tunnel, or pull network hardware into your dashboard.",
@@ -1784,7 +1893,8 @@
                 "owner": "custom-components",
                 "repo": "remote_homeassistant",
                 "stars": 1259
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Link multiple Home Assistant instances together, share entities across homes, or relay between them.",
@@ -1806,7 +1916,8 @@
                 "owner": "ualex73",
                 "repo": "monitor_docker",
                 "stars": 410
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1821,7 +1932,8 @@
                 "owner": "tomaae",
                 "repo": "homeassistant-truenas",
                 "stars": 384
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1832,11 +1944,12 @@
                 "archived": false,
                 "id": 872726164,
                 "language": "Python",
-                "last_commit": "2026-08-24T12:45:40Z",
+                "last_commit": "2026-08-28T12:46:04Z",
                 "owner": "ruaan-deysel",
                 "repo": "ha-unraid",
                 "stars": 251
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1851,7 +1964,8 @@
                 "owner": "legrego",
                 "repo": "homeassistant-elasticsearch",
                 "stars": 165
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Send Home Assistant data to external systems for long-term storage, richer dashboards, or analysis.",
@@ -1879,7 +1993,8 @@
                 "owner": "piitaya",
                 "repo": "lovelace-mushroom",
                 "stars": 5126
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1893,8 +2008,9 @@
                 "last_commit": "2026-08-25T09:13:42Z",
                 "owner": "Clooos",
                 "repo": "Bubble-Card",
-                "stars": 4522
-              }
+                "stars": 4523
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1908,8 +2024,9 @@
                 "last_commit": "2026-08-24T10:08:13Z",
                 "owner": "UI-Lovelace-Minimalist",
                 "repo": "UI",
-                "stars": 2057
-              }
+                "stars": 2056
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1923,8 +2040,9 @@
                 "last_commit": "2026-08-11T03:29:41Z",
                 "owner": "ExperienceLovelace",
                 "repo": "ha-floorplan",
-                "stars": 1601
-              }
+                "stars": 1603
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Full card collections that change the look and feel of your dashboards. Mushroom, Bubble Card, Floorplan, and similar all-in-one toolkits.",
@@ -1945,8 +2063,9 @@
                 "last_commit": "2026-08-09T16:08:31Z",
                 "owner": "custom-cards",
                 "repo": "button-card",
-                "stars": 2488
-              }
+                "stars": 2491
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1961,7 +2080,8 @@
                 "owner": "thomasloven",
                 "repo": "lovelace-auto-entities",
                 "stars": 1794
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1976,7 +2096,8 @@
                 "owner": "thomasloven",
                 "repo": "lovelace-card-mod",
                 "stars": 1791
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -1991,7 +2112,8 @@
                 "owner": "thomasloven",
                 "repo": "lovelace-layout-card",
                 "stars": 1243
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2006,7 +2128,8 @@
                 "owner": "ofekashery",
                 "repo": "vertical-stack-in-card",
                 "stars": 976
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2021,7 +2144,8 @@
                 "owner": "thomasloven",
                 "repo": "lovelace-fold-entity-row",
                 "stars": 710
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2036,7 +2160,8 @@
                 "owner": "zanna-37",
                 "repo": "hass-swipe-navigation",
                 "stars": 565
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2050,8 +2175,9 @@
                 "last_commit": "2026-05-22T00:28:55Z",
                 "owner": "iantrich",
                 "repo": "config-template-card",
-                "stars": 563
-              }
+                "stars": 562
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2066,7 +2192,8 @@
                 "owner": "thomasloven",
                 "repo": "lovelace-state-switch",
                 "stars": 473
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2080,8 +2207,9 @@
                 "last_commit": "2026-08-23T04:11:24Z",
                 "owner": "Nerwyn",
                 "repo": "custom-card-features",
-                "stars": 442
-              }
+                "stars": 443
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2096,7 +2224,8 @@
                 "owner": "Alia5",
                 "repo": "lovelace-expander-card",
                 "stars": 420
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2107,11 +2236,12 @@
                 "archived": false,
                 "id": 244872232,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T21:18:41Z",
+                "last_commit": "2026-08-27T17:15:00Z",
                 "owner": "jcwillox",
                 "repo": "lovelace-paper-buttons-row",
                 "stars": 365
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2126,7 +2256,8 @@
                 "owner": "iantrich",
                 "repo": "restriction-card",
                 "stars": 322
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2137,11 +2268,12 @@
                 "archived": false,
                 "id": 737780218,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T07:03:49Z",
+                "last_commit": "2026-08-27T21:36:44Z",
                 "owner": "elchininet",
                 "repo": "custom-sidebar",
                 "stars": 290
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2156,7 +2288,8 @@
                 "owner": "brunosabot",
                 "repo": "streamline-card",
                 "stars": 269
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Cards that change where and how other cards appear: stack, fold, show conditionally, restyle, or template.",
@@ -2178,7 +2311,8 @@
                 "owner": "kalkih",
                 "repo": "mini-graph-card",
                 "stars": 3877
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2192,8 +2326,9 @@
                 "last_commit": "2026-02-03T00:36:26Z",
                 "owner": "RomRider",
                 "repo": "apexcharts-card",
-                "stars": 1855
-              }
+                "stars": 1856
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2207,8 +2342,9 @@
                 "last_commit": "2026-06-01T14:36:36Z",
                 "owner": "MindFreeze",
                 "repo": "ha-sankey-chart",
-                "stars": 668
-              }
+                "stars": 669
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2222,8 +2358,9 @@
                 "last_commit": "2026-06-22T16:09:04Z",
                 "owner": "selvalt7",
                 "repo": "modern-circular-gauge",
-                "stars": 285
-              }
+                "stars": 286
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2238,7 +2375,8 @@
                 "owner": "custom-cards",
                 "repo": "flex-table-card",
                 "stars": 277
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2253,7 +2391,8 @@
                 "owner": "custom-cards",
                 "repo": "dual-gauge-card",
                 "stars": 218
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2268,7 +2407,8 @@
                 "owner": "custom-cards",
                 "repo": "canvas-gauge-card",
                 "stars": 217
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Visualise sensor data over time. Gauges, line graphs, bars, and Sankey diagrams.",
@@ -2289,8 +2429,9 @@
                 "last_commit": "2026-08-21T18:39:02Z",
                 "owner": "maxwroc",
                 "repo": "battery-state-card",
-                "stars": 1266
-              }
+                "stars": 1267
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2304,8 +2445,9 @@
                 "last_commit": "2026-06-30T04:24:16Z",
                 "owner": "nielsfaber",
                 "repo": "scheduler-card",
-                "stars": 1253
-              }
+                "stars": 1252
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2320,7 +2462,8 @@
                 "owner": "thomasloven",
                 "repo": "lovelace-slider-entity-row",
                 "stars": 920
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2335,7 +2478,8 @@
                 "owner": "rianadon",
                 "repo": "timer-bar-card",
                 "stars": 600
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2349,8 +2493,9 @@
                 "last_commit": "2026-08-08T23:13:57Z",
                 "owner": "ngocjohn",
                 "repo": "vehicle-status-card",
-                "stars": 292
-              }
+                "stars": 293
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2361,11 +2506,12 @@
                 "archived": false,
                 "id": 908868522,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T09:22:46Z",
+                "last_commit": "2026-08-27T23:37:09Z",
                 "owner": "francois-le-ko4la",
                 "repo": "lovelace-entity-progress-card",
                 "stars": 273
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Compact rows that pack more information into entity-card style listings.",
@@ -2383,11 +2529,12 @@
                 "archived": false,
                 "id": 522634019,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T06:17:23Z",
+                "last_commit": "2026-08-28T14:22:56Z",
                 "owner": "pkissling",
                 "repo": "clock-weather-card",
-                "stars": 862
-              }
+                "stars": 863
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2402,7 +2549,8 @@
                 "owner": "rejuvenate",
                 "repo": "lovelace-horizon-card",
                 "stars": 675
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2416,8 +2564,9 @@
                 "last_commit": "2026-08-27T15:05:16Z",
                 "owner": "jpettitt",
                 "repo": "weather-radar-card",
-                "stars": 441
-              }
+                "stars": 444
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2432,7 +2581,8 @@
                 "owner": "mlamberts78",
                 "repo": "weather-chart-card",
                 "stars": 438
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2447,7 +2597,8 @@
                 "owner": "decompil3d",
                 "repo": "lovelace-hourly-weather",
                 "stars": 402
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Weather widgets with the look you actually want.",
@@ -2468,8 +2619,9 @@
                 "last_commit": "2026-06-08T07:29:44Z",
                 "owner": "kalkih",
                 "repo": "mini-media-player",
-                "stars": 1713
-              }
+                "stars": 1712
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Better ways to control media players, with album art, queues, and per-room presence.",
@@ -2490,8 +2642,9 @@
                 "last_commit": "2024-08-19T15:33:03Z",
                 "owner": "nervetattoo",
                 "repo": "simple-thermostat",
-                "stars": 808
-              }
+                "stars": 807
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2506,7 +2659,8 @@
                 "owner": "ciotlosm",
                 "repo": "lovelace-thermostat-dark-card",
                 "stars": 744
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2517,11 +2671,12 @@
                 "archived": false,
                 "id": 268163975,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T16:05:44Z",
+                "last_commit": "2026-08-28T17:20:54Z",
                 "owner": "artem-sedykh",
                 "repo": "mini-climate-card",
                 "stars": 326
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Replacement thermostat cards with a different look or feel.",
@@ -2543,7 +2698,8 @@
                 "owner": "slipx06",
                 "repo": "sunsynk-power-flow-card",
                 "stars": 390
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Visualise solar production, grid imports, battery state, and consumption flow.",
@@ -2565,7 +2721,8 @@
                 "owner": "bokub",
                 "repo": "rgb-light-card",
                 "stars": 571
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2580,7 +2737,8 @@
                 "owner": "Gh61",
                 "repo": "lovelace-hue-like-light-card",
                 "stars": 386
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2595,7 +2753,8 @@
                 "owner": "ljmerza",
                 "repo": "light-entity-card",
                 "stars": 289
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Specialised controls for lights, color temperature, and effects.",
@@ -2616,8 +2775,9 @@
                 "last_commit": "2026-08-19T19:43:32Z",
                 "owner": "nathan-gs",
                 "repo": "ha-map-card",
-                "stars": 127
-              }
+                "stars": 128
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Show a map of where your devices and people are, with history trails and custom overlays.",
@@ -2635,11 +2795,12 @@
                 "archived": false,
                 "id": 394082552,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T23:06:49Z",
+                "last_commit": "2026-08-28T02:17:18Z",
                 "owner": "dermotduffy",
                 "repo": "advanced-camera-card",
                 "stars": 1135
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Display camera streams the way you want them, with overlays, controls, event timelines, and pop-out viewers.",
@@ -2661,7 +2822,8 @@
                 "owner": "PiotrMachowski",
                 "repo": "lovelace-xiaomi-vacuum-map-card",
                 "stars": 1935
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2675,8 +2837,9 @@
                 "last_commit": "2026-08-18T10:57:28Z",
                 "owner": "denysdovhan",
                 "repo": "vacuum-card",
-                "stars": 1246
-              }
+                "stars": 1248
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2691,7 +2854,8 @@
                 "owner": "Hypfer",
                 "repo": "lovelace-valetudo-map-card",
                 "stars": 314
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Show vacuum status, room maps, and start/stop controls in your dashboard.",
@@ -2709,11 +2873,12 @@
                 "archived": false,
                 "id": 939311749,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T06:36:47Z",
+                "last_commit": "2026-08-27T20:57:58Z",
                 "owner": "alexpfau",
                 "repo": "calendar-card-pro",
                 "stars": 1191
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2728,7 +2893,8 @@
                 "owner": "totaldebug",
                 "repo": "atomic-calendar-revive",
                 "stars": 667
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2742,8 +2908,9 @@
                 "last_commit": "2026-04-26T09:17:47Z",
                 "owner": "FamousWolf",
                 "repo": "week-planner-card",
-                "stars": 524
-              }
+                "stars": 523
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2758,7 +2925,8 @@
                 "owner": "idaho",
                 "repo": "hassio-trash-card",
                 "stars": 368
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Calendar views and rolling feeds of upcoming events.",
@@ -2779,8 +2947,9 @@
                 "last_commit": "2026-03-08T06:20:31Z",
                 "owner": "PRProd",
                 "repo": "HA-Firemote",
-                "stars": 1041
-              }
+                "stars": 1042
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2795,7 +2964,8 @@
                 "owner": "Nerwyn",
                 "repo": "universal-remote-card",
                 "stars": 594
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2810,7 +2980,8 @@
                 "owner": "madmicio",
                 "repo": "LG-WebOS-Remote-Control",
                 "stars": 572
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Virtual remotes for TVs, streamers, and AV gear.",
@@ -2832,7 +3003,8 @@
                 "owner": "denysdovhan",
                 "repo": "purifier-card",
                 "stars": 344
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Display readings from purifiers and air-quality sensors.",
@@ -2854,7 +3026,8 @@
                 "owner": "j-a-n",
                 "repo": "lovelace-wallpanel",
                 "stars": 872
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -2868,8 +3041,9 @@
                 "last_commit": "2026-08-23T10:45:13Z",
                 "owner": "NemesisRE",
                 "repo": "kiosk-mode",
-                "stars": 784
-              }
+                "stars": 785
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Hide the chrome, run full-screen, or turn an old tablet on the wall into a dedicated touch panel.",
@@ -2894,8 +3068,9 @@
             "last_commit": "2026-08-06T15:28:26Z",
             "owner": "dwainscheeren",
             "repo": "dwains-lovelace-dashboard",
-            "stars": 2068
-          }
+            "stars": 2067
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         },
         {
           "node_type": "item",
@@ -2910,7 +3085,8 @@
             "owner": "DigiLive",
             "repo": "mushroom-strategy",
             "stars": 663
-          }
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         }
       ],
       "title": "Dashboards"
@@ -2931,7 +3107,8 @@
             "owner": "wessamlauf",
             "repo": "homeassistant-frosted-glass-themes",
             "stars": 985
-          }
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         },
         {
           "node_type": "item",
@@ -2946,7 +3123,8 @@
             "owner": "basnijholt",
             "repo": "lovelace-ios-themes",
             "stars": 878
-          }
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         },
         {
           "node_type": "item",
@@ -2957,11 +3135,12 @@
             "archived": false,
             "id": 534353896,
             "language": "Python",
-            "last_commit": "2026-08-27T00:34:31Z",
+            "last_commit": "2026-08-28T05:09:51Z",
             "owner": "th3jesta",
             "repo": "ha-lcars",
-            "stars": 567
-          }
+            "stars": 568
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         },
         {
           "node_type": "item",
@@ -2976,7 +3155,8 @@
             "owner": "catppuccin",
             "repo": "home-assistant",
             "stars": 495
-          }
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         },
         {
           "node_type": "item",
@@ -2990,8 +3170,9 @@
             "last_commit": "2026-08-23T00:03:22Z",
             "owner": "Nerwyn",
             "repo": "material-you-theme",
-            "stars": 465
-          }
+            "stars": 466
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         },
         {
           "node_type": "item",
@@ -3005,8 +3186,9 @@
             "last_commit": "2026-06-08T19:35:46Z",
             "owner": "TilmanGriesel",
             "repo": "graphite",
-            "stars": 453
-          }
+            "stars": 454
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         },
         {
           "node_type": "item",
@@ -3021,7 +3203,8 @@
             "owner": "Nezz",
             "repo": "homeassistant-visionos-theme",
             "stars": 349
-          }
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         },
         {
           "node_type": "item",
@@ -3035,8 +3218,9 @@
             "last_commit": "2025-09-26T14:14:39Z",
             "owner": "piitaya",
             "repo": "lovelace-mushroom-themes",
-            "stars": 306
-          }
+            "stars": 305
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         },
         {
           "node_type": "item",
@@ -3051,7 +3235,8 @@
             "owner": "bbbenji",
             "repo": "synthwave-hass",
             "stars": 205
-          }
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         },
         {
           "node_type": "item",
@@ -3066,7 +3251,8 @@
             "owner": "seangreen2",
             "repo": "slate_theme",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         },
         {
           "node_type": "item",
@@ -3081,7 +3267,8 @@
             "owner": "coltondick",
             "repo": "nordic-theme-main",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         }
       ],
       "title": "Themes"
@@ -3102,7 +3289,8 @@
             "owner": "arallsopp",
             "repo": "hass-hue-icons",
             "stars": 385
-          }
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         },
         {
           "node_type": "item",
@@ -3117,7 +3305,8 @@
             "owner": "thomasloven",
             "repo": "hass-fontawesome",
             "stars": 344
-          }
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         },
         {
           "node_type": "item",
@@ -3132,7 +3321,8 @@
             "owner": "vigonotion",
             "repo": "hass-simpleicons",
             "stars": 167
-          }
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         }
       ],
       "title": "Icon packs"
@@ -3151,11 +3341,12 @@
                 "archived": false,
                 "id": 85435841,
                 "language": "Shell",
-                "last_commit": "2026-08-27T10:14:09Z",
+                "last_commit": "2026-08-28T12:28:15Z",
                 "owner": "home-assistant",
                 "repo": "addons",
-                "stars": 2212
-              }
+                "stars": 2215
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -3166,11 +3357,12 @@
                 "archived": false,
                 "id": 85435841,
                 "language": "Shell",
-                "last_commit": "2026-08-27T10:14:09Z",
+                "last_commit": "2026-08-28T12:28:15Z",
                 "owner": "home-assistant",
                 "repo": "addons",
-                "stars": 2212
-              }
+                "stars": 2215
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -3181,11 +3373,12 @@
                 "archived": false,
                 "id": 85435841,
                 "language": "Shell",
-                "last_commit": "2026-08-27T10:14:09Z",
+                "last_commit": "2026-08-28T12:28:15Z",
                 "owner": "home-assistant",
                 "repo": "addons",
-                "stars": 2212
-              }
+                "stars": 2215
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -3196,11 +3389,12 @@
                 "archived": false,
                 "id": 85435841,
                 "language": "Shell",
-                "last_commit": "2026-08-27T10:14:09Z",
+                "last_commit": "2026-08-28T12:28:15Z",
                 "owner": "home-assistant",
                 "repo": "addons",
-                "stars": 2212
-              }
+                "stars": 2215
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -3211,11 +3405,12 @@
                 "archived": false,
                 "id": 85435841,
                 "language": "Shell",
-                "last_commit": "2026-08-27T10:14:09Z",
+                "last_commit": "2026-08-28T12:28:15Z",
                 "owner": "home-assistant",
                 "repo": "addons",
-                "stars": 2212
-              }
+                "stars": 2215
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -3226,11 +3421,12 @@
                 "archived": false,
                 "id": 85435841,
                 "language": "Shell",
-                "last_commit": "2026-08-27T10:14:09Z",
+                "last_commit": "2026-08-28T12:28:15Z",
                 "owner": "home-assistant",
                 "repo": "addons",
-                "stars": 2212
-              }
+                "stars": 2215
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -3241,11 +3437,12 @@
                 "archived": false,
                 "id": 85435841,
                 "language": "Shell",
-                "last_commit": "2026-08-27T10:14:09Z",
+                "last_commit": "2026-08-28T12:28:15Z",
                 "owner": "home-assistant",
                 "repo": "addons",
-                "stars": 2212
-              }
+                "stars": 2215
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -3256,11 +3453,12 @@
                 "archived": false,
                 "id": 85435841,
                 "language": "Shell",
-                "last_commit": "2026-08-27T10:14:09Z",
+                "last_commit": "2026-08-28T12:28:15Z",
                 "owner": "home-assistant",
                 "repo": "addons",
-                "stars": 2212
-              }
+                "stars": 2215
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -3271,11 +3469,12 @@
                 "archived": false,
                 "id": 85435841,
                 "language": "Shell",
-                "last_commit": "2026-08-27T10:14:09Z",
+                "last_commit": "2026-08-28T12:28:15Z",
                 "owner": "home-assistant",
                 "repo": "addons",
-                "stars": 2212
-              }
+                "stars": 2215
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Created and maintained by the Home Assistant team.",
@@ -3293,11 +3492,12 @@
                 "archived": false,
                 "id": 128636610,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T10:17:17Z",
+                "last_commit": "2026-08-27T16:53:28Z",
                 "owner": "Koenkk",
                 "repo": "zigbee2mqtt",
-                "stars": 15576
-              }
+                "stars": 15579
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -3311,8 +3511,9 @@
                 "last_commit": "2026-07-13T01:52:56Z",
                 "owner": "sabeechen",
                 "repo": "hassio-google-drive-backup",
-                "stars": 3563
-              }
+                "stars": 3564
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -3327,7 +3528,8 @@
                 "owner": "AppDaemon",
                 "repo": "appdaemon",
                 "stars": 965
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -3338,11 +3540,12 @@
                 "archived": false,
                 "id": 135750371,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T23:47:15Z",
+                "last_commit": "2026-08-28T05:18:54Z",
                 "owner": "hassio-addons",
                 "repo": "app-node-red",
-                "stars": 647
-              }
+                "stars": 646
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -3353,11 +3556,12 @@
                 "archived": false,
                 "id": 156205598,
                 "language": "Jinja",
-                "last_commit": "2026-08-21T18:26:31Z",
+                "last_commit": "2026-08-28T05:09:35Z",
                 "owner": "hassio-addons",
                 "repo": "app-adguard-home",
                 "stars": 531
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -3368,11 +3572,12 @@
                 "archived": false,
                 "id": 100820626,
                 "language": "Shell",
-                "last_commit": "2026-08-26T00:04:23Z",
+                "last_commit": "2026-08-28T13:18:36Z",
                 "owner": "hassio-addons",
                 "repo": "app-ssh",
-                "stars": 527
-              }
+                "stars": 528
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -3383,11 +3588,12 @@
                 "archived": false,
                 "id": 173185312,
                 "language": "Dockerfile",
-                "last_commit": "2026-08-21T12:51:31Z",
+                "last_commit": "2026-08-28T05:24:12Z",
                 "owner": "hassio-addons",
                 "repo": "app-grocy",
                 "stars": 448
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -3402,7 +3608,8 @@
                 "owner": "hassio-addons",
                 "repo": "app-aircast",
                 "stars": 401
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -3413,11 +3620,12 @@
                 "archived": false,
                 "id": 136532086,
                 "language": "Dockerfile",
-                "last_commit": "2026-08-21T17:25:22Z",
+                "last_commit": "2026-08-27T23:04:07Z",
                 "owner": "hassio-addons",
                 "repo": "app-unifi",
                 "stars": 376
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -3427,12 +3635,13 @@
               "repo_info": {
                 "archived": false,
                 "id": 151781327,
-                "language": "Jinja",
-                "last_commit": "2026-08-27T07:42:22Z",
+                "language": "Dockerfile",
+                "last_commit": "2026-08-28T06:50:31Z",
                 "owner": "hassio-addons",
-                "repo": "addon-motioneye",
+                "repo": "app-motioneye",
                 "stars": 335
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -3447,7 +3656,8 @@
                 "owner": "hassio-addons",
                 "repo": "app-grafana",
                 "stars": 282
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -3458,11 +3668,12 @@
                 "archived": false,
                 "id": 141927040,
                 "language": "Jinja",
-                "last_commit": "2026-08-26T05:54:47Z",
+                "last_commit": "2026-08-28T07:27:20Z",
                 "owner": "hassio-addons",
                 "repo": "app-spotify-connect",
                 "stars": 261
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -3473,11 +3684,12 @@
                 "archived": false,
                 "id": 134308500,
                 "language": "Dockerfile",
-                "last_commit": "2026-08-25T20:28:34Z",
+                "last_commit": "2026-08-27T19:09:32Z",
                 "owner": "hassio-addons",
                 "repo": "app-tasmoadmin",
                 "stars": 258
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -3492,7 +3704,8 @@
                 "owner": "hassio-addons",
                 "repo": "addon-influxdb",
                 "stars": 199
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -3507,7 +3720,8 @@
                 "owner": "hassio-addons",
                 "repo": "app-plex",
                 "stars": 192
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -3522,7 +3736,8 @@
                 "owner": "hassio-addons",
                 "repo": "app-glances",
                 "stars": 189
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -3537,7 +3752,8 @@
                 "owner": "hassio-addons",
                 "repo": "app-traccar",
                 "stars": 159
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -3552,7 +3768,8 @@
                 "owner": "hassio-addons",
                 "repo": "app-airsonos",
                 "stars": 124
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -3567,7 +3784,8 @@
                 "owner": "crowdsecurity",
                 "repo": "home-assistant-addons",
                 "stars": 98
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -3578,11 +3796,12 @@
                 "archived": false,
                 "id": 137266276,
                 "language": "Jinja",
-                "last_commit": "2026-08-27T06:05:37Z",
+                "last_commit": "2026-08-27T23:43:06Z",
                 "owner": "hassio-addons",
                 "repo": "addon-log-viewer",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -3597,7 +3816,8 @@
                 "owner": "hassio-addons",
                 "repo": "addon-jupyterlab",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -3608,11 +3828,12 @@
                 "archived": false,
                 "id": 108650798,
                 "language": "Jinja",
-                "last_commit": "2026-08-26T02:30:13Z",
+                "last_commit": "2026-08-28T07:16:39Z",
                 "owner": "hassio-addons",
                 "repo": "app-tor",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -3623,11 +3844,12 @@
                 "archived": false,
                 "id": 134297294,
                 "language": "Jinja",
-                "last_commit": "2026-08-25T18:49:06Z",
+                "last_commit": "2026-08-28T07:02:45Z",
                 "owner": "hassio-addons",
                 "repo": "app-tautulli",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -3638,11 +3860,12 @@
                 "archived": false,
                 "id": 1056355573,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T11:00:23Z",
+                "last_commit": "2026-08-27T20:17:12Z",
                 "owner": "dougrathbone",
                 "repo": "cgateweb-homeassistant",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": "Anyone can create an app, the following are created by the community.",
@@ -3666,11 +3889,12 @@
                 "archived": false,
                 "id": 80286288,
                 "language": "C",
-                "last_commit": "2026-08-25T13:00:41Z",
+                "last_commit": "2026-08-28T10:04:27Z",
                 "owner": "arendst",
                 "repo": "Tasmota",
-                "stars": 24727
-              }
+                "stars": 24729
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -3685,7 +3909,8 @@
                 "owner": "joBr99",
                 "repo": "nspanel-lovelace-ui",
                 "stars": 996
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -3700,7 +3925,8 @@
                 "owner": "MichielVanwelsenaere",
                 "repo": "HomeAutomation.CoDeSys3",
                 "stars": 145
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": null,
@@ -3718,11 +3944,12 @@
                 "archived": false,
                 "id": 68460326,
                 "language": "C++",
-                "last_commit": "2026-08-26T13:13:31Z",
+                "last_commit": "2026-08-28T13:13:25Z",
                 "owner": "1technophile",
                 "repo": "OpenMQTTGateway",
                 "stars": 4082
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             },
             {
               "node_type": "item",
@@ -3737,7 +3964,8 @@
                 "owner": "sidoh",
                 "repo": "esp8266_milight_hub",
                 "stars": 1045
-              }
+              },
+              "first_seen": "2026-08-28T17:30:37.944Z"
             }
           ],
           "description": null,
@@ -3763,7 +3991,8 @@
             "owner": "andrewjfreyer",
             "repo": "monitor",
             "stars": 2111
-          }
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         },
         {
           "node_type": "item",
@@ -3778,7 +4007,8 @@
             "owner": "PiotrMachowski",
             "repo": "Home-Assistant-Taskbar-Menu",
             "stars": 344
-          }
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         },
         {
           "node_type": "item",
@@ -3793,7 +4023,8 @@
             "owner": "danielperna84",
             "repo": "hass-configurator",
             "stars": 336
-          }
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         },
         {
           "node_type": "item",
@@ -3808,7 +4039,8 @@
             "owner": "philhawthorne",
             "repo": "ha-dockermon",
             "stars": 290
-          }
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         },
         {
           "node_type": "item",
@@ -3823,7 +4055,8 @@
             "owner": "skalavala",
             "repo": "mysmarthome",
             "stars": 266
-          }
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         },
         {
           "node_type": "item",
@@ -3838,7 +4071,8 @@
             "owner": "robmarkcole",
             "repo": "HASS-data-detective",
             "stars": 204
-          }
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         }
       ],
       "title": "Tools & Utilities"
@@ -3855,11 +4089,12 @@
             "archived": false,
             "id": 27388642,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T19:00:43Z",
+            "last_commit": "2026-08-28T10:56:39Z",
             "owner": "homebridge",
             "repo": "homebridge",
             "stars": 25465
-          }
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         },
         {
           "node_type": "item",
@@ -3873,8 +4108,9 @@
             "last_commit": "2026-08-27T08:26:32Z",
             "owner": "node-red",
             "repo": "node-red",
-            "stars": 23592
-          }
+            "stars": 23595
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         },
         {
           "node_type": "item",
@@ -3885,11 +4121,12 @@
             "archived": false,
             "id": 40759227,
             "language": "C++",
-            "last_commit": "2026-08-27T16:15:44Z",
+            "last_commit": "2026-08-28T17:24:51Z",
             "owner": "domoticz",
             "repo": "domoticz",
             "stars": 3794
-          }
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         },
         {
           "node_type": "item",
@@ -3900,11 +4137,12 @@
             "archived": false,
             "id": 36928490,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T15:47:28Z",
+            "last_commit": "2026-08-28T17:29:11Z",
             "owner": "GladysAssistant",
             "repo": "Gladys",
-            "stars": 3156
-          }
+            "stars": 3162
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         },
         {
           "node_type": "item",
@@ -3919,7 +4157,8 @@
             "owner": "ioBroker",
             "repo": "ioBroker",
             "stars": 1374
-          }
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         },
         {
           "node_type": "item",
@@ -3930,11 +4169,12 @@
             "archived": false,
             "id": 26161892,
             "language": "PHP",
-            "last_commit": "2026-08-27T13:58:16Z",
+            "last_commit": "2026-08-28T00:27:12Z",
             "owner": "jeedom",
             "repo": "core",
             "stars": 413
-          }
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         }
       ],
       "title": "Alternative Home Automation Software"
@@ -3951,11 +4191,12 @@
             "archived": false,
             "id": 36633370,
             "language": null,
-            "last_commit": "2026-08-27T15:08:33Z",
+            "last_commit": "2026-08-28T15:13:31Z",
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 315555
-          }
+            "stars": 315743
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         },
         {
           "node_type": "item",
@@ -3969,8 +4210,9 @@
             "last_commit": "2026-08-10T11:02:29Z",
             "owner": "HQarroum",
             "repo": "awesome-iot",
-            "stars": 4483
-          }
+            "stars": 4486
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         },
         {
           "node_type": "item",
@@ -3984,23 +4226,24 @@
             "last_commit": "2026-08-22T20:23:35Z",
             "owner": "awesome-mqtt",
             "repo": "awesome-mqtt",
-            "stars": 2388
-          }
+            "stars": 2389
+          },
+          "first_seen": "2026-08-28T17:30:37.944Z"
         }
       ],
       "title": "Other Awesome Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:35:10.765Z",
+    "last_updated": "2026-08-28T17:30:37.944Z",
     "original_repository_info": {
       "archived": false,
       "id": 142909126,
       "language": "Python",
-      "last_commit": "2026-08-21T06:14:59Z",
+      "last_commit": "2026-08-28T09:19:17Z",
       "owner": "frenck",
       "repo": "awesome-home-assistant",
-      "stars": 8383
+      "stars": 8389
     },
     "original_repository_sha": "1d623b2a1e11afc81718ae11d28db88e2e91c521",
     "enhanced_repository": "enhansome/enhansome-home-assistant",
