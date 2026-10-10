@@ -182,8 +182,8 @@ wider ecosystem.
 
 *Discords, forums, and chats run by community projects you will see elsewhere on this list. Sorted alphabetically by project.*
 
-* [Frigate Discussions](https://github.com/blakeblackshear/frigate/discussions) ⭐ 36,442 | 🐛 113 | 🌐 Python | 📅 2026-10-09 - GitHub Discussions for the local-NVR / object-detection project.
-* [Zigbee2MQTT Discussions](https://github.com/Koenkk/zigbee2mqtt/discussions) ⭐ 15,704 | 🐛 454 | 🌐 TypeScript | 📅 2026-10-09 - GitHub Discussions for the popular Zigbee bridge.
+* [Frigate Discussions](https://github.com/blakeblackshear/frigate/discussions) ⭐ 36,462 | 🐛 111 | 🌐 Python | 📅 2026-10-10 - GitHub Discussions for the local-NVR / object-detection project.
+* [Zigbee2MQTT Discussions](https://github.com/Koenkk/zigbee2mqtt/discussions) ⭐ 15,706 | 🐛 458 | 🌐 TypeScript | 📅 2026-10-09 - GitHub Discussions for the popular Zigbee bridge.
 * [AppDaemon Discord](https://discord.gg/sgSr79jW5x) - Help with the Python automation framework that runs alongside the core.
 * [ESPHome Discord](https://discord.gg/KhAMKrd) - Help with ESP-based DIY devices and the YAML firmware for them.
 * [HACS Discord](https://discord.gg/apgchf8) - Help with the Home Assistant Community Store.
@@ -214,7 +214,7 @@ wider ecosystem.
 * [Carlo Costanzo](https://github.com/CCOSTAN/Home-AssistantConfig#logo) ⭐ 5,297 | 🐛 94 | 🌐 Python | 📅 2026-10-08 - Probably the most documented configuration out there (5,208★).
 * [Franck Nijhof](https://github.com/frenck/home-assistant-config) ⭐ 2,031 | 🐛 4 | 📅 2026-10-05 - Home Assistant OS based, very different configuration structure compared to others (2,009★).
 * [Alok Saboo](https://github.com/arsaboo/homeassistant-config) ⭐ 1,959 | 🐛 9 | 🌐 Python | 📅 2026-08-31 - Also known as arsaboo. Regularly updated (1,953★).
-* [geekofweek](https://github.com/geekofweek/homeassistant) ⭐ 1,487 | 🐛 0 | 🌐 Python | 📅 2026-05-15 - Has 300+ automations (1,477★).
+* [geekofweek](https://github.com/geekofweek/homeassistant) ⭐ 1,488 | 🐛 0 | 🌐 Python | 📅 2026-05-15 - Has 300+ automations (1,477★).
 * [DubhAd](https://github.com/DubhAd/Home-AssistantConfig) ⭐ 691 | 🐛 1 | 🌐 HTML | 📅 2026-09-07 - Also known as Tinkerer, shares his configuration files (688★).
 * [Klaas Schoute](https://github.com/klaasnicolaas/Student-homeassistant-config) ⭐ 223 | 🐛 2 | 🌐 Python | 📅 2025-11-21 - Home Assistant OS based, Intel NUC, Ubuntu Server, Docker and regularly updated (223★).
 * [Ryan Warner](https://github.com/rwarner/Home-Assistant-Config) ⭐ 8 | 🐛 0 | 🌐 Shell | 📅 2026-08-31 - Docker on Ubuntu HA Config, maintained since early HA. Highly documented and regularly updated (5★).
@@ -227,14 +227,14 @@ wider ecosystem.
 
 *Wire Home Assistant up to a large language model and let it read your devices, build dashboards, write automations, or describe what your cameras see.*
 
-* [LLM Vision](https://github.com/valentinfrlch/ha-llmvision) ⭐ 1,490 | 🐛 47 | 🌐 Python | 📅 2026-09-17 - Add visual intelligence to your automations: caption camera snapshots, summarize what is happening, react to specific events (1,373★).
-* [AI Automation Suggester](https://github.com/ITSpecialist111/ai_automation_suggester) ⭐ 797 | 🐛 3 | 🌐 Python | 📅 2026-10-02 - Scan your entities and ask an AI provider (OpenAI, Anthropic, Google, Groq, Ollama) for tailored automation suggestions, surfaced as notifications (749★).
+* [LLM Vision](https://github.com/valentinfrlch/ha-llmvision) ⭐ 1,491 | 🐛 47 | 🌐 Python | 📅 2026-09-17 - Add visual intelligence to your automations: caption camera snapshots, summarize what is happening, react to specific events (1,373★).
+* [AI Automation Suggester](https://github.com/ITSpecialist111/ai_automation_suggester) ⭐ 798 | 🐛 3 | 🌐 Python | 📅 2026-10-02 - Scan your entities and ask an AI provider (OpenAI, Anthropic, Google, Groq, Ollama) for tailored automation suggestions, surfaced as notifications (749★).
 
 ### 💡 Lighting
 
 *Effects, schedules, and behaviour layers that sit on top of your lights.*
 
-* [Adaptive Lighting](https://github.com/basnijholt/adaptive-lighting) ⭐ 3,497 | 🐛 155 | 🌐 Python | 📅 2026-10-07 - Slowly adjust the brightness and color temperature of your lights based on the position of the sun (3,324★).
+* [Adaptive Lighting](https://github.com/basnijholt/adaptive-lighting) ⭐ 3,500 | 🐛 157 | 🌐 Python | 📅 2026-10-10 - Slowly adjust the brightness and color temperature of your lights based on the position of the sun (3,324★).
 * [Circadian Lighting](https://github.com/claytonjn/hass-circadian_lighting) ⭐ 902 | 🐛 111 | 🌐 Python | 📅 2025-09-19 - Slowly synchronizes your color-changing lights with the naturally occurring color temperature of the sky throughout the day (886★).
 * [Govee](https://github.com/LaggAt/hacs-govee) ⭐ 362 | 🐛 181 | 🌐 Python | 📅 2026-04-28 - Local control of Govee Wi-Fi lights and bulbs, including effects and color modes (352★).
 
@@ -242,8 +242,8 @@ wider ecosystem.
 
 *Smarter thermostats, comfort sensors, and HVAC integrations that go beyond what comes built in.*
 
-* [Better Thermostat](https://github.com/KartoffelToby/better_thermostat) ⭐ 1,495 | 🐛 55 | 🌐 Python | 📅 2026-10-09 - Smarter thermostat with window detection, heating curves, and per-room comfort profiles for thermostatic radiator valves (1,443★).
-* [Versatile Thermostat](https://github.com/jmcollin78/versatile_thermostat) ⭐ 1,196 | 🐛 17 | 🌐 Python | 📅 2026-10-03 - Full-featured thermostat with presets, window detection, motion-based comfort, and presence (1,075★).
+* [Better Thermostat](https://github.com/KartoffelToby/better_thermostat) ⭐ 1,497 | 🐛 57 | 🌐 Python | 📅 2026-10-10 - Smarter thermostat with window detection, heating curves, and per-room comfort profiles for thermostatic radiator valves (1,443★).
+* [Versatile Thermostat](https://github.com/jmcollin78/versatile_thermostat) ⭐ 1,196 | 🐛 17 | 🌐 Python | 📅 2026-10-10 - Full-featured thermostat with presets, window detection, motion-based comfort, and presence (1,075★).
 * [Midea Air Appliances LAN](https://github.com/nbogojevic/homeassistant-midea-air-appliances-lan) ⭐ 487 | 🐛 12 | 🌐 Python | 📅 2026-07-31 - Local control of Midea air conditioners, dehumidifiers, and other appliances over LAN (460★).
 * [Smart Autotune Thermostat (SAT)](https://github.com/Alexwijn/SAT) ⭐ 253 | 🐛 11 | 🌐 Python | 📅 2026-03-18 - Self-tuning thermostat that talks to OpenTherm, ESPHome, or MQTT gateways and adapts the heating curve to your home over time (246★).
 * [Dual Smart Thermostat](https://github.com/swingerman/ha-dual-smart-thermostat) ⭐ 236 | 🐛 33 | 🌐 Python | 📅 2026-10-01 - Enhanced version of the built-in generic thermostat, with separate heating and cooling, floor temperature limits, and humidity controls (225★).
@@ -252,21 +252,21 @@ wider ecosystem.
 
 *Pull your solar inverter, smart meter, home battery, or utility tariff into Home Assistant and feed the energy dashboard.*
 
-* [Powercalc](https://github.com/bramstroker/homeassistant-powercalc) ⭐ 1,600 | 🐛 23 | 🌐 Python | 📅 2026-10-09 - Calculate estimated power consumption of lights and other devices, even those that don't report it themselves (1,503★).
-* [Anker Solix](https://github.com/thomluther/ha-anker-solix) ⭐ 1,113 | 🐛 8 | 🌐 Python | 📅 2026-10-05 - Pull Anker Solix balcony solar systems, batteries, and power stations into the energy dashboard with live state, history, and charging control (1,005★).
+* [Powercalc](https://github.com/bramstroker/homeassistant-powercalc) ⭐ 1,601 | 🐛 22 | 🌐 Python | 📅 2026-10-10 - Calculate estimated power consumption of lights and other devices, even those that don't report it themselves (1,503★).
+* [Anker Solix](https://github.com/thomluther/ha-anker-solix) ⭐ 1,115 | 🐛 8 | 🌐 Python | 📅 2026-10-05 - Pull Anker Solix balcony solar systems, batteries, and power stations into the energy dashboard with live state, history, and charging control (1,005★).
 * [Octopus Energy](https://github.com/BottlecapDave/HomeAssistant-OctopusEnergy) ⭐ 1,022 | 🐛 71 | 🌐 Python | 📅 2026-10-07 - Pull Octopus Energy tariffs, smart meter readings, intelligent dispatch slots, and saving sessions into your dashboard (940★).
-* [Huawei Solar](https://github.com/wlcrs/huawei_solar) ⭐ 934 | 🐛 4 | 🌐 Python | 📅 2026-09-29 - Read and control Huawei solar inverters and home batteries over Modbus, including grid charge windows (899★).
-* [SolaX Modbus](https://github.com/wills106/homeassistant-solax-modbus) ⭐ 522 | 🐛 40 | 🌐 Python | 📅 2026-10-07 - Talk to SolaX, Solinteg, Sofar, Growatt, and other inverters over Modbus, including read-only and inverter control modes (490★).
+* [Huawei Solar](https://github.com/wlcrs/huawei_solar) ⭐ 934 | 🐛 5 | 🌐 Python | 📅 2026-09-29 - Read and control Huawei solar inverters and home batteries over Modbus, including grid charge windows (899★).
+* [SolaX Modbus](https://github.com/wills106/homeassistant-solax-modbus) ⭐ 522 | 🐛 43 | 🌐 Python | 📅 2026-10-07 - Talk to SolaX, Solinteg, Sofar, Growatt, and other inverters over Modbus, including read-only and inverter control modes (490★).
 * [Solarman](https://github.com/davidrapan/ha-solarman) ⭐ 521 | 🐛 135 | 🌐 Python | 📅 2026-05-03 - Read Deye, Sofar, and other Solarman-branded inverters via the Solarman stick logger (483★).
-* [Solcast PV Forecast](https://github.com/BJReplay/ha-solcast-solar) ⭐ 456 | 🐛 4 | 🌐 Python | 📅 2026-10-09 - Pulls Solcast solar production forecasts so you can see expected generation for the day, with up-to-the-hour confidence bands (420★).
-* [OCPP](https://github.com/lbbrhzn/ocpp) ⭐ 400 | 🐛 43 | 🌐 Python | 📅 2026-10-08 - Bring electric vehicle chargers that speak OCPP into the energy dashboard, with start, stop, and per-session metering (372★).
+* [Solcast PV Forecast](https://github.com/BJReplay/ha-solcast-solar) ⭐ 457 | 🐛 4 | 🌐 Python | 📅 2026-10-09 - Pulls Solcast solar production forecasts so you can see expected generation for the day, with up-to-the-hour confidence bands (420★).
+* [OCPP](https://github.com/lbbrhzn/ocpp) ⭐ 402 | 🐛 43 | 🌐 Python | 📅 2026-10-09 - Bring electric vehicle chargers that speak OCPP into the energy dashboard, with start, stop, and per-session metering (372★).
 * [FoxESS Modbus](https://github.com/nathanmarlor/foxess_modbus) ⭐ 339 | 🐛 77 | 🌐 Python | 📅 2026-09-21 - Connects directly to FoxESS solar inverters over Modbus, no cloud round-trips, for real-time status and control (308★).
-* [SolarEdge Modbus Multi](https://github.com/WillCodeForCats/solaredge-modbus-multi) ⭐ 330 | 🐛 18 | 🌐 Python | 📅 2026-10-09 - Reads SolarEdge inverters, meters, and batteries locally over Modbus/TCP, with multi-inverter and three-phase support (303★).
+* [SolarEdge Modbus Multi](https://github.com/WillCodeForCats/solaredge-modbus-multi) ⭐ 330 | 🐛 20 | 🌐 Python | 📅 2026-10-09 - Reads SolarEdge inverters, meters, and batteries locally over Modbus/TCP, with multi-inverter and three-phase support (303★).
 * [Solis Sensor](https://github.com/hultenvp/solis-sensor) ⭐ 329 | 🐛 29 | 🌐 Python | 📅 2026-09-18 - Talks to the SolisCloud PV monitoring portal so you can pull Solis inverter generation, battery, and grid data into the energy dashboard (320★).
 * [Victron GX](https://github.com/sfstar/hass-victron) ⭐ 322 | 🐛 22 | 🌐 Python | 📅 2026-02-07 - Reads data from a Victron GX device over Modbus/TCP, exposing inverters, batteries, solar chargers, and AC inputs (317★).
 * [EPEX Spot](https://github.com/mampfes/ha_epex_spot) ⭐ 321 | 🐛 49 | 🌐 Python | 📅 2026-06-24 - Brings hourly EPEX spot electricity prices into your dashboard so you can shift loads to the cheapest slots (310★).
 * [Energi Data Service](https://github.com/MTrab/energidataservice) ⭐ 283 | 🐛 8 | 🌐 Python | 📅 2026-10-05 - Fetches Danish electricity spot prices from the Energi Data Service API for use in price-aware automations (275★).
-* [ENTSO-e Day-Ahead Prices](https://github.com/JaccoR/hass-entso-e) ⭐ 280 | 🐛 47 | 🌐 Python | 📅 2026-06-22 - Fetches day-ahead electricity prices from the ENTSO-e Transparency Platform across most European countries (265★).
+* [ENTSO-e Day-Ahead Prices](https://github.com/JaccoR/hass-entso-e) ⭐ 280 | 🐛 48 | 🌐 Python | 📅 2026-06-22 - Fetches day-ahead electricity prices from the ENTSO-e Transparency Platform across most European countries (265★).
 * [Solar Optimizer](https://github.com/jmcollin78/solar_optimizer) ⭐ 241 | 🐛 6 | 🌐 Python | 📅 2026-09-24 - Starts and stops your appliances based on solar surplus production so you self-consume rather than export (228★).
 * [GoodWe Inverter](https://github.com/mletenay/home-assistant-goodwe-inverter) ⭐ 237 | 🐛 88 | 🌐 Python | 📅 2026-07-01 - Pulls live data from GoodWe solar inverters over the local network for use in the energy dashboard (213★).
 * [Dynamic Energy Cost](https://github.com/martinarva/dynamic_energy_cost) ⭐ 200 | 🐛 8 | 🌐 Python | 📅 2026-09-06 - Tracks real-time and cumulative energy cost against a dynamic price feed like Nord Pool or EPEX (189★).
@@ -276,41 +276,41 @@ wider ecosystem.
 *Pair specific camera brands and video sources that Home Assistant does not support out of the box.*
 
 * [WebRTC Camera](https://github.com/AlexxIT/WebRTC) ⭐ 2,188 | 🐛 219 | 🌐 JavaScript | 📅 2026-10-06 - View RTSP streams from IP Cameras in real-time through WebRTC or MSE with Pan/Zoom controls (2,134★).
-* [Tapo Control](https://github.com/JurajNyiri/HomeAssistant-Tapo-Control) ⭐ 2,012 | 🐛 22 | 🌐 Python | 📅 2026-10-06 - Control TP-Link Tapo cameras with PTZ, motion events, and a live RTSP stream (1,912★).
-* [Eufy Security](https://github.com/fuatakgun/eufy_security) ⭐ 1,400 | 🐛 218 | 🌐 Python | 📅 2026-09-23 - Manage Eufy Security cameras, doorbells, and base stations with live streams and event notifications (1,338★).
+* [Tapo Control](https://github.com/JurajNyiri/HomeAssistant-Tapo-Control) ⭐ 2,013 | 🐛 23 | 🌐 Python | 📅 2026-10-06 - Control TP-Link Tapo cameras with PTZ, motion events, and a live RTSP stream (1,912★).
+* [Eufy Security](https://github.com/fuatakgun/eufy_security) ⭐ 1,402 | 🐛 218 | 🌐 Python | 📅 2026-09-23 - Manage Eufy Security cameras, doorbells, and base stations with live streams and event notifications (1,338★).
 * [Frigate](https://github.com/blakeblackshear/frigate-hass-integration) ⭐ 1,275 | 🐛 34 | 🌐 Python | 📅 2026-10-05 - Integrate the Frigate NVR with local object detection into your dashboard, alerts, and snapshots (1,181★).
-* [Dahua](https://github.com/rroller/dahua) ⭐ 569 | 🐛 113 | 🌐 Python | 📅 2026-10-09 - Pair Dahua cameras and doorbells with motion events, snapshots, sirens, and PTZ controls (541★).
-* [HASS Aarlo](https://github.com/twrecked/hass-aarlo) ⭐ 482 | 🐛 87 | 🌐 Python | 📅 2026-10-07 - Asynchronous Arlo integration. Similar to the Arlo web site; monitors events and states for all base stations, cameras and doorbells (470★).
+* [Dahua](https://github.com/rroller/dahua) ⭐ 569 | 🐛 129 | 🌐 Python | 📅 2026-10-10 - Pair Dahua cameras and doorbells with motion events, snapshots, sirens, and PTZ controls (541★).
+* [HASS Aarlo](https://github.com/twrecked/hass-aarlo) ⭐ 482 | 🐛 88 | 🌐 Python | 📅 2026-10-07 - Asynchronous Arlo integration. Similar to the Arlo web site; monitors events and states for all base stations, cameras and doorbells (470★).
 
 ### 🚨 Security & alarm
 
 *Turn Home Assistant into a fully-featured alarm system with arm and disarm flows, user codes, zones, and panic.*
 
-* [Alarmo](https://github.com/nielsfaber/alarmo) ⭐ 2,308 | 🐛 26 | 🌐 Python | 📅 2026-09-14 - Easy-to-use alarm system with arm/disarm flows, user codes, zones, and panic mode (2,148★).
-* [Keymaster](https://github.com/FutureTense/keymaster) ⭐ 349 | 🐛 11 | 🌐 Python | 📅 2026-10-07 - Manages user codes on Z-Wave smart locks, including per-user schedules, one-time codes, and notifications (334★).
+* [Alarmo](https://github.com/nielsfaber/alarmo) ⭐ 2,309 | 🐛 27 | 🌐 Python | 📅 2026-09-14 - Easy-to-use alarm system with arm/disarm flows, user codes, zones, and panic mode (2,148★).
+* [Keymaster](https://github.com/FutureTense/keymaster) ⭐ 349 | 🐛 12 | 🌐 Python | 📅 2026-10-09 - Manages user codes on Z-Wave smart locks, including per-user schedules, one-time codes, and notifications (334★).
 
 ### 🔊 Voice & media playback
 
 *Send commands to voice speakers and media players, or relay what they hear and play back into Home Assistant.*
 
 * [Alexa Media Player](https://github.com/alandtse/alexa_media_player) ⭐ 1,988 | 🐛 14 | 🌐 Python | 📅 2026-10-05 - Control Amazon Alexa devices: announce, play media, and pull device state into your automations (1,948★).
-* [YandexStation](https://github.com/AlexxIT/YandexStation) ⭐ 1,937 | 🐛 95 | 🌐 Python | 📅 2026-10-08 - Control Yandex Station speakers and other smart-home devices through Alice (1,868★).
+* [YandexStation](https://github.com/AlexxIT/YandexStation) ⭐ 1,938 | 🐛 95 | 🌐 Python | 📅 2026-10-08 - Control Yandex Station speakers and other smart-home devices through Alice (1,868★).
 * [Yandex Smart Home](https://github.com/dext0r/yandex_smart_home) ⭐ 1,088 | 🐛 10 | 🌐 Python | 📅 2026-09-02 - Expose your devices to Yandex Alice and the Yandex smart-home app (1,066★).
 * [Spotcast](https://github.com/fondberg/spotcast) ⭐ 814 | 🐛 48 | 🌐 Python | 📅 2026-07-23 - Start Spotify playback on an idle Chromecast device as well as control Spotify connect devices (809★).
-* [View Assist Companion](https://github.com/msp1974/ViewAssist_Companion_App) ⭐ 501 | 🐛 59 | 🌐 Python | 📅 2026-09-28 - Companion Android app and integration that turns a tablet into a hands-free voice and dashboard satellite (374★).
+* [View Assist Companion](https://github.com/msp1974/ViewAssist_Companion_App) ⭐ 501 | 🐛 60 | 🌐 Python | 📅 2026-09-28 - Companion Android app and integration that turns a tablet into a hands-free voice and dashboard satellite (374★).
 
 ### 🚗 Cars & EV charging
 
 *Track your car's battery, location, and charging state, or control where and when it plugs in.*
 
-* [Kia Uvo & Hyundai Bluelink](https://github.com/Hyundai-Kia-Connect/kia_uvo) ⭐ 949 | 🐛 31 | 🌐 Python | 📅 2026-10-06 - Track and control Kia Connect (Uvo) and Hyundai Bluelink cars across EU, Canada, and USA, including charging, climate, and lock state (870★).
-* [Tesla](https://github.com/alandtse/tesla) ⭐ 784 | 🐛 42 | 🌐 Python | 📅 2026-10-05 - Track Tesla cars and Powerwalls with charging, climate, location, and security state, using a refresh token from a third-party login app (740★).
+* [Kia Uvo & Hyundai Bluelink](https://github.com/Hyundai-Kia-Connect/kia_uvo) ⭐ 950 | 🐛 33 | 🌐 Python | 📅 2026-10-06 - Track and control Kia Connect (Uvo) and Hyundai Bluelink cars across EU, Canada, and USA, including charging, climate, and lock state (870★).
+* [Tesla](https://github.com/alandtse/tesla) ⭐ 784 | 🐛 41 | 🌐 Python | 📅 2026-10-05 - Track Tesla cars and Powerwalls with charging, climate, location, and security state, using a refresh token from a third-party login app (740★).
 * [Volkswagen Carnet](https://github.com/robinostlund/homeassistant-volkswagencarnet) ⭐ 707 | 🐛 7 | 🌐 Python | 📅 2026-10-06 - Track charging state, climate preconditioning, and remote lock and honk for Volkswagen cars on the Carnet platform (643★).
 * [evcc](https://github.com/marq24/ha-evcc) ⭐ 478 | 🐛 0 | 🌐 Python | 📅 2026-10-06 - Connects to an evcc instance to surface charge sessions, solar matching, and per-loadpoint state (410★).
 * [Audi Connect](https://github.com/audiconnect/audi_connect_ha) ⭐ 368 | 🐛 22 | 🌐 Python | 📅 2026-10-06 - Tracks Audi cars over the Audi Connect API, including charging state, range, lock, and climate preconditioning (338★).
 * [EV Smart Charging](https://github.com/jonasbkarlsson/ev_smart_charging) ⭐ 329 | 🐛 76 | 🌐 Python | 📅 2026-10-08 - Plans an electric vehicle charging schedule across the cheapest hours of a dynamic tariff, working with most chargers and price sensors (297★).
 * [Easee EV Charger](https://github.com/nordicopen/easee_hass) ⭐ 283 | 🐛 38 | 🌐 Python | 📅 2026-10-07 - Adds Easee EV chargers with live charge state, dynamic load balancing, and per-session metering (272★).
-* [Stellantis Vehicles](https://github.com/andreadegiovine/homeassistant-stellantis-vehicles) ⭐ 276 | 🐛 24 | 🌐 Python | 📅 2026-10-03 - Adds Stellantis cars (Peugeot, Citroen, Fiat, Opel, Vauxhall, DS) over the manufacturer API for range, lock, and climate (231★).
+* [Stellantis Vehicles](https://github.com/andreadegiovine/homeassistant-stellantis-vehicles) ⭐ 277 | 🐛 23 | 🌐 Python | 📅 2026-10-03 - Adds Stellantis cars (Peugeot, Citroen, Fiat, Opel, Vauxhall, DS) over the manufacturer API for range, lock, and climate (231★).
 * [Polestar](https://github.com/pypolestar/polestar_api) ⭐ 274 | 🐛 2 | 🌐 Python | 📅 2026-09-22 - Reads Polestar EVs through the Polestar app API, with range, charging, and location data (249★).
 
 ### 📍 Presence & location
@@ -319,86 +319,86 @@ wider ecosystem.
 
 * [iCloud3](https://github.com/gcobb321/icloud3) ⭐ 913 | 🐛 127 | 🌐 Python | 📅 2026-09-08 - Improved version of the iCloud device tracker component with a lot of capabilities (855★).
 * [iPhone Detect](https://github.com/mudape/iphonedetect) ⭐ 655 | 🐛 6 | 🌐 Python | 📅 2026-07-03 - Detect iPhones (and other phones) on the local Wi-Fi without an app, by sending a UDP probe and watching for the reply (625★).
-* [Flightradar24](https://github.com/AlexandrErohin/home-assistant-flightradar24) ⭐ 549 | 🐛 33 | 🌐 Python | 📅 2026-10-06 - Track aircraft flying over a configurable bounding box around your home using Flightradar24 (468★).
-* [Places](https://github.com/custom-components/places) ⭐ 213 | 🐛 3 | 🌐 Python | 📅 2026-10-09 - Reverse-geocodes a device tracker location through OpenStreetMap so automations can react to "at the supermarket" rather than raw coordinates (191★).
+* [Flightradar24](https://github.com/AlexandrErohin/home-assistant-flightradar24) ⭐ 550 | 🐛 35 | 🌐 Python | 📅 2026-10-06 - Track aircraft flying over a configurable bounding box around your home using Flightradar24 (468★).
+* [Places](https://github.com/custom-components/places) ⭐ 213 | 🐛 2 | 🌐 Python | 📅 2026-10-10 - Reverse-geocodes a device tracker location through OpenStreetMap so automations can react to "at the supermarket" rather than raw coordinates (191★).
 
 ### 🧹 Vacuums
 
 *Control specific robot vacuums and surface their map data, beyond what comes built in.*
 
-* [Dreame Vacuum](https://github.com/Tasshack/dreame-vacuum) ⭐ 2,228 | 🐛 30 | 🌐 Python | 📅 2026-10-02 - Dreame robot vacuums with full map support, including no-go zones and selective room cleaning (1,999★).
-* [Xiaomi Cloud Map Extractor](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor) ⭐ 1,428 | 🐛 152 | 🌐 Python | 📅 2026-02-20 - Presents a live view of a map for Xiaomi (Roborock/Viomi/Roidmi/Dreame) vacuums without a need for rooting (1,405★).
+* [Dreame Vacuum](https://github.com/Tasshack/dreame-vacuum) ⭐ 2,230 | 🐛 33 | 🌐 Python | 📅 2026-10-02 - Dreame robot vacuums with full map support, including no-go zones and selective room cleaning (1,999★).
+* [Xiaomi Cloud Map Extractor](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor) ⭐ 1,428 | 🐛 155 | 🌐 Python | 📅 2026-02-20 - Presents a live view of a map for Xiaomi (Roborock/Viomi/Roidmi/Dreame) vacuums without a need for rooting (1,405★).
 
 ### 🔵 Bluetooth & BLE
 
 *Pull data from sensors that broadcast over Bluetooth, or use Bluetooth itself for room-level presence detection.*
 
 * [BLE Monitor](https://github.com/custom-components/ble_monitor) ⭐ 2,249 | 🐛 121 | 🌐 Python | 📅 2026-09-30 - Passively read sensor data from Xiaomi MiBeacon, Govee, ATC, Inkbird, Qingping, and many other BLE sensors (2,214★).
-* [Bermuda](https://github.com/agittins/bermuda) ⭐ 2,081 | 🐛 140 | 🌐 Python | 📅 2026-10-05 - Room-level presence detection by triangulating BLE signals across multiple ESPHome receivers (1,798★).
-* [EcoFlow BLE](https://github.com/rabits/ha-ef-ble) ⭐ 405 | 🐛 69 | 🌐 Python | 📅 2026-10-08 - Pulls EcoFlow power stations and accessories over Bluetooth Low Energy, no cloud account required (304★).
-* [BLE Battery Management Systems](https://github.com/patman15/BMS_BLE-HA) ⭐ 364 | 🐛 27 | 🌐 Python | 📅 2026-10-08 - Reads Bluetooth Low Energy battery management systems (BMS) from many vendors, exposing per-cell voltages, balancing, and SOC (328★).
+* [Bermuda](https://github.com/agittins/bermuda) ⭐ 2,083 | 🐛 139 | 🌐 Python | 📅 2026-10-05 - Room-level presence detection by triangulating BLE signals across multiple ESPHome receivers (1,798★).
+* [EcoFlow BLE](https://github.com/rabits/ha-ef-ble) ⭐ 405 | 🐛 70 | 🌐 Python | 📅 2026-10-08 - Pulls EcoFlow power stations and accessories over Bluetooth Low Energy, no cloud account required (304★).
+* [BLE Battery Management Systems](https://github.com/patman15/BMS_BLE-HA) ⭐ 367 | 🐛 27 | 🌐 Python | 📅 2026-10-08 - Reads Bluetooth Low Energy battery management systems (BMS) from many vendors, exposing per-cell voltages, balancing, and SOC (328★).
 
 ### 🔋 Battery monitoring
 
 *Keep an eye on the batteries in all your devices and get warned before they run flat.*
 
-* [Battery Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ⭐ 1,172 | 🐛 8 | 🌐 Python | 📅 2026-10-09 - Annotate every device with its battery type and quantity, then track replacements, low-battery warnings, and history (1,105★).
+* [Battery Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ⭐ 1,173 | 🐛 8 | 🌐 Python | 📅 2026-10-09 - Annotate every device with its battery type and quantity, then track replacements, low-battery warnings, and history (1,105★).
 
 ### 🏷️ Vendor & brand
 
 *Pull a specific manufacturer's devices into Home Assistant, often with more features or better local control than what comes built in.*
 
-* [Xiaomi MIoT](https://github.com/al-one/hass-xiaomi-miot) ⭐ 6,155 | 🐛 929 | 🌐 Python | 📅 2026-10-04 - Auto-integrate Xiaomi smart-home devices over Wi-Fi, BLE, and Zigbee using the MIoT-spec protocol (5,911★).
-* [LocalTuya](https://github.com/rospogrigio/localtuya) ⭐ 3,990 | 🐛 1,588 | 🌐 Python | 📅 2026-01-29 - Local control of Tuya devices over the LAN, no cloud round-trips, supporting plugs, lights, climate, and covers (3,857★).
-* [Sonoff LAN](https://github.com/AlexxIT/SonoffLAN) ⭐ 3,321 | 🐛 186 | 🌐 Python | 📅 2026-09-27 - Control Sonoff devices with eWeLink (original) firmware over LAN and/or Cloud (3,257★).
+* [Xiaomi MIoT](https://github.com/al-one/hass-xiaomi-miot) ⭐ 6,157 | 🐛 930 | 🌐 Python | 📅 2026-10-04 - Auto-integrate Xiaomi smart-home devices over Wi-Fi, BLE, and Zigbee using the MIoT-spec protocol (5,911★).
+* [LocalTuya](https://github.com/rospogrigio/localtuya) ⭐ 3,992 | 🐛 1,588 | 🌐 Python | 📅 2026-01-29 - Local control of Tuya devices over the LAN, no cloud round-trips, supporting plugs, lights, climate, and covers (3,857★).
+* [Sonoff LAN](https://github.com/AlexxIT/SonoffLAN) ⭐ 3,322 | 🐛 186 | 🌐 Python | 📅 2026-09-27 - Control Sonoff devices with eWeLink (original) firmware over LAN and/or Cloud (3,257★).
 * [SmartIR](https://github.com/smartHomeHub/SmartIR) ⭐ 2,844 | 🐛 238 | 🌐 Python | 📅 2025-07-21 - Integrates devices using Broadlink IR (2,733★).
-* [Xiaomi Gateway 3](https://github.com/AlexxIT/XiaomiGateway3) ⭐ 2,792 | 🐛 145 | 🌐 Python | 📅 2026-10-01 - Local control of Xiaomi Multimode Gateway and Aqara Hub E1 over LAN, no cloud round-trips (2,757★).
-* [Midea AC LAN](https://github.com/wuwentao/midea_ac_lan) ⭐ 1,903 | 🐛 95 | 🌐 Python | 📅 2026-10-08 - Local control of Midea air conditioners, heat pumps, and other M-Smart devices (1,684★).
-* [SmartThinQ Sensors](https://github.com/ollo69/ha-smartthinq-sensors) ⭐ 1,322 | 🐛 160 | 🌐 Python | 📅 2026-05-25 - LG appliances (washers, dryers, AC, fridges) wired up via SmartThinQ with rich state and remote start (1,310★).
+* [Xiaomi Gateway 3](https://github.com/AlexxIT/XiaomiGateway3) ⭐ 2,793 | 🐛 145 | 🌐 Python | 📅 2026-10-01 - Local control of Xiaomi Multimode Gateway and Aqara Hub E1 over LAN, no cloud round-trips (2,757★).
+* [Midea AC LAN](https://github.com/wuwentao/midea_ac_lan) ⭐ 1,905 | 🐛 89 | 🌐 Python | 📅 2026-10-10 - Local control of Midea air conditioners, heat pumps, and other M-Smart devices (1,684★).
+* [SmartThinQ Sensors](https://github.com/ollo69/ha-smartthinq-sensors) ⭐ 1,325 | 🐛 165 | 🌐 Python | 📅 2026-05-25 - LG appliances (washers, dryers, AC, fridges) wired up via SmartThinQ with rich state and remote start (1,310★).
 * [Home Connect Alt](https://github.com/ekutner/home-connect-hass) ⭐ 1,016 | 🐛 6 | 🌐 Python | 📅 2026-09-01 - Alternative Home Connect integration for Bosch, Siemens, NEFF, and Gaggenau ovens, dishwashers, and washing machines, with richer state than the official one (970★).
-* [Tapo Devices](https://github.com/petretiandrea/home-assistant-tapo-p100) ⭐ 976 | 🐛 25 | 🌐 Python | 📅 2026-08-11 - TP-Link Tapo plugs, switches, bulbs, and energy monitoring (P100, P105, P110, L510, L530, L900) over LAN (954★).
+* [Tapo Devices](https://github.com/petretiandrea/home-assistant-tapo-p100) ⭐ 976 | 🐛 26 | 🌐 Python | 📅 2026-08-11 - TP-Link Tapo plugs, switches, bulbs, and energy monitoring (P100, P105, P110, L510, L530, L900) over LAN (954★).
 * [Meross](https://github.com/albertogeniola/meross-homeassistant) ⭐ 857 | 🐛 60 | 🌐 Python | 📅 2026-01-22 - Control Meross plugs, switches, bulbs, garage door openers, and humidifiers via the Meross IoT cloud (848★).
-* [Meross LAN](https://github.com/krahabb/meross_lan) ⭐ 750 | 🐛 56 | 🌐 Python | 📅 2026-09-22 - Local control of Meross plugs, switches, lights, and garage door openers, falling back to cloud only when needed (718★).
+* [Meross LAN](https://github.com/krahabb/meross_lan) ⭐ 750 | 🐛 56 | 🌐 Python | 📅 2026-10-10 - Local control of Meross plugs, switches, lights, and garage door openers, falling back to cloud only when needed (718★).
 * [SamsungTV Smart](https://github.com/ollo69/ha-samsungtv-smart) ⭐ 678 | 🐛 55 | 🌐 Python | 📅 2026-05-26 - Improved Samsung TV integration with SmartThings support, source switching, app launching, and per-app icons (652★).
-* [HomeMatic IP Local](https://github.com/SukramJ/homematicip_local) ⭐ 601 | 🐛 0 | 🌐 Python | 📅 2026-10-08 - Local control of HomeMatic and HomeMatic IP devices through OpenCCU or RaspberryMatic, no cloud round-trips (572★).
+* [HomeMatic IP Local](https://github.com/SukramJ/homematicip_local) ⭐ 601 | 🐛 0 | 🌐 Python | 📅 2026-10-10 - Local control of HomeMatic and HomeMatic IP devices through OpenCCU or RaspberryMatic, no cloud round-trips (572★).
 * [Nest Protect](https://github.com/iMicknl/ha-nest-protect) ⭐ 487 | 🐛 60 | 🌐 Python | 📅 2026-10-05 - Track Nest Protect smoke and CO alarms with battery state, recent events, and per-room safety status (468★).
-* [Home Connect Local](https://github.com/chris-mc1/homeconnect_local_hass) ⭐ 476 | 🐛 82 | 🌐 Python | 📅 2026-10-08 - Talks to Bosch, Siemens, NEFF, and Gaggenau appliances directly over the local network, no cloud detour (390★).
-* [Dyson](https://github.com/libdyson-wg/ha-dyson) ⭐ 438 | 🐛 83 | 🌐 Python | 📅 2025-08-15 - Wi-Fi connected Dyson fans, purifiers, and humidifiers, with full per-mode control over the local network (418★).
-* [PETLIBRO](https://github.com/jjjonesjr33/petlibro) ⭐ 371 | 🐛 19 | 🌐 Python | 📅 2026-09-22 - Adds PETLIBRO smart pet feeders and fountains, with feeding schedules, dispense events, and battery levels (319★).
+* [Home Connect Local](https://github.com/chris-mc1/homeconnect_local_hass) ⭐ 479 | 🐛 83 | 🌐 Python | 📅 2026-10-08 - Talks to Bosch, Siemens, NEFF, and Gaggenau appliances directly over the local network, no cloud detour (390★).
+* [Dyson](https://github.com/libdyson-wg/ha-dyson) ⭐ 439 | 🐛 83 | 🌐 Python | 📅 2025-08-15 - Wi-Fi connected Dyson fans, purifiers, and humidifiers, with full per-mode control over the local network (418★).
+* [PETLIBRO](https://github.com/jjjonesjr33/petlibro) ⭐ 371 | 🐛 20 | 🌐 Python | 📅 2026-09-22 - Adds PETLIBRO smart pet feeders and fountains, with feeding schedules, dispense events, and battery levels (319★).
 * [PetKit](https://github.com/RobertD502/home-assistant-petkit) ⭐ 353 | 🐛 1 | 🌐 Python | 📅 2026-09-22 - Adds PetKit feeders, fountains, and litter boxes over the manufacturer cloud, with full state and feeding controls (340★).
 * [hOn](https://github.com/gvigroux/hon) ⭐ 292 | 🐛 96 | 🌐 Python | 📅 2026-09-07 - Pulls Haier, Candy, and Hoover appliances from the official hOn cloud, exposing every state and parameter the app shows (253★).
-* [Miele](https://github.com/astrandb/miele) ⭐ 264 | 🐛 58 | 🌐 Python | 📅 2026-05-21 - Pairs Miele washing machines, dryers, dishwashers, ovens, and coffee machines, with detailed program state (267★).
+* [Miele](https://github.com/astrandb/miele) ⭐ 264 | 🐛 57 | 🌐 Python | 📅 2026-05-21 - Pairs Miele washing machines, dryers, dishwashers, ovens, and coffee machines, with detailed program state (267★).
 
 ### 🛠️ Automation tooling
 
 *Helpers that make automations easier to write, debug, and maintain.*
 
-* [Browser Mod](https://github.com/thomasloven/hass-browser_mod) ⭐ 1,823 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-07 - Turn each browser into a controllable entity: pop up cards, navigate views, play sounds, or detect who is looking at the dashboard (1,748★).
-* [Spook](https://github.com/frenck/spook) ⭐ 1,338 | 🐛 12 | 🌐 Python | 📅 2026-10-09 - A toolbox of helpful sensors, services, and templates that surface things the UI normally hides (1,138★).
-* [Pyscript](https://github.com/custom-components/pyscript) ⭐ 1,188 | 🐛 139 | 🌐 Python | 📅 2026-09-11 - Write automations and templates in Python instead of YAML (1,159★).
-* [Scheduler Component](https://github.com/nielsfaber/scheduler-component) ⭐ 906 | 🐛 9 | 🌐 Python | 📅 2026-03-01 - Build weekly schedules for any entity through a card-driven UI, no YAML required (883★).
+* [Browser Mod](https://github.com/thomasloven/hass-browser_mod) ⭐ 1,824 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-07 - Turn each browser into a controllable entity: pop up cards, navigate views, play sounds, or detect who is looking at the dashboard (1,748★).
+* [Spook](https://github.com/frenck/spook) ⭐ 1,423 | 🐛 4 | 🌐 Python | 📅 2026-10-10 - A toolbox of helpful sensors, services, and templates that surface things the UI normally hides (1,138★).
+* [Pyscript](https://github.com/custom-components/pyscript) ⭐ 1,187 | 🐛 140 | 🌐 Python | 📅 2026-09-11 - Write automations and templates in Python instead of YAML (1,159★).
+* [Scheduler Component](https://github.com/nielsfaber/scheduler-component) ⭐ 907 | 🐛 10 | 🌐 Python | 📅 2026-03-01 - Build weekly schedules for any entity through a card-driven UI, no YAML required (883★).
 * [The Watchman](https://github.com/dummylabs/thewatchman) ⭐ 687 | 🐛 49 | 🌐 Python | 📅 2026-03-25 - Keep track of missing entities and services in your config files (655★).
-* [Node-RED Companion](https://github.com/zachowj/hass-node-red) ⭐ 583 | 🐛 16 | 🌐 Python | 📅 2026-10-05 - Companion component for the node-red-contrib-home-assistant-websocket project that exposes services, sensors, and binary sensors back to your dashboards (573★).
+* [Node-RED Companion](https://github.com/zachowj/hass-node-red) ⭐ 582 | 🐛 16 | 🌐 Python | 📅 2026-10-05 - Companion component for the node-red-contrib-home-assistant-websocket project that exposes services, sensors, and binary sensors back to your dashboards (573★).
 * [Magic Areas](https://github.com/jseidl/magic-areas) ⭐ 521 | 🐛 13 | 🌐 Python | 📅 2026-09-18 - Auto-build per-room presence, climate, and media area entities, with motion-triggered scenes and bright/dark detection (493★).
-* [Auto Backup](https://github.com/jcwillox/hass-auto-backup) ⭐ 463 | 🐛 34 | 🌐 Python | 📅 2026-10-07 - Automate backups with custom schedules, retention rules, encryption, and uploads to remote storage (462★).
-* [Multiscrape](https://github.com/danieldotnl/ha-multiscrape) ⭐ 451 | 🐛 17 | 🌐 Python | 📅 2026-10-08 - Scrape multiple values (HTML, XML, or JSON) from a page in one request and turn them into sensors (437★).
+* [Auto Backup](https://github.com/jcwillox/hass-auto-backup) ⭐ 463 | 🐛 34 | 🌐 Python | 📅 2026-10-10 - Automate backups with custom schedules, retention rules, encryption, and uploads to remote storage (462★).
+* [Multiscrape](https://github.com/danieldotnl/ha-multiscrape) ⭐ 451 | 🐛 17 | 🌐 Python | 📅 2026-10-10 - Scrape multiple values (HTML, XML, or JSON) from a page in one request and turn them into sensors (437★).
 * [Retry Service](https://github.com/amitfin/retry) ⭐ 173 | 🐛 0 | 🌐 Python | 📅 2026-10-03 - Wraps any service call so transient failures retry automatically with exponential backoff (163★).
 
 ### 🏘️ Civic & household
 
 *Local services that turn into sensors and calendars: garbage collection schedules, school holidays, traffic, weather alerts, and similar.*
 
-* [Mail and Packages](https://github.com/moralmunky/Home-Assistant-Mail-And-Packages) ⭐ 892 | 🐛 11 | 🌐 Python | 📅 2026-10-08 - Sensors for incoming and delivered packages plus USPS Informed Delivery preview images, all from your existing email account (844★).
-* [Smart Irrigation](https://github.com/jeroenterheerdt/HAsmartirrigation) ⭐ 560 | 🐛 7 | 🌐 Python | 📅 2026-10-09 - Calculates how long to run each irrigation zone based on evapotranspiration, recent rainfall, and weather forecasts (509★).
-* [Moonraker (Klipper)](https://github.com/marcolivierarsenault/moonraker-home-assistant) ⭐ 496 | 🐛 21 | 🌐 Python | 📅 2026-10-05 - Track Klipper-based 3D printers running Moonraker (Mainsail, Fluidd) with print progress, temperature, and webcam snapshots (469★).
-* [Irrigation Unlimited](https://github.com/rgc99/irrigation_unlimited) ⭐ 463 | 🐛 90 | 🌐 Python | 📅 2026-06-22 - Multi-zone irrigation controller with schedules, sequences, weather adjustments, and manual run support (435★).
-* [UK Bin Collection](https://github.com/robbrad/UKBinCollectionData) ⭐ 351 | 🐛 19 | 🌐 Python | 📅 2026-10-01 - Council bin collection schedules across UK local authorities, exposed as next-pickup sensors per waste stream (328★).
+* [Mail and Packages](https://github.com/moralmunky/Home-Assistant-Mail-And-Packages) ⭐ 892 | 🐛 11 | 🌐 Python | 📅 2026-10-09 - Sensors for incoming and delivered packages plus USPS Informed Delivery preview images, all from your existing email account (844★).
+* [Smart Irrigation](https://github.com/jeroenterheerdt/HAsmartirrigation) ⭐ 561 | 🐛 9 | 🌐 Python | 📅 2026-10-09 - Calculates how long to run each irrigation zone based on evapotranspiration, recent rainfall, and weather forecasts (509★).
+* [Moonraker (Klipper)](https://github.com/marcolivierarsenault/moonraker-home-assistant) ⭐ 497 | 🐛 21 | 🌐 Python | 📅 2026-10-05 - Track Klipper-based 3D printers running Moonraker (Mainsail, Fluidd) with print progress, temperature, and webcam snapshots (469★).
+* [Irrigation Unlimited](https://github.com/rgc99/irrigation_unlimited) ⭐ 463 | 🐛 91 | 🌐 Python | 📅 2026-06-22 - Multi-zone irrigation controller with schedules, sequences, weather adjustments, and manual run support (435★).
+* [UK Bin Collection](https://github.com/robbrad/UKBinCollectionData) ⭐ 351 | 🐛 20 | 🌐 Python | 📅 2026-10-01 - Council bin collection schedules across UK local authorities, exposed as next-pickup sensors per waste stream (328★).
 
 ### 🔐 Network & authentication
 
 *Sign in to Home Assistant with single sign-on, route through a tunnel, or pull network hardware into your dashboard.*
 
-* [OIDC Auth](https://github.com/christiaangoossens/hass-oidc-auth) ⭐ 1,108 | 🐛 9 | 🌐 Python | 📅 2026-10-06 - Sign in with single sign-on through any OpenID Connect provider, including Authelia, Authentik, Keycloak, and Pocket ID (936★).
+* [OIDC Auth](https://github.com/christiaangoossens/hass-oidc-auth) ⭐ 1,108 | 🐛 9 | 🌐 Python | 📅 2026-10-10 - Sign in with single sign-on through any OpenID Connect provider, including Authelia, Authentik, Keycloak, and Pocket ID (936★).
 * [Mikrotik Router](https://github.com/tomaae/homeassistant-mikrotik_router) ⭐ 472 | 🐛 20 | 🌐 Python | 📅 2026-09-11 - Pulls Mikrotik routers and access points into your dashboard, with per-client traffic, DHCP leases, and PoE controls (453★).
 * [TP-Link Router](https://github.com/AlexandrErohin/home-assistant-tplink-router) ⭐ 392 | 🐛 124 | 🌐 Python | 📅 2026-10-06 - Manages TP-Link and Mercusys routers with sensors, reboot button, switches, and per-client device tracking (348★).
 * [OpenID Connect Auth](https://github.com/cavefire/hass-openid) ⭐ 214 | 🐛 9 | 🌐 Python | 📅 2026-08-30 - Sign in through any OpenID Connect provider, including Authelia, Keycloak, and Authentik (201★).
@@ -415,7 +415,7 @@ wider ecosystem.
 
 * [Monitor Docker](https://github.com/ualex73/monitor_docker) ⭐ 412 | 🐛 26 | 🌐 Python | 📅 2026-09-23 - Watch CPU, memory, network, and uptime for every Docker container on a host, including remote ones, and start or stop them from automations (401★).
 * [TrueNAS](https://github.com/tomaae/homeassistant-truenas) ⭐ 385 | 🐛 17 | 🌐 Python | 📅 2026-08-05 - Pull TrueNAS Scale and Core stats, datasets, virtual machines, and apps into sensors and switches (370★).
-* [Unraid](https://github.com/ruaan-deysel/ha-unraid) ⭐ 255 | 🐛 5 | 🌐 Python | 📅 2026-10-08 - Monitors and controls an Unraid NAS, including CPU, memory, disks, virtual machines, and Docker containers (240★).
+* [Unraid](https://github.com/ruaan-deysel/ha-unraid) ⭐ 255 | 🐛 5 | 🌐 Python | 📅 2026-10-10 - Monitors and controls an Unraid NAS, including CPU, memory, disks, virtual machines, and Docker containers (240★).
 * [Elasticsearch](https://github.com/legrego/homeassistant-elasticsearch) ⭐ 165 | 🐛 30 | 🌐 Python | 📅 2026-10-08 - Publishes events to Elasticsearch (165★).
 
 ## Dashboard Cards
@@ -426,8 +426,8 @@ wider ecosystem.
 
 *Full card collections that change the look and feel of your dashboards. Mushroom, Bubble Card, Floorplan, and similar all-in-one toolkits.*
 
-* [Mushroom](https://github.com/piitaya/lovelace-mushroom) ⭐ 5,197 | 🐛 442 | 🌐 TypeScript | 📅 2026-10-05 - A complete card collection with a soft, mobile-first aesthetic that you can drop into existing dashboards (5,018★).
-* [Bubble Card](https://github.com/Clooos/Bubble-Card) ⭐ 4,637 | 🐛 29 | 🌐 JavaScript | 📅 2026-09-25 - Minimalist card collection with a pop-up touch and rich customization (4,323★).
+* [Mushroom](https://github.com/piitaya/lovelace-mushroom) ⭐ 5,199 | 🐛 442 | 🌐 TypeScript | 📅 2026-10-05 - A complete card collection with a soft, mobile-first aesthetic that you can drop into existing dashboards (5,018★).
+* [Bubble Card](https://github.com/Clooos/Bubble-Card) ⭐ 4,639 | 🐛 29 | 🌐 JavaScript | 📅 2026-09-25 - Minimalist card collection with a pop-up touch and rich customization (4,323★).
 * [UI Lovelace Minimalist](https://github.com/UI-Lovelace-Minimalist/UI) ⭐ 2,070 | 🐛 38 | 🌐 JavaScript | 📅 2026-10-05 - Drop-in dashboard collection with a uniform minimalist look across all your views, including ready-made cards and a button card library (2,036★).
 * [Floorplan](https://github.com/ExperienceLovelace/ha-floorplan) ⭐ 1,620 | 🐛 16 | 🌐 TypeScript | 📅 2026-09-13 - Map entities onto an SVG of your house and animate them based on state changes (1,553★).
 
@@ -436,7 +436,7 @@ wider ecosystem.
 *Cards that change where and how other cards appear: stack, fold, show conditionally, restyle, or template.*
 
 * [Button card](https://github.com/custom-cards/button-card) ⭐ 2,510 | 🐛 34 | 🌐 TypeScript | 📅 2026-09-09 - Highly customizable button for your entities (2,456★).
-* [Auto-Entities Card](https://github.com/thomasloven/lovelace-auto-entities) ⭐ 1,824 | 🐛 170 | 🌐 TypeScript | 📅 2026-05-09 - Dynamically adds entities: 🔮 Magic (1,756★).
+* [Auto-Entities Card](https://github.com/thomasloven/lovelace-auto-entities) ⭐ 1,825 | 🐛 170 | 🌐 TypeScript | 📅 2026-05-09 - Dynamically adds entities: 🔮 Magic (1,756★).
 * [Card Modder](https://github.com/thomasloven/lovelace-card-mod) ⭐ 1,822 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-30 - Style your Lovelace cards (1,722★).
 * [Layout Card](https://github.com/thomasloven/lovelace-layout-card) ⭐ 1,253 | 🐛 121 | 🌐 TypeScript | 📅 2026-05-09 - Get fine-grained control over how cards are placed on your dashboard, including masonry-style and grid layouts (1,246★).
 * [Vertical Stack In Card](https://github.com/ofekashery/vertical-stack-in-card) ⭐ 983 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-01 - Group multiple cards into a single sleek card with one shared border (968★).
@@ -446,7 +446,7 @@ wider ecosystem.
 * [State Switch](https://github.com/thomasloven/lovelace-state-switch) ⭐ 479 | 🐛 60 | 🌐 TypeScript | 📅 2025-07-31 - Dynamically swap one card for another based on the state of an entity, the time of day, or the user viewing (463★).
 * [Custom Card Features](https://github.com/Nerwyn/custom-card-features) ⭐ 447 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-06 - Adds buttons, dropdowns, sliders, spinboxes, selectors, and toggles you can attach to tile cards to call any service (426★).
 * [Expander Card](https://github.com/Alia5/lovelace-expander-card) ⭐ 422 | 🐛 22 | 🌐 Svelte | 📅 2025-04-13 - Expandable and collapsible card to group and hide other cards behind a header (415★).
-* [Paper Buttons Row](https://github.com/jcwillox/lovelace-paper-buttons-row) ⭐ 368 | 🐛 74 | 🌐 TypeScript | 📅 2026-10-01 - Highly configurable button rows that can call actions, fire haptics, and restyle per state (359★).
+* [Paper Buttons Row](https://github.com/jcwillox/lovelace-paper-buttons-row) ⭐ 368 | 🐛 74 | 🌐 TypeScript | 📅 2026-10-10 - Highly configurable button rows that can call actions, fire haptics, and restyle per state (359★).
 * [Restriction Card](https://github.com/iantrich/restriction-card) ⭐ 323 | 🐛 21 | 🌐 TypeScript | 📅 2026-06-17 - A card to provide restrictions on Lovelace cards defined within (317★).
 * [Custom Sidebar](https://github.com/elchininet/custom-sidebar) ⭐ 293 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-07 - Personalise the sidebar per user or device, hide pages, reorder them, or restyle the look (278★).
 * [Streamline Card](https://github.com/brunosabot/streamline-card) ⭐ 269 | 🐛 35 | 🌐 HTML | 📅 2026-05-24 - Define a card template once and reuse it across the dashboard with different entities, no copy-paste YAML (258★).
@@ -455,9 +455,9 @@ wider ecosystem.
 
 *Visualise sensor data over time. Gauges, line graphs, bars, and Sankey diagrams.*
 
-* [Mini Graph Card](https://github.com/kalkih/mini-graph-card) ⭐ 3,894 | 🐛 133 | 🌐 JavaScript | 📅 2026-10-07 - A minimalistic sensor graph card (3,830★).
+* [Mini Graph Card](https://github.com/kalkih/mini-graph-card) ⭐ 3,895 | 🐛 133 | 🌐 JavaScript | 📅 2026-10-07 - A minimalistic sensor graph card (3,830★).
 * [ApexCharts Card](https://github.com/RomRider/apexcharts-card) ⭐ 1,877 | 🐛 57 | 🌐 TypeScript | 📅 2026-02-03 - Advanced graphs and charts powered by ApexChartsJS with timelines, multi-axis, and event markers (1,797★).
-* [Sankey Chart](https://github.com/MindFreeze/ha-sankey-chart) ⭐ 677 | 🐛 27 | 🌐 TypeScript | 📅 2026-10-09 - Sankey-style flow diagram for visualising power, water, or any other flow across your home (660★).
+* [Sankey Chart](https://github.com/MindFreeze/ha-sankey-chart) ⭐ 677 | 🐛 28 | 🌐 TypeScript | 📅 2026-10-09 - Sankey-style flow diagram for visualising power, water, or any other flow across your home (660★).
 * [Modern Circular Gauge](https://github.com/selvalt7/modern-circular-gauge) ⭐ 289 | 🐛 28 | 🌐 TypeScript | 📅 2026-10-03 - Modern-looking circular gauge card with smooth animations, color stops, and template support (269★).
 * [Flex Table Card](https://github.com/custom-cards/flex-table-card) ⭐ 282 | 🐛 42 | 🌐 JavaScript | 📅 2026-10-02 - Highly flexible table card with arbitrary columns, regex-matched entities, and per-row styling, useful for AppDaemon and templated content (268★).
 * [Dual Gauge Card](https://github.com/custom-cards/dual-gauge-card) ⭐ 219 | 🐛 25 | 🌐 JavaScript | 📅 2024-07-23 - Shows two gauges in one (220★).
@@ -468,21 +468,21 @@ wider ecosystem.
 *Compact rows that pack more information into entity-card style listings.*
 
 * [Battery State Card](https://github.com/maxwroc/battery-state-card) ⭐ 1,276 | 🐛 38 | 🌐 TypeScript | 📅 2026-09-24 - List devices with their battery levels in a tidy card, sorted and color-coded (1,246★).
-* [Scheduler Card](https://github.com/nielsfaber/scheduler-card) ⭐ 1,263 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-16 - Build and edit weekly schedules for any entity right from the dashboard (1,236★).
-* [Slider Entity Row](https://github.com/thomasloven/lovelace-slider-entity-row) ⭐ 924 | 🐛 41 | 🌐 TypeScript | 📅 2025-10-02 - Add a slider to adjust, e.g., the brightness of lights in lovelace entity cards (912★).
-* [Timer Bar Card](https://github.com/rianadon/timer-bar-card) ⭐ 605 | 🐛 99 | 🌐 TypeScript | 📅 2025-07-19 - Progress-bar card for any timer entity, with countdown, formatted remaining time, and configurable colors (578★).
+* [Scheduler Card](https://github.com/nielsfaber/scheduler-card) ⭐ 1,263 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-16 - Build and edit weekly schedules for any entity right from the dashboard (1,236★).
+* [Slider Entity Row](https://github.com/thomasloven/lovelace-slider-entity-row) ⭐ 925 | 🐛 41 | 🌐 TypeScript | 📅 2025-10-02 - Add a slider to adjust, e.g., the brightness of lights in lovelace entity cards (912★).
+* [Timer Bar Card](https://github.com/rianadon/timer-bar-card) ⭐ 606 | 🐛 99 | 🌐 TypeScript | 📅 2025-07-19 - Progress-bar card for any timer entity, with countdown, formatted remaining time, and configurable colors (578★).
 * [Vehicle Status Card](https://github.com/ngocjohn/vehicle-status-card) ⭐ 308 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-01 - Dashboard card showing fuel or charge level, range, doors, lock state, and a customizable image of the car (262★).
-* [Entity Progress Card](https://github.com/francois-le-ko4la/lovelace-entity-progress-card) ⭐ 280 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-08 - Progress-bar card for any numeric entity, with thresholds, gradients, and templated icons (257★).
+* [Entity Progress Card](https://github.com/francois-le-ko4la/lovelace-entity-progress-card) ⭐ 280 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-10 - Progress-bar card for any numeric entity, with thresholds, gradients, and templated icons (257★).
 
 ### ☀️ Weather cards
 
 *Weather widgets with the look you actually want.*
 
-* [Clock Weather Card](https://github.com/pkissling/clock-weather-card) ⭐ 878 | 🐛 103 | 🌐 TypeScript | 📅 2026-10-06 - Combined date, time, and weather forecast card with an iOS-inspired layout for the days ahead (841★).
+* [Clock Weather Card](https://github.com/pkissling/clock-weather-card) ⭐ 878 | 🐛 89 | 🌐 TypeScript | 📅 2026-10-10 - Combined date, time, and weather forecast card with an iOS-inspired layout for the days ahead (841★).
 * [Horizon Card](https://github.com/rejuvenate/lovelace-horizon-card) ⭐ 686 | 🐛 23 | 🌐 TypeScript | 📅 2026-07-23 - Visualises the position of the Sun over the horizon throughout the day, with sunrise, sunset, and twilight markers (652★).
-* [Weather Radar](https://github.com/Makin-Things/weather-radar-card) ⭐ 459 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-09 - Animated rain radar card using the public RainViewer tile service, with country-level and regional zoom (384★).
+* [Weather Radar](https://github.com/Makin-Things/weather-radar-card) ⭐ 459 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-09 - Animated rain radar card using the public RainViewer tile service, with country-level and regional zoom (384★).
 * [Weather Chart Card](https://github.com/mlamberts78/weather-chart-card) ⭐ 437 | 🐛 27 | 🌐 JavaScript | 📅 2026-01-13 - Weather card with a chart-style hourly forecast and customizable layout (435★).
-* [Hourly Weather](https://github.com/decompil3d/lovelace-hourly-weather) ⭐ 407 | 🐛 25 | 🌐 TypeScript | 📅 2026-10-08 - Show today's hourly forecast as a colored horizontal bar so you can see at a glance when conditions change (393★).
+* [Hourly Weather](https://github.com/decompil3d/lovelace-hourly-weather) ⭐ 408 | 🐛 25 | 🌐 TypeScript | 📅 2026-10-08 - Show today's hourly forecast as a colored horizontal bar so you can see at a glance when conditions change (393★).
 
 ### 🎵 Media cards
 
@@ -508,8 +508,8 @@ wider ecosystem.
 
 *Specialised controls for lights, color temperature, and effects.*
 
-* [RGB Light Card](https://github.com/bokub/rgb-light-card) ⭐ 574 | 🐛 7 | 🌐 JavaScript | 📅 2025-12-04 - Colorful buttons to control your RGB Lights (563★).
-* [Hue-Like Light Card](https://github.com/Gh61/lovelace-hue-like-light-card) ⭐ 388 | 🐛 60 | 🌐 TypeScript | 📅 2026-10-07 - Light card styled and laid out like the Philips Hue app, with grouped scenes and per-bulb control (368★).
+* [RGB Light Card](https://github.com/bokub/rgb-light-card) ⭐ 575 | 🐛 7 | 🌐 JavaScript | 📅 2025-12-04 - Colorful buttons to control your RGB Lights (563★).
+* [Hue-Like Light Card](https://github.com/Gh61/lovelace-hue-like-light-card) ⭐ 389 | 🐛 60 | 🌐 TypeScript | 📅 2026-10-10 - Light card styled and laid out like the Philips Hue app, with grouped scenes and per-bulb control (368★).
 * [Light Entity Card](https://github.com/ljmerza/light-entity-card) ⭐ 289 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-24 - Compact card to control any light or switch entity with brightness, color temperature, and color picker (282★).
 
 ### 🗺️ Maps & location
@@ -522,13 +522,13 @@ wider ecosystem.
 
 *Display camera streams the way you want them, with overlays, controls, event timelines, and pop-out viewers.*
 
-* [Advanced Camera Card](https://github.com/dermotduffy/advanced-camera-card) ⭐ 1,183 | 🐛 141 | 🌐 TypeScript | 📅 2026-10-05 - Comprehensive camera card with timelines, galleries, snapshots, clips, and per-event playback (1,077★).
+* [Advanced Camera Card](https://github.com/dermotduffy/advanced-camera-card) ⭐ 1,184 | 🐛 141 | 🌐 TypeScript | 📅 2026-10-05 - Comprehensive camera card with timelines, galleries, snapshots, clips, and per-event playback (1,077★).
 
 ### 🧹 Vacuum cards
 
 *Show vacuum status, room maps, and start/stop controls in your dashboard.*
 
-* [Vacuum Map Card](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card) ⭐ 1,944 | 🐛 67 | 🌐 TypeScript | 📅 2026-06-24 - This card provides a user-friendly way to fully control Xiaomi (Roborock/Viomi/Dreame/Roidmi) and Neato (+ possibly other) vacuums (1,885★).
+* [Vacuum Map Card](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card) ⭐ 1,945 | 🐛 67 | 🌐 TypeScript | 📅 2026-06-24 - This card provides a user-friendly way to fully control Xiaomi (Roborock/Viomi/Dreame/Roidmi) and Neato (+ possibly other) vacuums (1,885★).
 * [Vacuum Card](https://github.com/denysdovhan/vacuum-card) ⭐ 1,257 | 🐛 23 | 🌐 TypeScript | 📅 2026-10-01 - A card for controlling a robot vacuum (1,211★).
 * [Valetudo Map](https://github.com/Hypfer/lovelace-valetudo-map-card) ⭐ 322 | 🐛 19 | 🌐 TypeScript | 📅 2024-12-15 - Display the live map from a robot vacuum running Valetudo (cloudless firmware) directly on a dashboard (304★).
 
@@ -545,9 +545,9 @@ wider ecosystem.
 
 *Virtual remotes for TVs, streamers, and AV gear.*
 
-* [HA Firemote](https://github.com/PRProd/HA-Firemote) ⭐ 1,074 | 🐛 206 | 📅 2026-03-08 - Virtual remote for Apple TV, Fire TV, Chromecast, Homatics, Shield, onn., Roku, Xiaomi, and more (987★).
+* [HA Firemote](https://github.com/PRProd/HA-Firemote) ⭐ 1,076 | 🐛 206 | 📅 2026-03-08 - Virtual remote for Apple TV, Fire TV, Chromecast, Homatics, Shield, onn., Roku, Xiaomi, and more (987★).
 * [Universal Remote Card](https://github.com/Nerwyn/universal-remote-card) ⭐ 611 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-07 - Fully customizable virtual remote for any media device, supporting custom buttons and haptics (569★).
-* [LG WebOS Remote Control](https://github.com/madmicio/LG-WebOS-Remote-Control) ⭐ 584 | 🐛 101 | 🌐 TypeScript | 📅 2026-05-08 - Remote Control for LG TV WebOS (551★).
+* [LG WebOS Remote Control](https://github.com/madmicio/LG-WebOS-Remote-Control) ⭐ 585 | 🐛 101 | 🌐 TypeScript | 📅 2026-05-08 - Remote Control for LG TV WebOS (551★).
 
 ### 🍃 Air quality
 
@@ -566,7 +566,7 @@ wider ecosystem.
 
 *Frameworks that replace or extend the default Home Assistant dashboard with a different look and feel.*
 
-* [Dwains Dashboard](https://github.com/dwainscheeren/dwains-lovelace-dashboard) ⭐ 2,077 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-04 - A fully auto-generating dashboard for desktop, tablet and mobile (2,048★).
+* [Dwains Dashboard](https://github.com/dwainscheeren/dwains-lovelace-dashboard) ⭐ 2,076 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-04 - A fully auto-generating dashboard for desktop, tablet and mobile (2,048★).
 * [Mushroom Strategy](https://github.com/DigiLive/mushroom-strategy) ⭐ 671 | 🐛 16 | 🌐 TypeScript | 📅 2026-09-25 - A strategy that automatically generates a dashboard using Mushroom cards (648★).
 
 ## Themes
@@ -574,12 +574,12 @@ wider ecosystem.
 *It is all about the looks, apply some style.*
 
 * [Frosted Glass](https://github.com/wessamlauf/homeassistant-frosted-glass-themes) ⭐ 1,032 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-04 - Modern frosted-glass dark and light themes with translucent cards (907★).
-* [iOS Themes](https://github.com/basnijholt/lovelace-ios-themes) ⭐ 880 | 🐛 52 | 🌐 Jinja | 📅 2026-07-21 - Themes inspired by iOS dark and light modes (868★).
-* [LCARS](https://github.com/th3jesta/ha-lcars) ⭐ 589 | 🐛 13 | 🌐 Python | 📅 2026-10-09 - Star Trek LCARS-inspired theme for the bridge feel (534★).
+* [iOS Themes](https://github.com/basnijholt/lovelace-ios-themes) ⭐ 881 | 🐛 52 | 🌐 Jinja | 📅 2026-07-21 - Themes inspired by iOS dark and light modes (868★).
+* [LCARS](https://github.com/th3jesta/ha-lcars) ⭐ 589 | 🐛 13 | 🌐 Python | 📅 2026-10-10 - Star Trek LCARS-inspired theme for the bridge feel (534★).
 * [Catppuccin](https://github.com/catppuccin/home-assistant) ⭐ 506 | 🐛 10 | 📅 2026-10-07 - Soothing pastel theme matching the popular Catppuccin palette across editors and apps (427★).
 * [Material You](https://github.com/Nerwyn/material-you-theme) ⭐ 480 | 🐛 0 | 🌐 CSS | 📅 2026-08-23 - Material Design 3 theme that adapts to your accent color (452★).
 * [Graphite](https://github.com/TilmanGriesel/graphite) ⭐ 462 | 🐛 1 | 🌐 Python | 📅 2026-06-08 - Calm and clean theme with a focused, low-contrast feel (442★).
-* [visionOS](https://github.com/Nezz/homeassistant-visionos-theme) ⭐ 424 | 🐛 1 | 📅 2026-09-28 - Theme inspired by Apple's visionOS (313★).
+* [visionOS](https://github.com/Nezz/homeassistant-visionos-theme) ⭐ 425 | 🐛 1 | 📅 2026-09-28 - Theme inspired by Apple's visionOS (313★).
 * [Mushroom Themes](https://github.com/piitaya/lovelace-mushroom-themes) ⭐ 309 | 🐛 12 | 🌐 JavaScript | 📅 2025-09-26 - Additional themes designed to pair with the Mushroom card collection (304★).
 * [Synthwave](https://github.com/bbbenji/synthwave-hass) ⭐ 207 | 🐛 0 | 📅 2026-10-05 - A theme influenced by the cover artwork of modern Synthwave bands (200★).
 * [Slate](https://github.com/seangreen2/slate_theme) ⭐ 141 | 🐛 5 | 📅 2026-09-25 - A dark theme close to the vanilla look (137★).
@@ -609,30 +609,30 @@ wider ecosystem.
 
 *Created and maintained by the Home Assistant team.*
 
-* [DuckDNS](https://github.com/home-assistant/hassio-addons/blob/master/duckdns/DOCS.md) ⭐ 2,234 | 🐛 61 | 🌐 Shell | 📅 2026-10-09 - Updates your Duck DNS IP address and generates SSL using Let's Encrypt.
-* [File editor](https://github.com/home-assistant/hassio-addons/blob/master/configurator/DOCS.md) ⭐ 2,234 | 🐛 61 | 🌐 Shell | 📅 2026-10-09 - Browser-based configuration file editor.
-* [Mosquitto](https://github.com/home-assistant/hassio-addons/blob/master/mosquitto/DOCS.md) ⭐ 2,234 | 🐛 61 | 🌐 Shell | 📅 2026-10-09 - Fast and reliable MQTT broker.
-* [Terminal & SSH](https://github.com/home-assistant/hassio-addons/blob/master/ssh/DOCS.md) ⭐ 2,234 | 🐛 61 | 🌐 Shell | 📅 2026-10-09 - Allows logging in remotely using a web terminal or SSH client.
-* [Samba](https://github.com/home-assistant/hassio-addons/blob/master/samba/DOCS.md) ⭐ 2,234 | 🐛 61 | 🌐 Shell | 📅 2026-10-09 - Access your configuration files using Windows network shares.
-* [NGINX SSL proxy](https://github.com/home-assistant/hassio-addons/blob/master/nginx_proxy/DOCS.md) ⭐ 2,234 | 🐛 61 | 🌐 Shell | 📅 2026-10-09 - Reverse proxy with SSL termination.
-* [deCONZ](https://github.com/home-assistant/hassio-addons/blob/master/deconz/DOCS.md) ⭐ 2,234 | 🐛 61 | 🌐 Shell | 📅 2026-10-09 - Control a ZigBee network using ConBee or RaspBee hardware by Dresden Elektronik.
-* [Let's Encrypt](https://github.com/home-assistant/hassio-addons/blob/master/letsencrypt/DOCS.md) ⭐ 2,234 | 🐛 61 | 🌐 Shell | 📅 2026-10-09 - Get a free SSL certificate from Let's Encrypt; an open and automated certificate authority (CA).
-* [MariaDB](https://github.com/home-assistant/hassio-addons/blob/master/mariadb/DOCS.md) ⭐ 2,234 | 🐛 61 | 🌐 Shell | 📅 2026-10-09 - An open source relational database (fork of MySQL).
+* [DuckDNS](https://github.com/home-assistant/hassio-addons/blob/master/duckdns/DOCS.md) ⭐ 2,235 | 🐛 65 | 🌐 Shell | 📅 2026-10-09 - Updates your Duck DNS IP address and generates SSL using Let's Encrypt.
+* [File editor](https://github.com/home-assistant/hassio-addons/blob/master/configurator/DOCS.md) ⭐ 2,235 | 🐛 65 | 🌐 Shell | 📅 2026-10-09 - Browser-based configuration file editor.
+* [Mosquitto](https://github.com/home-assistant/hassio-addons/blob/master/mosquitto/DOCS.md) ⭐ 2,235 | 🐛 65 | 🌐 Shell | 📅 2026-10-09 - Fast and reliable MQTT broker.
+* [Terminal & SSH](https://github.com/home-assistant/hassio-addons/blob/master/ssh/DOCS.md) ⭐ 2,235 | 🐛 65 | 🌐 Shell | 📅 2026-10-09 - Allows logging in remotely using a web terminal or SSH client.
+* [Samba](https://github.com/home-assistant/hassio-addons/blob/master/samba/DOCS.md) ⭐ 2,235 | 🐛 65 | 🌐 Shell | 📅 2026-10-09 - Access your configuration files using Windows network shares.
+* [NGINX SSL proxy](https://github.com/home-assistant/hassio-addons/blob/master/nginx_proxy/DOCS.md) ⭐ 2,235 | 🐛 65 | 🌐 Shell | 📅 2026-10-09 - Reverse proxy with SSL termination.
+* [deCONZ](https://github.com/home-assistant/hassio-addons/blob/master/deconz/DOCS.md) ⭐ 2,235 | 🐛 65 | 🌐 Shell | 📅 2026-10-09 - Control a ZigBee network using ConBee or RaspBee hardware by Dresden Elektronik.
+* [Let's Encrypt](https://github.com/home-assistant/hassio-addons/blob/master/letsencrypt/DOCS.md) ⭐ 2,235 | 🐛 65 | 🌐 Shell | 📅 2026-10-09 - Get a free SSL certificate from Let's Encrypt; an open and automated certificate authority (CA).
+* [MariaDB](https://github.com/home-assistant/hassio-addons/blob/master/mariadb/DOCS.md) ⭐ 2,235 | 🐛 65 | 🌐 Shell | 📅 2026-10-09 - An open source relational database (fork of MySQL).
 
 ### 📦 Third Party Apps
 
 *Anyone can create an app, the following are created by the community.*
 
-* [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) ⭐ 15,704 | 🐛 454 | 🌐 TypeScript | 📅 2026-10-09 - Zigbee to MQTT bridge, get rid of your proprietary Zigbee bridges (15,213★).
-* [Hass.io Google Drive Backup](https://github.com/sabeechen/hassio-google-drive-backup) ⭐ 3,575 | 🐛 67 | 🌐 Python | 📅 2026-07-13 - A complete and easy-to-configure solution for backing up to Google Drive (3,553★).
+* [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) ⭐ 15,706 | 🐛 458 | 🌐 TypeScript | 📅 2026-10-09 - Zigbee to MQTT bridge, get rid of your proprietary Zigbee bridges (15,213★).
+* [Hass.io Google Drive Backup](https://github.com/sabeechen/hassio-google-drive-backup) ⭐ 3,576 | 🐛 67 | 🌐 Python | 📅 2026-07-13 - A complete and easy-to-configure solution for backing up to Google Drive (3,553★).
 * [AppDaemon](https://github.com/AppDaemon/appdaemon) ⭐ 969 | 🐛 165 | 🌐 Python | 📅 2026-08-09 - A loosely coupled, multi-threaded, sandboxed Python execution environment for writing automation apps (961★).
-* [Node-RED](https://github.com/hassio-addons/app-node-red) ⭐ 651 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-08 - Flow-based programming for the Internet of Things (639★).
+* [Node-RED](https://github.com/hassio-addons/app-node-red) ⭐ 651 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-08 - Flow-based programming for the Internet of Things (639★).
 * [SSH & Web Terminal](https://github.com/hassio-addons/app-ssh) ⭐ 536 | 🐛 9 | 🌐 Shell | 📅 2026-10-07 - SSH and Web-based terminal with tons of pre-loaded useful tools (501★).
 * [AdGuard Home](https://github.com/hassio-addons/app-adguard-home) ⭐ 532 | 🐛 3 | 🌐 Jinja | 📅 2026-10-07 - A network-wide ad-and-tracker blocking DNS server with parental control (520★).
 * [Grocy](https://github.com/hassio-addons/app-grocy) ⭐ 458 | 🐛 2 | 🌐 Dockerfile | 📅 2026-10-07 - ERP beyond your fridge! A groceries & household management solution for your home (433★).
 * [Aircast](https://github.com/hassio-addons/app-aircast) ⭐ 406 | 🐛 1 | 🌐 Jinja | 📅 2026-09-29 - AirPlay capabilities for your Chromecast players (397★).
 * [UniFi Controller](https://github.com/hassio-addons/app-unifi) ⭐ 383 | 🐛 5 | 🌐 Dockerfile | 📅 2026-09-15 - The UniFi Controller allows you to manage your UniFi network using a web browser (374★).
-* [motionEye](https://github.com/hassio-addons/addon-motioneye) ⭐ 337 | 🐛 5 | 🌐 Dockerfile | 📅 2026-10-07 - Simple, elegant and feature-rich CCTV/NVR for your cameras (332★).
+* [motionEye](https://github.com/hassio-addons/addon-motioneye) ⭐ 339 | 🐛 5 | 🌐 Dockerfile | 📅 2026-10-07 - Simple, elegant and feature-rich CCTV/NVR for your cameras (332★).
 * [Grafana](https://github.com/hassio-addons/addon-grafana) ⭐ 280 | 🐛 1 | 🌐 Dockerfile | 📅 2026-09-29 - Open platform for beautiful analytics and monitoring (279★).
 * [Spotify Connect](https://github.com/hassio-addons/app-spotify-connect) ⭐ 262 | 🐛 1 | 🌐 Jinja | 📅 2026-10-07 - Stream music from Spotify directly to your Home Assistant device (250★).
 * [TasmoAdmin](https://github.com/hassio-addons/addon-tasmoadmin) ⭐ 261 | 🐛 3 | 🌐 Dockerfile | 📅 2026-10-07 - Centrally manage all your Sonoff-Tasmota devices (256★).
@@ -654,14 +654,14 @@ wider ecosystem.
 
 ### 🧩 Standalone projects
 
-* [Tasmota](https://github.com/arendst/Tasmota) ⭐ 24,809 | 🐛 14 | 🌐 C | 📅 2026-10-08 - Firmware for ESP8266 boards and devices (24,475★).
+* [Tasmota](https://github.com/arendst/Tasmota) ⭐ 24,812 | 🐛 14 | 🌐 C | 📅 2026-10-10 - Firmware for ESP8266 boards and devices (24,475★).
 * [Sonoff NSPanel](https://github.com/joBr99/nspanel-lovelace-ui) ⭐ 997 | 🐛 70 | 🌐 TypeScript | 📅 2026-08-06 - Custom firmware for Sonoff NSPanel touchscreens with a Lovelace-style UI (988★).
-* [CODESYS V3 Home Automation](https://github.com/MichielVanwelsenaere/HomeAutomation.CoDeSys3) ⭐ 147 | 🐛 0 | 🌐 Python | 📅 2026-09-14 - PLC home-automation software that communicates over MQTT for wired automation setups (144★).
+* [CODESYS V3 Home Automation](https://github.com/MichielVanwelsenaere/HomeAutomation.CoDeSys3) ⭐ 148 | 🐛 0 | 🌐 Python | 📅 2026-09-14 - PLC home-automation software that communicates over MQTT for wired automation setups (144★).
 * [ESPHome](https://esphome.io/) - Program ESP8266 boards and ESP32 boards using YAML.
 
 ### 🌉 DIY Gateways
 
-* [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) ⭐ 4,099 | 🐛 48 | 🌐 C++ | 📅 2026-10-03 - A flexible MQTT gateway for IR, RF, BLE, MiFlora, SMS, and many sensors (4,023★).
+* [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) ⭐ 4,099 | 🐛 52 | 🌐 C++ | 📅 2026-10-03 - A flexible MQTT gateway for IR, RF, BLE, MiFlora, SMS, and many sensors (4,023★).
 * [esp8266 Milight Hub](https://github.com/sidoh/esp8266_milight_hub) ⭐ 1,048 | 🐛 180 | 🌐 C++ | 📅 2025-02-11 - Alternative hub for Milight/LimitlessLED devices that uses MQTT (1,040★).
 
 ### 🔨 DIY Projects
@@ -813,12 +813,12 @@ network where the community is active.*
 
 *Home Assistant is not the only home-automation platform out there. If you want to compare, or if you have specific needs Home Assistant does not cover, the projects below are the most active alternatives. Some are commercial, some are open source, and a few solve very different problems.*
 
-* [Homebridge](https://github.com/homebridge/homebridge) ⭐ 25,501 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-30 - Lightweight Node.js server that bridges non-HomeKit devices into Apple Home, with a large plugin ecosystem (25,384★).
-* [Node-RED](https://github.com/node-red/node-red) ⭐ 23,729 | 🐛 337 | 🌐 JavaScript | 📅 2026-10-08 - Flow-based visual programming tool for wiring together devices, APIs, and services, backed by the OpenJS Foundation (23,277★).
-* [Domoticz](https://github.com/domoticz/domoticz) ⭐ 3,820 | 🐛 35 | 🌐 C++ | 📅 2026-10-07 - A lightweight Home Automation System (3,773★).
-* [Gladys](https://github.com/GladysAssistant/Gladys) ⭐ 3,230 | 🐛 39 | 🌐 JavaScript | 📅 2026-10-09 - Open source program which runs on your Raspberry Pi (3,066★).
+* [Homebridge](https://github.com/homebridge/homebridge) ⭐ 25,502 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-30 - Lightweight Node.js server that bridges non-HomeKit devices into Apple Home, with a large plugin ecosystem (25,384★).
+* [Node-RED](https://github.com/node-red/node-red) ⭐ 23,730 | 🐛 338 | 🌐 JavaScript | 📅 2026-10-08 - Flow-based visual programming tool for wiring together devices, APIs, and services, backed by the OpenJS Foundation (23,277★).
+* [Domoticz](https://github.com/domoticz/domoticz) ⭐ 3,821 | 🐛 31 | 🌐 C++ | 📅 2026-10-09 - A lightweight Home Automation System (3,773★).
+* [Gladys](https://github.com/GladysAssistant/Gladys) ⭐ 3,232 | 🐛 42 | 🌐 JavaScript | 📅 2026-10-10 - Open source program which runs on your Raspberry Pi (3,066★).
 * [ioBroker](https://github.com/ioBroker/ioBroker) ⭐ 1,378 | 🐛 43 | 🌐 Shell | 📅 2026-10-03 - Integration platform for IoT with hundreds of adapters and strong European protocol support for KNX and HomeMatic (1,371★).
-* [Jeedom](https://github.com/jeedom/core) ⭐ 414 | 🐛 47 | 🌐 PHP | 📅 2026-10-09 - French-origin, cloudless platform with a plugin marketplace, running on any Linux system (414★).
+* [Jeedom](https://github.com/jeedom/core) ⭐ 414 | 🐛 48 | 🌐 PHP | 📅 2026-10-10 - French-origin, cloudless platform with a plugin marketplace, running on any Linux system (414★).
 * [openHAB](https://github.com/openhab) - Java-based and aims at being a universal integration platform.
 * [SmartThings](https://www.smartthings.com/) - Commercial home automation hub by Samsung.
 * [Homey](https://homey.app/) - Commercial multi-protocol platform from Athom that puts local control first with Homey Pro, with Homey Cloud as a hosted option.
@@ -830,7 +830,7 @@ network where the community is active.*
 
 *Like this list, but for adjacent topics? The lists below cover broader smart-home categories, specific protocols, and self-hosted software in general. They are good places to look when something does not fit Home Assistant directly but might solve part of your puzzle.*
 
-* [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 324,851 | 🐛 0 | 📅 2026-10-06 - Curated list of awesome self hosted software (298,647★).
+* [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 325,107 | 🐛 0 | 📅 2026-10-10 - Curated list of awesome self hosted software (298,647★).
 * [awesome-iot](https://github.com/HQarroum/awesome-iot) ⭐ 4,522 | 🐛 7 | 📅 2026-10-06 - Curated list of awesome Internet of Things projects and resources (3,948★).
 * [awesome-mqtt](https://github.com/awesome-mqtt/awesome-mqtt#readme) ⭐ 2,401 | 🐛 0 | 📅 2026-10-08 - Curated list of MQTT related stuff (2,350★).
 
@@ -867,4 +867,4 @@ See [LICENSE.md](LICENSE.md) for the full text.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
