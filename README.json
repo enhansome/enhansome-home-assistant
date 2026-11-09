@@ -17,11 +17,11 @@
                 "id": 167694194,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-08T11:35:13Z",
-                "open_issues": 97,
+                "last_commit": "2026-11-09T13:47:17Z",
+                "open_issues": 86,
                 "owner": "blakeblackshear",
                 "repo": "frigate",
-                "stars": 37330,
+                "stars": 37356,
                 "topics": [
                   "ai",
                   "camera",
@@ -52,10 +52,10 @@
                 "language": "TypeScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-06T16:41:50Z",
-                "open_issues": 500,
+                "open_issues": 505,
                 "owner": "Koenkk",
                 "repo": "zigbee2mqtt",
-                "stars": 15798,
+                "stars": 15804,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -76,7 +76,7 @@
         {
           "node_type": "item",
           "title": "Carlo Costanzo",
-          "description": "Probably the most documented configuration out there (5,307★).",
+          "description": "Probably the most documented configuration out there (5,326★).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -89,7 +89,7 @@
             "open_issues": 79,
             "owner": "CCOSTAN",
             "repo": "Home-AssistantConfig",
-            "stars": 5326,
+            "stars": 5327,
             "topics": [
               "ai",
               "alexa",
@@ -117,7 +117,7 @@
         {
           "node_type": "item",
           "title": "Franck Nijhof",
-          "description": "Home Assistant OS based, very different configuration structure compared to others (2,038★).",
+          "description": "Home Assistant OS based, very different configuration structure compared to others (2,046★).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -151,7 +151,7 @@
         {
           "node_type": "item",
           "title": "Alok Saboo",
-          "description": "Also known as arsaboo. Regularly updated (1,961★).",
+          "description": "Also known as arsaboo. Regularly updated (1,962★).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -164,7 +164,7 @@
             "open_issues": 9,
             "owner": "arsaboo",
             "repo": "homeassistant-config",
-            "stars": 1962,
+            "stars": 1963,
             "topics": [
               "home-assistant-config"
             ]
@@ -174,7 +174,7 @@
         {
           "node_type": "item",
           "title": "geekofweek",
-          "description": "Has 300+ automations (1,490★).",
+          "description": "Has 300+ automations (1,491★).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -216,7 +216,7 @@
         {
           "node_type": "item",
           "title": "DubhAd",
-          "description": "Also known as Tinkerer, shares his configuration files (691★).",
+          "description": "Also known as Tinkerer, shares his configuration files (692★).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -320,7 +320,7 @@
             {
               "node_type": "item",
               "title": "LLM Vision",
-              "description": "Add visual intelligence to your automations: caption camera snapshots, summarize what is happening, react to specific events (1,503★).",
+              "description": "Add visual intelligence to your automations: caption camera snapshots, summarize what is happening, react to specific events (1,522★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -329,11 +329,11 @@
                 "id": 800568407,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T09:20:43Z",
+                "last_commit": "2026-11-08T12:29:43Z",
                 "open_issues": 49,
                 "owner": "valentinfrlch",
                 "repo": "ha-llmvision",
-                "stars": 1526,
+                "stars": 1527,
                 "topics": [
                   "ai",
                   "cctv-detection",
@@ -351,7 +351,7 @@
             {
               "node_type": "item",
               "title": "AI Automation Suggester",
-              "description": "Scan your entities and ask an AI provider (OpenAI, Anthropic, Google, Groq, Ollama) for tailored automation suggestions, surfaced as notifications (801★).",
+              "description": "Scan your entities and ask an AI provider (OpenAI, Anthropic, Google, Groq, Ollama) for tailored automation suggestions, surfaced as notifications (805★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -364,7 +364,7 @@
                 "open_issues": 6,
                 "owner": "ITSpecialist111",
                 "repo": "ai_automation_suggester",
-                "stars": 805,
+                "stars": 806,
                 "topics": [
                   "ai",
                   "automatic-suggestions",
@@ -386,7 +386,7 @@
             {
               "node_type": "item",
               "title": "Adaptive Lighting",
-              "description": "Slowly adjust the brightness and color temperature of your lights based on the position of the sun (3,520★).",
+              "description": "Slowly adjust the brightness and color temperature of your lights based on the position of the sun (3,562★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -396,10 +396,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-05T21:32:28Z",
-                "open_issues": 176,
+                "open_issues": 177,
                 "owner": "basnijholt",
                 "repo": "adaptive-lighting",
-                "stars": 3570,
+                "stars": 3572,
                 "topics": [
                   "adaptive-lighting",
                   "automation",
@@ -417,7 +417,7 @@
             {
               "node_type": "item",
               "title": "Circadian Lighting",
-              "description": "Slowly synchronizes your color-changing lights with the naturally occurring color temperature of the sky throughout the day (902★).",
+              "description": "Slowly synchronizes your color-changing lights with the naturally occurring color temperature of the sky throughout the day (905★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -446,7 +446,7 @@
             {
               "node_type": "item",
               "title": "Govee",
-              "description": "Local control of Govee Wi-Fi lights and bulbs, including effects and color modes (363★).",
+              "description": "Local control of Govee Wi-Fi lights and bulbs, including effects and color modes (364★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -456,7 +456,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-04-28T02:25:58Z",
-                "open_issues": 184,
+                "open_issues": 183,
                 "owner": "LaggAt",
                 "repo": "hacs-govee",
                 "stars": 365,
@@ -481,7 +481,7 @@
             {
               "node_type": "item",
               "title": "Better Thermostat",
-              "description": "Smarter thermostat with window detection, heating curves, and per-room comfort profiles for thermostatic radiator valves (1,522★).",
+              "description": "Smarter thermostat with window detection, heating curves, and per-room comfort profiles for thermostatic radiator valves (1,543★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -491,10 +491,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-11-06T20:33:51Z",
-                "open_issues": 85,
+                "open_issues": 84,
                 "owner": "KartoffelToby",
                 "repo": "better_thermostat",
-                "stars": 1553,
+                "stars": 1554,
                 "topics": [
                   "climate",
                   "energy-efficiency",
@@ -521,7 +521,7 @@
             {
               "node_type": "item",
               "title": "Versatile Thermostat",
-              "description": "Full-featured thermostat with presets, window detection, motion-based comfort, and presence (1,214★).",
+              "description": "Full-featured thermostat with presets, window detection, motion-based comfort, and presence (1,254★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -530,11 +530,11 @@
                 "id": 582589896,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-08T11:59:47Z",
-                "open_issues": 26,
+                "last_commit": "2026-11-09T10:12:45Z",
+                "open_issues": 22,
                 "owner": "jmcollin78",
                 "repo": "versatile_thermostat",
-                "stars": 1266,
+                "stars": 1268,
                 "topics": [
                   "hacs-custom",
                   "hacs-integration",
@@ -548,7 +548,7 @@
             {
               "node_type": "item",
               "title": "Midea Air Appliances LAN",
-              "description": "Local control of Midea air conditioners, dehumidifiers, and other appliances over LAN (489★).",
+              "description": "Local control of Midea air conditioners, dehumidifiers, and other appliances over LAN (491★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -576,7 +576,7 @@
             {
               "node_type": "item",
               "title": "Smart Autotune Thermostat (SAT)",
-              "description": "Self-tuning thermostat that talks to OpenTherm, ESPHome, or MQTT gateways and adapts the heating curve to your home over time (255★).",
+              "description": "Self-tuning thermostat that talks to OpenTherm, ESPHome, or MQTT gateways and adapts the heating curve to your home over time (258★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -606,7 +606,7 @@
             {
               "node_type": "item",
               "title": "Dual Smart Thermostat",
-              "description": "Enhanced version of the built-in generic thermostat, with separate heating and cooling, floor temperature limits, and humidity controls (239★).",
+              "description": "Enhanced version of the built-in generic thermostat, with separate heating and cooling, floor temperature limits, and humidity controls (240★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -615,7 +615,7 @@
                 "id": 294037465,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T21:35:17Z",
+                "last_commit": "2026-11-09T12:26:04Z",
                 "open_issues": 35,
                 "owner": "swingerman",
                 "repo": "ha-dual-smart-thermostat",
@@ -638,7 +638,7 @@
             {
               "node_type": "item",
               "title": "Powercalc",
-              "description": "Calculate estimated power consumption of lights and other devices, even those that don't report it themselves (1,613★).",
+              "description": "Calculate estimated power consumption of lights and other devices, even those that don't report it themselves (1,632★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -647,11 +647,11 @@
                 "id": 373845609,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-07T11:04:29Z",
-                "open_issues": 55,
+                "last_commit": "2026-11-09T00:41:29Z",
+                "open_issues": 58,
                 "owner": "bramstroker",
                 "repo": "homeassistant-powercalc",
-                "stars": 1645,
+                "stars": 1648,
                 "topics": [
                   "consumption",
                   "energy-consumption",
@@ -675,7 +675,7 @@
             {
               "node_type": "item",
               "title": "Anker Solix",
-              "description": "Pull Anker Solix balcony solar systems, batteries, and power stations into the energy dashboard with live state, history, and charging control (1,120★).",
+              "description": "Pull Anker Solix balcony solar systems, batteries, and power stations into the energy dashboard with live state, history, and charging control (1,129★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -684,8 +684,8 @@
                 "id": 750336940,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-02T13:03:19Z",
-                "open_issues": 20,
+                "last_commit": "2026-11-09T10:53:14Z",
+                "open_issues": 24,
                 "owner": "thomluther",
                 "repo": "ha-anker-solix",
                 "stars": 1131,
@@ -701,7 +701,7 @@
             {
               "node_type": "item",
               "title": "Octopus Energy",
-              "description": "Pull Octopus Energy tariffs, smart meter readings, intelligent dispatch slots, and saving sessions into your dashboard (1,028★).",
+              "description": "Pull Octopus Energy tariffs, smart meter readings, intelligent dispatch slots, and saving sessions into your dashboard (1,038★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -711,7 +711,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-02T17:49:48Z",
-                "open_issues": 76,
+                "open_issues": 78,
                 "owner": "BottlecapDave",
                 "repo": "HomeAssistant-OctopusEnergy",
                 "stars": 1045,
@@ -728,7 +728,7 @@
             {
               "node_type": "item",
               "title": "Huawei Solar",
-              "description": "Read and control Huawei solar inverters and home batteries over Modbus, including grid charge windows (937★).",
+              "description": "Read and control Huawei solar inverters and home batteries over Modbus, including grid charge windows (940★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -737,11 +737,11 @@
                 "id": 419381725,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-31T10:38:34Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-09T13:29:57Z",
+                "open_issues": 6,
                 "owner": "wlcrs",
                 "repo": "huawei_solar",
-                "stars": 943,
+                "stars": 944,
                 "topics": [
                   "home-assistant",
                   "home-assistant-integration",
@@ -758,7 +758,7 @@
             {
               "node_type": "item",
               "title": "Solarman",
-              "description": "Read Deye, Sofar, and other Solarman-branded inverters via the Solarman stick logger (525★).",
+              "description": "Read Deye, Sofar, and other Solarman-branded inverters via the Solarman stick logger (541★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -768,10 +768,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-04T17:20:05Z",
-                "open_issues": 138,
+                "open_issues": 139,
                 "owner": "davidrapan",
                 "repo": "ha-solarman",
-                "stars": 549,
+                "stars": 551,
                 "topics": [
                   "afore",
                   "deye",
@@ -800,7 +800,7 @@
             {
               "node_type": "item",
               "title": "SolaX Modbus",
-              "description": "Talk to SolaX, Solinteg, Sofar, Growatt, and other inverters over Modbus, including read-only and inverter control modes (526★).",
+              "description": "Talk to SolaX, Solinteg, Sofar, Growatt, and other inverters over Modbus, including read-only and inverter control modes (531★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -810,10 +810,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-04T18:01:48Z",
-                "open_issues": 61,
+                "open_issues": 69,
                 "owner": "wills106",
                 "repo": "homeassistant-solax-modbus",
-                "stars": 533,
+                "stars": 534,
                 "topics": [
                   "alphaess",
                   "growatt",
@@ -842,7 +842,7 @@
             {
               "node_type": "item",
               "title": "Solcast PV Forecast",
-              "description": "Pulls Solcast solar production forecasts so you can see expected generation for the day, with up-to-the-hour confidence bands (462★).",
+              "description": "Pulls Solcast solar production forecasts so you can see expected generation for the day, with up-to-the-hour confidence bands (470★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -851,11 +851,11 @@
                 "id": 808833115,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-08T02:48:55Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-09T12:23:23Z",
+                "open_issues": 6,
                 "owner": "BJReplay",
                 "repo": "ha-solcast-solar",
-                "stars": 476,
+                "stars": 477,
                 "topics": [
                   "api",
                   "api-client",
@@ -872,7 +872,7 @@
             {
               "node_type": "item",
               "title": "OCPP",
-              "description": "Bring electric vehicle chargers that speak OCPP into the energy dashboard, with start, stop, and per-session metering (407★).",
+              "description": "Bring electric vehicle chargers that speak OCPP into the energy dashboard, with start, stop, and per-session metering (412★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -881,11 +881,11 @@
                 "id": 336054515,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-08T01:53:26Z",
-                "open_issues": 46,
+                "last_commit": "2026-11-09T08:25:13Z",
+                "open_issues": 45,
                 "owner": "lbbrhzn",
                 "repo": "ocpp",
-                "stars": 413,
+                "stars": 414,
                 "topics": [
                   "hacs",
                   "home-assistant",
@@ -899,7 +899,7 @@
             {
               "node_type": "item",
               "title": "FoxESS Modbus",
-              "description": "Connects directly to FoxESS solar inverters over Modbus, no cloud round-trips, for real-time status and control (340★).",
+              "description": "Connects directly to FoxESS solar inverters over Modbus, no cloud round-trips, for real-time status and control (341★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -909,10 +909,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-06T09:49:26Z",
-                "open_issues": 76,
+                "open_issues": 78,
                 "owner": "nathanmarlor",
                 "repo": "foxess_modbus",
-                "stars": 342,
+                "stars": 343,
                 "topics": [
                   "energy",
                   "foxess",
@@ -924,7 +924,7 @@
             {
               "node_type": "item",
               "title": "SolarEdge Modbus Multi",
-              "description": "Reads SolarEdge inverters, meters, and batteries locally over Modbus/TCP, with multi-inverter and three-phase support (332★).",
+              "description": "Reads SolarEdge inverters, meters, and batteries locally over Modbus/TCP, with multi-inverter and three-phase support (334★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -933,11 +933,11 @@
                 "id": 419786466,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-08T06:02:28Z",
-                "open_issues": 26,
+                "last_commit": "2026-11-09T01:51:25Z",
+                "open_issues": 23,
                 "owner": "WillCodeForCats",
                 "repo": "solaredge-modbus-multi",
-                "stars": 336,
+                "stars": 337,
                 "topics": [
                   "hacs-default",
                   "hacs-integration",
@@ -954,7 +954,7 @@
             {
               "node_type": "item",
               "title": "Solis Sensor",
-              "description": "Talks to the SolisCloud PV monitoring portal so you can pull Solis inverter generation, battery, and grid data into the energy dashboard (330★).",
+              "description": "Talks to the SolisCloud PV monitoring portal so you can pull Solis inverter generation, battery, and grid data into the energy dashboard (333★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -981,7 +981,7 @@
             {
               "node_type": "item",
               "title": "EPEX Spot",
-              "description": "Brings hourly EPEX spot electricity prices into your dashboard so you can shift loads to the cheapest slots (323★).",
+              "description": "Brings hourly EPEX spot electricity prices into your dashboard so you can shift loads to the cheapest slots (326★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1014,7 +1014,7 @@
             {
               "node_type": "item",
               "title": "Victron GX",
-              "description": "Reads data from a Victron GX device over Modbus/TCP, exposing inverters, batteries, solar chargers, and AC inputs (322★).",
+              "description": "Reads data from a Victron GX device over Modbus/TCP, exposing inverters, batteries, solar chargers, and AC inputs (323★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1051,7 +1051,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-07T11:52:46Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "MTrab",
                 "repo": "energidataservice",
                 "stars": 284,
@@ -1081,7 +1081,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-06-22T06:04:16Z",
-                "open_issues": 50,
+                "open_issues": 51,
                 "owner": "JaccoR",
                 "repo": "hass-entso-e",
                 "stars": 281,
@@ -1107,7 +1107,7 @@
             {
               "node_type": "item",
               "title": "Solar Optimizer",
-              "description": "Starts and stops your appliances based on solar surplus production so you self-consume rather than export (245★).",
+              "description": "Starts and stops your appliances based on solar surplus production so you self-consume rather than export (246★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1117,7 +1117,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-11T10:24:35Z",
-                "open_issues": 3,
+                "open_issues": 6,
                 "owner": "jmcollin78",
                 "repo": "solar_optimizer",
                 "stars": 248,
@@ -1134,7 +1134,7 @@
             {
               "node_type": "item",
               "title": "GoodWe Inverter",
-              "description": "Pulls live data from GoodWe solar inverters over the local network for use in the energy dashboard (240★).",
+              "description": "Pulls live data from GoodWe solar inverters over the local network for use in the energy dashboard (242★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1144,7 +1144,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-07-01T22:12:23Z",
-                "open_issues": 96,
+                "open_issues": 97,
                 "owner": "mletenay",
                 "repo": "home-assistant-goodwe-inverter",
                 "stars": 244,
@@ -1161,7 +1161,7 @@
             {
               "node_type": "item",
               "title": "Dynamic Energy Cost",
-              "description": "Tracks real-time and cumulative energy cost against a dynamic price feed like Nord Pool or EPEX (203★).",
+              "description": "Tracks real-time and cumulative energy cost against a dynamic price feed like Nord Pool or EPEX (204★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1196,7 +1196,7 @@
             {
               "node_type": "item",
               "title": "WebRTC Camera",
-              "description": "View RTSP streams from IP Cameras in real-time through WebRTC or MSE with Pan/Zoom controls (2,190★).",
+              "description": "View RTSP streams from IP Cameras in real-time through WebRTC or MSE with Pan/Zoom controls (2,201★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1224,7 +1224,7 @@
             {
               "node_type": "item",
               "title": "Tapo Control",
-              "description": "Control TP-Link Tapo cameras with PTZ, motion events, and a live RTSP stream (2,028★).",
+              "description": "Control TP-Link Tapo cameras with PTZ, motion events, and a live RTSP stream (2,045★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1237,7 +1237,7 @@
                 "open_issues": 20,
                 "owner": "JurajNyiri",
                 "repo": "HomeAssistant-Tapo-Control",
-                "stars": 2051,
+                "stars": 2053,
                 "topics": [
                   "camera",
                   "cameras",
@@ -1254,7 +1254,7 @@
             {
               "node_type": "item",
               "title": "Eufy Security",
-              "description": "Manage Eufy Security cameras, doorbells, and base stations with live streams and event notifications (1,404★).",
+              "description": "Manage Eufy Security cameras, doorbells, and base stations with live streams and event notifications (1,407★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1267,7 +1267,7 @@
                 "open_issues": 224,
                 "owner": "fuatakgun",
                 "repo": "eufy_security",
-                "stars": 1409,
+                "stars": 1408,
                 "topics": [
                   "camera",
                   "eufy",
@@ -1285,7 +1285,7 @@
             {
               "node_type": "item",
               "title": "Frigate",
-              "description": "Integrate the Frigate NVR with local object detection into your dashboard, alerts, and snapshots (1,285★).",
+              "description": "Integrate the Frigate NVR with local object detection into your dashboard, alerts, and snapshots (1,298★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1322,8 +1322,8 @@
                 "id": 366911690,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-08T01:02:24Z",
-                "open_issues": 35,
+                "last_commit": "2026-11-08T18:49:36Z",
+                "open_issues": 37,
                 "owner": "rroller",
                 "repo": "dahua",
                 "stars": 574,
@@ -1343,7 +1343,7 @@
             {
               "node_type": "item",
               "title": "HASS Aarlo",
-              "description": "Asynchronous Arlo integration. Similar to the Arlo web site; monitors events and states for all base stations, cameras and doorbells (483★).",
+              "description": "Asynchronous Arlo integration. Similar to the Arlo web site; monitors events and states for all base stations, cameras and doorbells (484★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1352,8 +1352,8 @@
                 "id": 167885769,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-11-05T20:08:44Z",
-                "open_issues": 72,
+                "last_commit": "2026-11-08T21:57:13Z",
+                "open_issues": 70,
                 "owner": "twrecked",
                 "repo": "hass-aarlo",
                 "stars": 484,
@@ -1384,7 +1384,7 @@
             {
               "node_type": "item",
               "title": "Alarmo",
-              "description": "Easy-to-use alarm system with arm/disarm flows, user codes, zones, and panic mode (2,328★).",
+              "description": "Easy-to-use alarm system with arm/disarm flows, user codes, zones, and panic mode (2,346★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1394,10 +1394,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-29T17:49:20Z",
-                "open_issues": 45,
+                "open_issues": 46,
                 "owner": "nielsfaber",
                 "repo": "alarmo",
-                "stars": 2352,
+                "stars": 2354,
                 "topics": [
                   "alarm",
                   "assistant",
@@ -1447,7 +1447,7 @@
             {
               "node_type": "item",
               "title": "YandexStation",
-              "description": "Control Yandex Station speakers and other smart-home devices through Alice (1,954★).",
+              "description": "Control Yandex Station speakers and other smart-home devices through Alice (1,997★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1457,10 +1457,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-22T12:36:03Z",
-                "open_issues": 107,
+                "open_issues": 108,
                 "owner": "AlexxIT",
                 "repo": "YandexStation",
-                "stars": 2004,
+                "stars": 2005,
                 "topics": [
                   "hacs",
                   "home-assistant",
@@ -1474,7 +1474,7 @@
             {
               "node_type": "item",
               "title": "Alexa Media Player",
-              "description": "Control Amazon Alexa devices: announce, play media, and pull device state into your automations (1,990★).",
+              "description": "Control Amazon Alexa devices: announce, play media, and pull device state into your automations (1,999★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1483,11 +1483,11 @@
                 "id": 139664351,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-08T08:07:03Z",
-                "open_issues": 16,
+                "last_commit": "2026-11-09T11:18:45Z",
+                "open_issues": 21,
                 "owner": "alandtse",
                 "repo": "alexa_media_player",
-                "stars": 2003,
+                "stars": 2004,
                 "topics": [
                   "alexa",
                   "hacktoberfest",
@@ -1500,7 +1500,7 @@
             {
               "node_type": "item",
               "title": "Yandex Smart Home",
-              "description": "Expose your devices to Yandex Alice and the Yandex smart-home app (1,089★).",
+              "description": "Expose your devices to Yandex Alice and the Yandex smart-home app (1,092★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1513,7 +1513,7 @@
                 "open_issues": 11,
                 "owner": "dext0r",
                 "repo": "yandex_smart_home",
-                "stars": 1095,
+                "stars": 1096,
                 "topics": [
                   "alice",
                   "home-assistant",
@@ -1528,7 +1528,7 @@
             {
               "node_type": "item",
               "title": "Spotcast",
-              "description": "Start Spotify playback on an idle Chromecast device as well as control Spotify connect devices (814★).",
+              "description": "Start Spotify playback on an idle Chromecast device as well as control Spotify connect devices (816★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1549,7 +1549,7 @@
             {
               "node_type": "item",
               "title": "View Assist Companion",
-              "description": "Companion Android app and integration that turns a tablet into a hands-free voice and dashboard satellite (512★).",
+              "description": "Companion Android app and integration that turns a tablet into a hands-free voice and dashboard satellite (520★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1558,11 +1558,11 @@
                 "id": 1016220724,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-07T18:39:25Z",
+                "last_commit": "2026-11-08T13:15:53Z",
                 "open_issues": 38,
                 "owner": "msp1974",
                 "repo": "ViewAssist_Companion_App",
-                "stars": 525,
+                "stars": 526,
                 "topics": [
                   "android",
                   "home-assistant",
@@ -1581,7 +1581,7 @@
             {
               "node_type": "item",
               "title": "Kia Uvo & Hyundai Bluelink",
-              "description": "Track and control Kia Connect (Uvo) and Hyundai Bluelink cars across EU, Canada, and USA, including charging, climate, and lock state (966★).",
+              "description": "Track and control Kia Connect (Uvo) and Hyundai Bluelink cars across EU, Canada, and USA, including charging, climate, and lock state (981★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1590,8 +1590,8 @@
                 "id": 356385629,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-08T07:49:17Z",
-                "open_issues": 36,
+                "last_commit": "2026-11-09T08:32:48Z",
+                "open_issues": 42,
                 "owner": "Hyundai-Kia-Connect",
                 "repo": "kia_uvo",
                 "stars": 987,
@@ -1610,7 +1610,7 @@
             {
               "node_type": "item",
               "title": "Tesla",
-              "description": "Track Tesla cars and Powerwalls with charging, climate, location, and security state, using a refresh token from a third-party login app (787★).",
+              "description": "Track Tesla cars and Powerwalls with charging, climate, location, and security state, using a refresh token from a third-party login app (789★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1620,10 +1620,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-08T06:36:08Z",
-                "open_issues": 39,
+                "open_issues": 38,
                 "owner": "alandtse",
                 "repo": "tesla",
-                "stars": 789,
+                "stars": 790,
                 "topics": [
                   "hacktoberfest",
                   "home-assistant",
@@ -1637,7 +1637,7 @@
             {
               "node_type": "item",
               "title": "Volkswagen Carnet",
-              "description": "Track charging state, climate preconditioning, and remote lock and honk for Volkswagen cars on the Carnet platform (708★).",
+              "description": "Track charging state, climate preconditioning, and remote lock and honk for Volkswagen cars on the Carnet platform (711★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1646,8 +1646,8 @@
                 "id": 117426840,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-06T03:02:43Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-09T09:40:07Z",
+                "open_issues": 8,
                 "owner": "robinostlund",
                 "repo": "homeassistant-volkswagencarnet",
                 "stars": 712,
@@ -1663,7 +1663,7 @@
             {
               "node_type": "item",
               "title": "evcc",
-              "description": "Connects to an evcc instance to surface charge sessions, solar matching, and per-loadpoint state (487★).",
+              "description": "Connects to an evcc instance to surface charge sessions, solar matching, and per-loadpoint state (496★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1676,7 +1676,7 @@
                 "open_issues": 1,
                 "owner": "marq24",
                 "repo": "ha-evcc",
-                "stars": 501,
+                "stars": 502,
                 "topics": [
                   "evcc",
                   "hacs",
@@ -1694,7 +1694,7 @@
             {
               "node_type": "item",
               "title": "Audi Connect",
-              "description": "Tracks Audi cars over the Audi Connect API, including charging state, range, lock, and climate preconditioning (375★).",
+              "description": "Tracks Audi cars over the Audi Connect API, including charging state, range, lock, and climate preconditioning (381★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1703,11 +1703,11 @@
                 "id": 186347733,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-08T07:02:50Z",
-                "open_issues": 15,
+                "last_commit": "2026-11-09T07:09:14Z",
+                "open_issues": 16,
                 "owner": "audiconnect",
                 "repo": "audi_connect_ha",
-                "stars": 382,
+                "stars": 383,
                 "topics": [
                   "audi",
                   "audi-connect",
@@ -1750,7 +1750,7 @@
             {
               "node_type": "item",
               "title": "Stellantis Vehicles",
-              "description": "Adds Stellantis cars (Peugeot, Citroen, Fiat, Opel, Vauxhall, DS) over the manufacturer API for range, lock, and climate (283★).",
+              "description": "Adds Stellantis cars (Peugeot, Citroen, Fiat, Opel, Vauxhall, DS) over the manufacturer API for range, lock, and climate (290★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1759,11 +1759,11 @@
                 "id": 839422993,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-31T21:13:53Z",
+                "last_commit": "2026-11-09T13:44:43Z",
                 "open_issues": 18,
                 "owner": "andreadegiovine",
                 "repo": "homeassistant-stellantis-vehicles",
-                "stars": 298,
+                "stars": 299,
                 "topics": [
                   "api",
                   "citroen",
@@ -1782,7 +1782,7 @@
             {
               "node_type": "item",
               "title": "Easee EV Charger",
-              "description": "Adds Easee EV chargers with live charge state, dynamic load balancing, and per-session metering (284★).",
+              "description": "Adds Easee EV chargers with live charge state, dynamic load balancing, and per-session metering (286★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1809,7 +1809,7 @@
             {
               "node_type": "item",
               "title": "Polestar",
-              "description": "Reads Polestar EVs through the Polestar app API, with range, charging, and location data (275★).",
+              "description": "Reads Polestar EVs through the Polestar app API, with range, charging, and location data (280★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1840,7 +1840,7 @@
             {
               "node_type": "item",
               "title": "iCloud3",
-              "description": "Improved version of the iCloud device tracker component with a lot of capabilities (927★).",
+              "description": "Improved version of the iCloud device tracker component with a lot of capabilities (933★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1853,7 +1853,7 @@
                 "open_issues": 157,
                 "owner": "gcobb321",
                 "repo": "icloud3",
-                "stars": 933,
+                "stars": 934,
                 "topics": [
                   "device-tracker",
                   "ha-ios",
@@ -1869,7 +1869,7 @@
             {
               "node_type": "item",
               "title": "iPhone Detect",
-              "description": "Detect iPhones (and other phones) on the local Wi-Fi without an app, by sending a UDP probe and watching for the reply (657★).",
+              "description": "Detect iPhones (and other phones) on the local Wi-Fi without an app, by sending a UDP probe and watching for the reply (662★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1895,7 +1895,7 @@
             {
               "node_type": "item",
               "title": "Flightradar24",
-              "description": "Track aircraft flying over a configurable bounding box around your home using Flightradar24 (554★).",
+              "description": "Track aircraft flying over a configurable bounding box around your home using Flightradar24 (567★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1926,7 +1926,7 @@
             {
               "node_type": "item",
               "title": "Places",
-              "description": "Reverse-geocodes a device tracker location through OpenStreetMap so automations can react to \"at the supermarket\" rather than raw coordinates (217★).",
+              "description": "Reverse-geocodes a device tracker location through OpenStreetMap so automations can react to \"at the supermarket\" rather than raw coordinates (219★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1939,7 +1939,7 @@
                 "open_issues": 2,
                 "owner": "custom-components",
                 "repo": "places",
-                "stars": 219,
+                "stars": 220,
                 "topics": [
                   "device-tracker",
                   "geolocation",
@@ -1959,7 +1959,7 @@
             {
               "node_type": "item",
               "title": "Dreame Vacuum",
-              "description": "Dreame robot vacuums with full map support, including no-go zones and selective room cleaning (2,244★).",
+              "description": "Dreame robot vacuums with full map support, including no-go zones and selective room cleaning (2,268★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1969,10 +1969,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-03T14:59:30Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "Tasshack",
                 "repo": "dreame-vacuum",
-                "stars": 2279,
+                "stars": 2281,
                 "topics": [
                   "dreame",
                   "dreamehome",
@@ -2045,7 +2045,7 @@
             {
               "node_type": "item",
               "title": "BLE Monitor",
-              "description": "Passively read sensor data from Xiaomi MiBeacon, Govee, ATC, Inkbird, Qingping, and many other BLE sensors (2,248★).",
+              "description": "Passively read sensor data from Xiaomi MiBeacon, Govee, ATC, Inkbird, Qingping, and many other BLE sensors (2,252★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2054,7 +2054,7 @@
                 "id": 223993584,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-06T12:46:44Z",
+                "last_commit": "2026-11-08T15:19:15Z",
                 "open_issues": 119,
                 "owner": "custom-components",
                 "repo": "ble_monitor",
@@ -2086,7 +2086,7 @@
             {
               "node_type": "item",
               "title": "Bermuda",
-              "description": "Room-level presence detection by triangulating BLE signals across multiple ESPHome receivers (2,094★).",
+              "description": "Room-level presence detection by triangulating BLE signals across multiple ESPHome receivers (2,127★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2117,7 +2117,7 @@
             {
               "node_type": "item",
               "title": "EcoFlow BLE",
-              "description": "Pulls EcoFlow power stations and accessories over Bluetooth Low Energy, no cloud account required (415★).",
+              "description": "Pulls EcoFlow power stations and accessories over Bluetooth Low Energy, no cloud account required (433★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2127,10 +2127,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-01T16:52:19Z",
-                "open_issues": 73,
+                "open_issues": 75,
                 "owner": "rabits",
                 "repo": "ha-ef-ble",
-                "stars": 436,
+                "stars": 437,
                 "topics": [
                   "bluetooth-low-energy",
                   "hacs-integration",
@@ -2143,7 +2143,7 @@
             {
               "node_type": "item",
               "title": "BLE Battery Management Systems",
-              "description": "Reads Bluetooth Low Energy battery management systems (BMS) from many vendors, exposing per-cell voltages, balancing, and SOC (372★).",
+              "description": "Reads Bluetooth Low Energy battery management systems (BMS) from many vendors, exposing per-cell voltages, balancing, and SOC (379★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2152,8 +2152,8 @@
                 "id": 766648885,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-08T08:41:10Z",
-                "open_issues": 21,
+                "last_commit": "2026-11-08T17:35:18Z",
+                "open_issues": 20,
                 "owner": "patman15",
                 "repo": "BMS_BLE-HA",
                 "stars": 379,
@@ -2183,7 +2183,7 @@
             {
               "node_type": "item",
               "title": "PadSpan HA",
-              "description": "Shows which room every phone, watch and tag is in, live, on a 3D floor plan, using the ESPHome Bluetooth proxies you already have (289★).",
+              "description": "Shows which room every phone, watch and tag is in, live, on a 3D floor plan, using the ESPHome Bluetooth proxies you already have (291★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2196,7 +2196,7 @@
                 "open_issues": 3,
                 "owner": "gbroeckling",
                 "repo": "padspanHA",
-                "stars": 293,
+                "stars": 296,
                 "topics": [
                   "3d",
                   "ai-assisted",
@@ -2232,7 +2232,7 @@
             {
               "node_type": "item",
               "title": "Battery Notes",
-              "description": "Annotate every device with its battery type and quantity, then track replacements, low-battery warnings, and history (1,187★).",
+              "description": "Annotate every device with its battery type and quantity, then track replacements, low-battery warnings, and history (1,196★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2267,7 +2267,7 @@
             {
               "node_type": "item",
               "title": "Xiaomi MIoT",
-              "description": "Auto-integrate Xiaomi smart-home devices over Wi-Fi, BLE, and Zigbee using the MIoT-spec protocol (6,172★).",
+              "description": "Auto-integrate Xiaomi smart-home devices over Wi-Fi, BLE, and Zigbee using the MIoT-spec protocol (6,225★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2277,10 +2277,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-07T02:02:34Z",
-                "open_issues": 962,
+                "open_issues": 963,
                 "owner": "al-one",
                 "repo": "hass-xiaomi-miot",
-                "stars": 6233,
+                "stars": 6236,
                 "topics": [
                   "custom-component",
                   "hass",
@@ -2302,7 +2302,7 @@
             {
               "node_type": "item",
               "title": "LocalTuya",
-              "description": "Local control of Tuya devices over the LAN, no cloud round-trips, supporting plugs, lights, climate, and covers (4,004★).",
+              "description": "Local control of Tuya devices over the LAN, no cloud round-trips, supporting plugs, lights, climate, and covers (4,015★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2315,7 +2315,7 @@
                 "open_issues": 1600,
                 "owner": "rospogrigio",
                 "repo": "localtuya",
-                "stars": 4020,
+                "stars": 4021,
                 "topics": [
                   "localtuya",
                   "tuya",
@@ -2327,7 +2327,7 @@
             {
               "node_type": "item",
               "title": "Sonoff LAN",
-              "description": "Control Sonoff devices with eWeLink (original) firmware over LAN and/or Cloud (3,332★).",
+              "description": "Control Sonoff devices with eWeLink (original) firmware over LAN and/or Cloud (3,346★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2337,7 +2337,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-04T06:18:07Z",
-                "open_issues": 188,
+                "open_issues": 189,
                 "owner": "AlexxIT",
                 "repo": "SonoffLAN",
                 "stars": 3351,
@@ -2353,7 +2353,7 @@
             {
               "node_type": "item",
               "title": "SmartIR",
-              "description": "Integrates devices using Broadlink IR (2,852★).",
+              "description": "Integrates devices using Broadlink IR (2,856★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2363,10 +2363,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-05T12:43:01Z",
-                "open_issues": 80,
+                "open_issues": 81,
                 "owner": "smartHomeHub",
                 "repo": "SmartIR",
-                "stars": 2858,
+                "stars": 2860,
                 "topics": [
                   "broadlink",
                   "chuangmiir",
@@ -2382,7 +2382,7 @@
             {
               "node_type": "item",
               "title": "Xiaomi Gateway 3",
-              "description": "Local control of Xiaomi Multimode Gateway and Aqara Hub E1 over LAN, no cloud round-trips (2,799★).",
+              "description": "Local control of Xiaomi Multimode Gateway and Aqara Hub E1 over LAN, no cloud round-trips (2,805★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2415,7 +2415,7 @@
             {
               "node_type": "item",
               "title": "Midea AC LAN",
-              "description": "Local control of Midea air conditioners, heat pumps, and other M-Smart devices (1,911★).",
+              "description": "Local control of Midea air conditioners, heat pumps, and other M-Smart devices (1,932★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2424,11 +2424,11 @@
                 "id": 799096673,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-07T15:12:12Z",
-                "open_issues": 87,
+                "last_commit": "2026-11-09T10:25:55Z",
+                "open_issues": 89,
                 "owner": "wuwentao",
                 "repo": "midea_ac_lan",
-                "stars": 1942,
+                "stars": 1946,
                 "topics": [
                   "air-conditioner",
                   "air-purifier",
@@ -2460,7 +2460,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-25T22:06:39Z",
-                "open_issues": 165,
+                "open_issues": 167,
                 "owner": "ollo69",
                 "repo": "ha-smartthinq-sensors",
                 "stars": 1330,
@@ -2492,7 +2492,7 @@
             {
               "node_type": "item",
               "title": "Home Connect Alt",
-              "description": "Alternative Home Connect integration for Bosch, Siemens, NEFF, and Gaggenau ovens, dishwashers, and washing machines, with richer state than the official one (1,024★).",
+              "description": "Alternative Home Connect integration for Bosch, Siemens, NEFF, and Gaggenau ovens, dishwashers, and washing machines, with richer state than the official one (1,031★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2502,7 +2502,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-02T11:42:07Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "ekutner",
                 "repo": "home-connect-hass",
                 "stars": 1034,
@@ -2518,7 +2518,7 @@
             {
               "node_type": "item",
               "title": "Tapo Devices",
-              "description": "TP-Link Tapo plugs, switches, bulbs, and energy monitoring (P100, P105, P110, L510, L530, L900) over LAN (977★).",
+              "description": "TP-Link Tapo plugs, switches, bulbs, and energy monitoring (P100, P105, P110, L510, L530, L900) over LAN (979★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2531,7 +2531,7 @@
                 "open_issues": 24,
                 "owner": "petretiandrea",
                 "repo": "home-assistant-tapo-p100",
-                "stars": 981,
+                "stars": 982,
                 "topics": [
                   "energy",
                   "home-assistant",
@@ -2557,7 +2557,7 @@
             {
               "node_type": "item",
               "title": "Meross",
-              "description": "Control Meross plugs, switches, bulbs, garage door openers, and humidifiers via the Meross IoT cloud (859★).",
+              "description": "Control Meross plugs, switches, bulbs, garage door openers, and humidifiers via the Meross IoT cloud (862★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2567,7 +2567,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-01-22T22:10:12Z",
-                "open_issues": 61,
+                "open_issues": 62,
                 "owner": "albertogeniola",
                 "repo": "meross-homeassistant",
                 "stars": 862,
@@ -2582,7 +2582,7 @@
             {
               "node_type": "item",
               "title": "Meross LAN",
-              "description": "Local control of Meross plugs, switches, lights, and garage door openers, falling back to cloud only when needed (751★).",
+              "description": "Local control of Meross plugs, switches, lights, and garage door openers, falling back to cloud only when needed (757★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2591,8 +2591,8 @@
                 "id": 341500126,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-08T10:43:14Z",
-                "open_issues": 75,
+                "last_commit": "2026-11-09T08:45:33Z",
+                "open_issues": 76,
                 "owner": "krahabb",
                 "repo": "meross_lan",
                 "stars": 765,
@@ -2620,7 +2620,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-26T17:43:14Z",
-                "open_issues": 67,
+                "open_issues": 69,
                 "owner": "ollo69",
                 "repo": "ha-samsungtv-smart",
                 "stars": 681,
@@ -2638,7 +2638,7 @@
             {
               "node_type": "item",
               "title": "HomeMatic IP Local",
-              "description": "Local control of HomeMatic and HomeMatic IP devices through OpenCCU or RaspberryMatic, no cloud round-trips (605★).",
+              "description": "Local control of HomeMatic and HomeMatic IP devices through OpenCCU or RaspberryMatic, no cloud round-trips (608★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2647,11 +2647,11 @@
                 "id": 389120303,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-08T07:55:18Z",
+                "last_commit": "2026-11-09T03:20:49Z",
                 "open_issues": 2,
                 "owner": "SukramJ",
                 "repo": "homematicip_local",
-                "stars": 609,
+                "stars": 610,
                 "topics": [
                   "ccu",
                   "custom-integration",
@@ -2669,7 +2669,7 @@
             {
               "node_type": "item",
               "title": "Home Connect Local",
-              "description": "Talks to Bosch, Siemens, NEFF, and Gaggenau appliances directly over the local network, no cloud detour (495★).",
+              "description": "Talks to Bosch, Siemens, NEFF, and Gaggenau appliances directly over the local network, no cloud detour (511★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2678,11 +2678,11 @@
                 "id": 941653273,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-07T05:49:37Z",
-                "open_issues": 131,
+                "last_commit": "2026-11-08T21:56:01Z",
+                "open_issues": 134,
                 "owner": "chris-mc1",
                 "repo": "homeconnect_local_hass",
-                "stars": 513,
+                "stars": 514,
                 "topics": [
                   "custom-component",
                   "hacs",
@@ -2699,7 +2699,7 @@
             {
               "node_type": "item",
               "title": "Nest Protect",
-              "description": "Track Nest Protect smoke and CO alarms with battery state, recent events, and per-room safety status (487★).",
+              "description": "Track Nest Protect smoke and CO alarms with battery state, recent events, and per-room safety status (491★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2708,11 +2708,11 @@
                 "id": 448323715,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-02T08:11:41Z",
-                "open_issues": 26,
+                "last_commit": "2026-11-09T08:11:41Z",
+                "open_issues": 28,
                 "owner": "iMicknl",
                 "repo": "ha-nest-protect",
-                "stars": 490,
+                "stars": 491,
                 "topics": [
                   "google",
                   "home-assistant",
@@ -2725,7 +2725,7 @@
             {
               "node_type": "item",
               "title": "Dyson",
-              "description": "Wi-Fi connected Dyson fans, purifiers, and humidifiers, with full per-mode control over the local network (441★).",
+              "description": "Wi-Fi connected Dyson fans, purifiers, and humidifiers, with full per-mode control over the local network (446★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2756,7 +2756,7 @@
             {
               "node_type": "item",
               "title": "PETLIBRO",
-              "description": "Adds PETLIBRO smart pet feeders and fountains, with feeding schedules, dispense events, and battery levels (377★).",
+              "description": "Adds PETLIBRO smart pet feeders and fountains, with feeding schedules, dispense events, and battery levels (383★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2769,7 +2769,7 @@
                 "open_issues": 24,
                 "owner": "jjjonesjr33",
                 "repo": "petlibro",
-                "stars": 386,
+                "stars": 388,
                 "topics": [
                   "home-assistant",
                   "petlibro",
@@ -2819,7 +2819,7 @@
             {
               "node_type": "item",
               "title": "hOn",
-              "description": "Pulls Haier, Candy, and Hoover appliances from the official hOn cloud, exposing every state and parameter the app shows (292★).",
+              "description": "Pulls Haier, Candy, and Hoover appliances from the official hOn cloud, exposing every state and parameter the app shows (294★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2828,8 +2828,8 @@
                 "id": 506356147,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-07T19:55:30Z",
-                "open_issues": 100,
+                "last_commit": "2026-11-09T13:44:09Z",
+                "open_issues": 101,
                 "owner": "gvigroux",
                 "repo": "hon",
                 "stars": 297,
@@ -2880,7 +2880,7 @@
             {
               "node_type": "item",
               "title": "Browser Mod",
-              "description": "Turn each browser into a controllable entity: pop up cards, navigate views, play sounds, or detect who is looking at the dashboard (1,827★).",
+              "description": "Turn each browser into a controllable entity: pop up cards, navigate views, play sounds, or detect who is looking at the dashboard (1,837★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2889,8 +2889,8 @@
                 "id": 194140521,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-30T10:57:16Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-08T23:19:06Z",
+                "open_issues": 1,
                 "owner": "thomasloven",
                 "repo": "hass-browser_mod",
                 "stars": 1841,
@@ -2901,7 +2901,7 @@
             {
               "node_type": "item",
               "title": "Spook",
-              "description": "A toolbox of helpful sensors, services, and templates that surface things the UI normally hides (1,727★).",
+              "description": "A toolbox of helpful sensors, services, and templates that surface things the UI normally hides (1,765★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2910,11 +2910,11 @@
                 "id": 605635573,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-05T20:48:10Z",
-                "open_issues": 39,
+                "last_commit": "2026-11-09T10:51:48Z",
+                "open_issues": 38,
                 "owner": "frenck",
                 "repo": "spook",
-                "stars": 1802,
+                "stars": 1810,
                 "topics": [
                   "hacs-integration",
                   "home-assistant",
@@ -2941,7 +2941,7 @@
             {
               "node_type": "item",
               "title": "Pyscript",
-              "description": "Write automations and templates in Python instead of YAML (1,192★).",
+              "description": "Write automations and templates in Python instead of YAML (1,193★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2954,7 +2954,7 @@
                 "open_issues": 143,
                 "owner": "custom-components",
                 "repo": "pyscript",
-                "stars": 1194,
+                "stars": 1195,
                 "topics": [
                   "custom-component",
                   "custom-components",
@@ -2970,7 +2970,7 @@
             {
               "node_type": "item",
               "title": "Scheduler Component",
-              "description": "Build weekly schedules for any entity through a card-driven UI, no YAML required (911★).",
+              "description": "Build weekly schedules for any entity through a card-driven UI, no YAML required (921★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2998,7 +2998,7 @@
             {
               "node_type": "item",
               "title": "The Watchman",
-              "description": "Keep track of missing entities and services in your config files (689★).",
+              "description": "Keep track of missing entities and services in your config files (694★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3011,7 +3011,7 @@
                 "open_issues": 49,
                 "owner": "dummylabs",
                 "repo": "thewatchman",
-                "stars": 695,
+                "stars": 696,
                 "topics": [
                   "automation",
                   "home-assistant",
@@ -3023,7 +3023,7 @@
             {
               "node_type": "item",
               "title": "Node-RED Companion",
-              "description": "Companion component for the node-red-contrib-home-assistant-websocket project that exposes services, sensors, and binary sensors back to your dashboards (583★).",
+              "description": "Companion component for the node-red-contrib-home-assistant-websocket project that exposes services, sensors, and binary sensors back to your dashboards (587★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3032,8 +3032,8 @@
                 "id": 202987887,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-06T06:06:47Z",
-                "open_issues": 14,
+                "last_commit": "2026-11-09T12:59:56Z",
+                "open_issues": 16,
                 "owner": "zachowj",
                 "repo": "hass-node-red",
                 "stars": 587,
@@ -3047,7 +3047,7 @@
             {
               "node_type": "item",
               "title": "Magic Areas",
-              "description": "Auto-build per-room presence, climate, and media area entities, with motion-triggered scenes and bright/dark detection (522★).",
+              "description": "Auto-build per-room presence, climate, and media area entities, with motion-triggered scenes and bright/dark detection (525★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3100,7 +3100,7 @@
             {
               "node_type": "item",
               "title": "Multiscrape",
-              "description": "Scrape multiple values (HTML, XML, or JSON) from a page in one request and turn them into sensors (453★).",
+              "description": "Scrape multiple values (HTML, XML, or JSON) from a page in one request and turn them into sensors (451★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3109,8 +3109,8 @@
                 "id": 358585486,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-06T16:18:13Z",
-                "open_issues": 15,
+                "last_commit": "2026-11-09T08:22:45Z",
+                "open_issues": 14,
                 "owner": "danieldotnl",
                 "repo": "ha-multiscrape",
                 "stars": 452,
@@ -3130,7 +3130,7 @@
             {
               "node_type": "item",
               "title": "Retry Service",
-              "description": "Wraps any service call so transient failures retry automatically with exponential backoff (173★).",
+              "description": "Wraps any service call so transient failures retry automatically with exponential backoff (176★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3140,7 +3140,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-08T05:29:06Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "amitfin",
                 "repo": "retry",
                 "stars": 177,
@@ -3161,7 +3161,7 @@
             {
               "node_type": "item",
               "title": "Mail and Packages",
-              "description": "Sensors for incoming and delivered packages plus USPS Informed Delivery preview images, all from your existing email account (891★).",
+              "description": "Sensors for incoming and delivered packages plus USPS Informed Delivery preview images, all from your existing email account (896★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3189,7 +3189,7 @@
             {
               "node_type": "item",
               "title": "Smart Irrigation",
-              "description": "Calculates how long to run each irrigation zone based on evapotranspiration, recent rainfall, and weather forecasts (564★).",
+              "description": "Calculates how long to run each irrigation zone based on evapotranspiration, recent rainfall, and weather forecasts (566★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3198,11 +3198,11 @@
                 "id": 263179176,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-08T11:14:26Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-09T08:09:23Z",
+                "open_issues": 8,
                 "owner": "altmenorg",
                 "repo": "HAsmartirrigation",
-                "stars": 566,
+                "stars": 567,
                 "topics": [
                   "crop",
                   "evaporation",
@@ -3227,7 +3227,7 @@
             {
               "node_type": "item",
               "title": "Moonraker (Klipper)",
-              "description": "Track Klipper-based 3D printers running Moonraker (Mainsail, Fluidd) with print progress, temperature, and webcam snapshots (500★).",
+              "description": "Track Klipper-based 3D printers running Moonraker (Mainsail, Fluidd) with print progress, temperature, and webcam snapshots (504★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3237,10 +3237,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-07T14:07:45Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "marcolivierarsenault",
                 "repo": "moonraker-home-assistant",
-                "stars": 507,
+                "stars": 509,
                 "topics": [
                   "hacs",
                   "home-assistant",
@@ -3253,7 +3253,7 @@
             {
               "node_type": "item",
               "title": "Irrigation Unlimited",
-              "description": "Multi-zone irrigation controller with schedules, sequences, weather adjustments, and manual run support (465★).",
+              "description": "Multi-zone irrigation controller with schedules, sequences, weather adjustments, and manual run support (468★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3287,7 +3287,7 @@
             {
               "node_type": "item",
               "title": "UK Bin Collection",
-              "description": "Council bin collection schedules across UK local authorities, exposed as next-pickup sensors per waste stream (357★).",
+              "description": "Council bin collection schedules across UK local authorities, exposed as next-pickup sensors per waste stream (365★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3296,7 +3296,7 @@
                 "id": 236071875,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-06T06:03:06Z",
+                "last_commit": "2026-11-09T06:06:11Z",
                 "open_issues": 48,
                 "owner": "robbrad",
                 "repo": "UKBinCollectionData",
@@ -3318,7 +3318,7 @@
             {
               "node_type": "item",
               "title": "OIDC Auth",
-              "description": "Sign in with single sign-on through any OpenID Connect provider, including Authelia, Authentik, Keycloak, and Pocket ID (1,121★).",
+              "description": "Sign in with single sign-on through any OpenID Connect provider, including Authelia, Authentik, Keycloak, and Pocket ID (1,146★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3327,8 +3327,8 @@
                 "id": 571557322,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-07T10:27:27Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-09T07:01:09Z",
+                "open_issues": 11,
                 "owner": "christiaangoossens",
                 "repo": "hass-oidc-auth",
                 "stars": 1155,
@@ -3355,7 +3355,7 @@
             {
               "node_type": "item",
               "title": "Mikrotik Router",
-              "description": "Pulls Mikrotik routers and access points into your dashboard, with per-client traffic, DHCP leases, and PoE controls (472★).",
+              "description": "Pulls Mikrotik routers and access points into your dashboard, with per-client traffic, DHCP leases, and PoE controls (475★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3382,7 +3382,7 @@
             {
               "node_type": "item",
               "title": "TP-Link Router",
-              "description": "Manages TP-Link and Mercusys routers with sensors, reboot button, switches, and per-client device tracking (395★).",
+              "description": "Manages TP-Link and Mercusys routers with sensors, reboot button, switches, and per-client device tracking (401★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3424,7 +3424,7 @@
             {
               "node_type": "item",
               "title": "OpenID Connect Auth",
-              "description": "Sign in through any OpenID Connect provider, including Authelia, Keycloak, and Authentik (213★).",
+              "description": "Sign in through any OpenID Connect provider, including Authelia, Keycloak, and Authentik (214★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3463,7 +3463,7 @@
             {
               "node_type": "item",
               "title": "Remote Home Assistant",
-              "description": "Link multiple instances together so entities, services, and events flow between them (1,281★).",
+              "description": "Link multiple instances together so entities, services, and events flow between them (1,285★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3476,7 +3476,7 @@
                 "open_issues": 123,
                 "owner": "custom-components",
                 "repo": "remote_homeassistant",
-                "stars": 1289,
+                "stars": 1290,
                 "topics": [
                   "hacktoberfest",
                   "hacs",
@@ -3495,7 +3495,7 @@
             {
               "node_type": "item",
               "title": "Monitor Docker",
-              "description": "Watch CPU, memory, network, and uptime for every Docker container on a host, including remote ones, and start or stop them from automations (414★).",
+              "description": "Watch CPU, memory, network, and uptime for every Docker container on a host, including remote ones, and start or stop them from automations (417★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3523,7 +3523,7 @@
             {
               "node_type": "item",
               "title": "TrueNAS",
-              "description": "Pull TrueNAS Scale and Core stats, datasets, virtual machines, and apps into sensors and switches (386★).",
+              "description": "Pull TrueNAS Scale and Core stats, datasets, virtual machines, and apps into sensors and switches (388★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3551,7 +3551,7 @@
             {
               "node_type": "item",
               "title": "Unraid",
-              "description": "Monitors and controls an Unraid NAS, including CPU, memory, disks, virtual machines, and Docker containers (257★).",
+              "description": "Monitors and controls an Unraid NAS, including CPU, memory, disks, virtual machines, and Docker containers (258★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3560,11 +3560,11 @@
                 "id": 872726164,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-07T04:54:28Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-09T12:50:23Z",
+                "open_issues": 9,
                 "owner": "tinkerologie",
                 "repo": "ha-unraid",
-                "stars": 259,
+                "stars": 260,
                 "topics": [
                   "custom-integration",
                   "graphql",
@@ -3578,7 +3578,7 @@
             {
               "node_type": "item",
               "title": "Elasticsearch",
-              "description": "Publishes events to Elasticsearch (164★).",
+              "description": "Publishes events to Elasticsearch (163★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3587,7 +3587,7 @@
                 "id": 132661981,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-07T23:00:30Z",
+                "last_commit": "2026-11-09T12:41:53Z",
                 "open_issues": 16,
                 "owner": "legrego",
                 "repo": "homeassistant-elasticsearch",
@@ -3620,7 +3620,7 @@
             {
               "node_type": "item",
               "title": "Mushroom",
-              "description": "A complete card collection with a soft, mobile-first aesthetic that you can drop into existing dashboards (5,219★).",
+              "description": "A complete card collection with a soft, mobile-first aesthetic that you can drop into existing dashboards (5,243★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3633,7 +3633,7 @@
                 "open_issues": 439,
                 "owner": "piitaya",
                 "repo": "lovelace-mushroom",
-                "stars": 5255,
+                "stars": 5257,
                 "topics": [
                   "card",
                   "hacktoberfest",
@@ -3648,7 +3648,7 @@
             {
               "node_type": "item",
               "title": "Bubble Card",
-              "description": "Minimalist card collection with a pop-up touch and rich customization (4,657★).",
+              "description": "Minimalist card collection with a pop-up touch and rich customization (4,694★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3658,10 +3658,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-31T13:26:38Z",
-                "open_issues": 31,
+                "open_issues": 33,
                 "owner": "Clooos",
                 "repo": "Bubble-Card",
-                "stars": 4707,
+                "stars": 4710,
                 "topics": [
                   "card",
                   "custom-card",
@@ -3677,7 +3677,7 @@
             {
               "node_type": "item",
               "title": "UI Lovelace Minimalist",
-              "description": "Drop-in dashboard collection with a uniform minimalist look across all your views, including ready-made cards and a button card library (2,076★).",
+              "description": "Drop-in dashboard collection with a uniform minimalist look across all your views, including ready-made cards and a button card library (2,082★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3686,7 +3686,7 @@
                 "id": 413798425,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-06T10:05:18Z",
+                "last_commit": "2026-11-09T10:06:24Z",
                 "open_issues": 37,
                 "owner": "UI-Lovelace-Minimalist",
                 "repo": "UI",
@@ -3703,7 +3703,7 @@
             {
               "node_type": "item",
               "title": "Floorplan",
-              "description": "Map entities onto an SVG of your house and animate them based on state changes (1,628★).",
+              "description": "Map entities onto an SVG of your house and animate them based on state changes (1,638★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3716,7 +3716,7 @@
                 "open_issues": 17,
                 "owner": "ExperienceLovelace",
                 "repo": "ha-floorplan",
-                "stars": 1642,
+                "stars": 1646,
                 "topics": [
                   "floorplan",
                   "homeassistant",
@@ -3737,7 +3737,7 @@
             {
               "node_type": "item",
               "title": "Button card",
-              "description": "Highly customizable button for your entities (2,512★).",
+              "description": "Highly customizable button for your entities (2,524★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3750,7 +3750,7 @@
                 "open_issues": 36,
                 "owner": "custom-cards",
                 "repo": "button-card",
-                "stars": 2528,
+                "stars": 2529,
                 "topics": [
                   "home-assistant",
                   "home-assistant-custom",
@@ -3764,7 +3764,7 @@
             {
               "node_type": "item",
               "title": "Card Modder",
-              "description": "Style your Lovelace cards (1,832★).",
+              "description": "Style your Lovelace cards (1,842★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3785,7 +3785,7 @@
             {
               "node_type": "item",
               "title": "Auto-Entities Card",
-              "description": "Dynamically adds entities: 🔮 Magic (1,827★).",
+              "description": "Dynamically adds entities: 🔮 Magic (1,837★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3806,7 +3806,7 @@
             {
               "node_type": "item",
               "title": "Layout Card",
-              "description": "Get fine-grained control over how cards are placed on your dashboard, including masonry-style and grid layouts (1,254★).",
+              "description": "Get fine-grained control over how cards are placed on your dashboard, including masonry-style and grid layouts (1,258★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3816,7 +3816,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-05-09T16:15:02Z",
-                "open_issues": 125,
+                "open_issues": 126,
                 "owner": "thomasloven",
                 "repo": "lovelace-layout-card",
                 "stars": 1262,
@@ -3827,7 +3827,7 @@
             {
               "node_type": "item",
               "title": "Vertical Stack In Card",
-              "description": "Group multiple cards into a single sleek card with one shared border (984★).",
+              "description": "Group multiple cards into a single sleek card with one shared border (986★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3852,7 +3852,7 @@
             {
               "node_type": "item",
               "title": "Fold Entity Row",
-              "description": "A foldable row that hides extra entities behind a header until clicked (709★).",
+              "description": "A foldable row that hides extra entities behind a header until clicked (710★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3873,7 +3873,7 @@
             {
               "node_type": "item",
               "title": "Swipe Navigation",
-              "description": "Switch between dashboard views with a swipe gesture on mobile (576★).",
+              "description": "Switch between dashboard views with a swipe gesture on mobile (578★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3882,11 +3882,11 @@
                 "id": 501725479,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-01T04:11:48Z",
-                "open_issues": 29,
+                "last_commit": "2026-11-09T12:41:57Z",
+                "open_issues": 28,
                 "owner": "zanna-37",
                 "repo": "hass-swipe-navigation",
-                "stars": 579,
+                "stars": 580,
                 "topics": [
                   "hacs",
                   "home-assistant",
@@ -3899,7 +3899,7 @@
             {
               "node_type": "item",
               "title": "Config Template Card",
-              "description": "Allow using templates in Lovelace (567★).",
+              "description": "Allow using templates in Lovelace (569★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3933,7 +3933,7 @@
                 "open_issues": 61,
                 "owner": "thomasloven",
                 "repo": "lovelace-state-switch",
-                "stars": 479,
+                "stars": 480,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:37.944Z"
@@ -3941,7 +3941,7 @@
             {
               "node_type": "item",
               "title": "Custom Card Features",
-              "description": "Adds buttons, dropdowns, sliders, spinboxes, selectors, and toggles you can attach to tile cards to call any service (451★).",
+              "description": "Adds buttons, dropdowns, sliders, spinboxes, selectors, and toggles you can attach to tile cards to call any service (453★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3954,7 +3954,7 @@
                 "open_issues": 1,
                 "owner": "Nerwyn",
                 "repo": "custom-card-features",
-                "stars": 453,
+                "stars": 454,
                 "topics": [
                   "hacs",
                   "home-assistant",
@@ -3996,7 +3996,7 @@
             {
               "node_type": "item",
               "title": "Paper Buttons Row",
-              "description": "Highly configurable button rows that can call actions, fire haptics, and restyle per state (371★).",
+              "description": "Highly configurable button rows that can call actions, fire haptics, and restyle per state (369★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4023,7 +4023,7 @@
             {
               "node_type": "item",
               "title": "Restriction Card",
-              "description": "A card to provide restrictions on Lovelace cards defined within (324★).",
+              "description": "A card to provide restrictions on Lovelace cards defined within (325★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4049,7 +4049,7 @@
             {
               "node_type": "item",
               "title": "Custom Sidebar",
-              "description": "Personalise the sidebar per user or device, hide pages, reorder them, or restyle the look (294★).",
+              "description": "Personalise the sidebar per user or device, hide pages, reorder them, or restyle the look (300★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4058,8 +4058,8 @@
                 "id": 737780218,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-08T08:03:13Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-08T22:14:06Z",
+                "open_issues": 1,
                 "owner": "elchininet",
                 "repo": "custom-sidebar",
                 "stars": 301,
@@ -4083,7 +4083,7 @@
             {
               "node_type": "item",
               "title": "Streamline Card",
-              "description": "Define a card template once and reuse it across the dashboard with different entities, no copy-paste YAML (272★).",
+              "description": "Define a card template once and reuse it across the dashboard with different entities, no copy-paste YAML (275★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4120,7 +4120,7 @@
             {
               "node_type": "item",
               "title": "Mini Graph Card",
-              "description": "A minimalistic sensor graph card (3,903★).",
+              "description": "A minimalistic sensor graph card (3,910★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4129,7 +4129,7 @@
                 "id": 151280062,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-06T23:20:50Z",
+                "last_commit": "2026-11-09T00:56:51Z",
                 "open_issues": 135,
                 "owner": "kalkih",
                 "repo": "mini-graph-card",
@@ -4151,7 +4151,7 @@
             {
               "node_type": "item",
               "title": "ApexCharts Card",
-              "description": "Advanced graphs and charts powered by ApexChartsJS with timelines, multi-axis, and event markers (1,882★).",
+              "description": "Advanced graphs and charts powered by ApexChartsJS with timelines, multi-axis, and event markers (1,892★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4177,7 +4177,7 @@
             {
               "node_type": "item",
               "title": "Sankey Chart",
-              "description": "Sankey-style flow diagram for visualising power, water, or any other flow across your home (679★).",
+              "description": "Sankey-style flow diagram for visualising power, water, or any other flow across your home (682★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4215,7 +4215,7 @@
                 "open_issues": 29,
                 "owner": "selvalt7",
                 "repo": "modern-circular-gauge",
-                "stars": 289,
+                "stars": 288,
                 "topics": [
                   "card",
                   "home-assistant",
@@ -4259,7 +4259,7 @@
             {
               "node_type": "item",
               "title": "Sensor Bar Card Plus",
-              "description": "Highly configurable sensor bars and gauges with dynamic scales, multiple fill styles, targets, reference markers, and Tile card integration (96★).",
+              "description": "Highly configurable sensor bars and gauges with dynamic scales, multiple fill styles, targets, reference markers, and Tile card integration (100★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4272,7 +4272,7 @@
                 "open_issues": 1,
                 "owner": "cdelaet",
                 "repo": "sensor-bar-card-plus",
-                "stars": 100,
+                "stars": 101,
                 "topics": [
                   "dashboard",
                   "hacs",
@@ -4299,7 +4299,7 @@
             {
               "node_type": "item",
               "title": "Battery State Card",
-              "description": "List devices with their battery levels in a tidy card, sorted and color-coded (1,279★).",
+              "description": "List devices with their battery levels in a tidy card, sorted and color-coded (1,284★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4312,7 +4312,7 @@
                 "open_issues": 21,
                 "owner": "maxwroc",
                 "repo": "battery-state-card",
-                "stars": 1284,
+                "stars": 1285,
                 "topics": [
                   "battery",
                   "hassio",
@@ -4326,7 +4326,7 @@
             {
               "node_type": "item",
               "title": "Scheduler Card",
-              "description": "Build and edit weekly schedules for any entity right from the dashboard (1,266★).",
+              "description": "Build and edit weekly schedules for any entity right from the dashboard (1,276★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4336,7 +4336,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-31T07:11:28Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "nielsfaber",
                 "repo": "scheduler-card",
                 "stars": 1282,
@@ -4362,7 +4362,7 @@
             {
               "node_type": "item",
               "title": "Slider Entity Row",
-              "description": "Add a slider to adjust, e.g., the brightness of lights in lovelace entity cards (926★).",
+              "description": "Add a slider to adjust, e.g., the brightness of lights in lovelace entity cards (928★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4383,7 +4383,7 @@
             {
               "node_type": "item",
               "title": "Timer Bar Card",
-              "description": "Progress-bar card for any timer entity, with countdown, formatted remaining time, and configurable colors (606★).",
+              "description": "Progress-bar card for any timer entity, with countdown, formatted remaining time, and configurable colors (608★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4408,7 +4408,7 @@
             {
               "node_type": "item",
               "title": "Vehicle Status Card",
-              "description": "Dashboard card showing fuel or charge level, range, doors, lock state, and a customizable image of the car (308★).",
+              "description": "Dashboard card showing fuel or charge level, range, doors, lock state, and a customizable image of the car (310★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4436,7 +4436,7 @@
             {
               "node_type": "item",
               "title": "Entity Progress Card",
-              "description": "Progress-bar card for any numeric entity, with thresholds, gradients, and templated icons (283★).",
+              "description": "Progress-bar card for any numeric entity, with thresholds, gradients, and templated icons (287★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4445,11 +4445,11 @@
                 "id": 908868522,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-19T22:19:26Z",
+                "last_commit": "2026-11-08T22:23:53Z",
                 "open_issues": 3,
                 "owner": "francois-le-ko4la",
                 "repo": "lovelace-entity-progress-card",
-                "stars": 288,
+                "stars": 289,
                 "topics": [
                   "bar-card",
                   "battery",
@@ -4484,7 +4484,7 @@
             {
               "node_type": "item",
               "title": "Clock Weather Card",
-              "description": "Combined date, time, and weather forecast card with an iOS-inspired layout for the days ahead (882★).",
+              "description": "Combined date, time, and weather forecast card with an iOS-inspired layout for the days ahead (909★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4497,7 +4497,7 @@
                 "open_issues": 4,
                 "owner": "pkissling",
                 "repo": "clock-weather-card",
-                "stars": 913,
+                "stars": 914,
                 "topics": [
                   "animated-icons",
                   "animated-svg",
@@ -4523,7 +4523,7 @@
             {
               "node_type": "item",
               "title": "Horizon Card",
-              "description": "Visualises the position of the Sun over the horizon throughout the day, with sunrise, sunset, and twilight markers (688★).",
+              "description": "Visualises the position of the Sun over the horizon throughout the day, with sunrise, sunset, and twilight markers (689★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4536,7 +4536,7 @@
                 "open_issues": 24,
                 "owner": "rejuvenate",
                 "repo": "lovelace-horizon-card",
-                "stars": 691,
+                "stars": 692,
                 "topics": [
                   "hacs",
                   "home-assistant",
@@ -4555,7 +4555,7 @@
             {
               "node_type": "item",
               "title": "Weather Radar",
-              "description": "Animated rain radar card using the public RainViewer tile service, with country-level and regional zoom (465★).",
+              "description": "Animated rain radar card using the public RainViewer tile service, with country-level and regional zoom (474★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4586,7 +4586,7 @@
             {
               "node_type": "item",
               "title": "Weather Chart Card",
-              "description": "Weather card with a chart-style hourly forecast and customizable layout (449★).",
+              "description": "Weather card with a chart-style hourly forecast and customizable layout (456★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4624,7 +4624,7 @@
                 "open_issues": 27,
                 "owner": "decompil3d",
                 "repo": "lovelace-hourly-weather",
-                "stars": 410,
+                "stars": 411,
                 "topics": [
                   "card",
                   "custom-cards",
@@ -4648,7 +4648,7 @@
             {
               "node_type": "item",
               "title": "Mini Media Player",
-              "description": "A minimalistic media player card (1,725★).",
+              "description": "A minimalistic media player card (1,726★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4687,7 +4687,7 @@
             {
               "node_type": "item",
               "title": "Thermostat Card",
-              "description": "Thermostat control card that looks like a Nest Thermostat (749★).",
+              "description": "Thermostat control card that looks like a Nest Thermostat (748★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4696,8 +4696,8 @@
                 "id": 139634406,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-01T22:43:01Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-08T22:42:41Z",
+                "open_issues": 4,
                 "owner": "ciotlosm",
                 "repo": "lovelace-thermostat-dark-card",
                 "stars": 748,
@@ -4714,7 +4714,7 @@
             {
               "node_type": "item",
               "title": "Mini Climate",
-              "description": "Compact climate card with current temperature, target, and per-mode controls, sized for small dashboards and mobile (328★).",
+              "description": "Compact climate card with current temperature, target, and per-mode controls, sized for small dashboards and mobile (326★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4754,7 +4754,7 @@
             {
               "node_type": "item",
               "title": "Sunsynk Power Flow",
-              "description": "Visualise the live energy flow of Sunsynk and Deye inverters, mirroring the layout of the inverter screen (397★).",
+              "description": "Visualise the live energy flow of Sunsynk and Deye inverters, mirroring the layout of the inverter screen (402★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4791,7 +4791,7 @@
             {
               "node_type": "item",
               "title": "RGB Light Card",
-              "description": "Colorful buttons to control your RGB Lights (576★).",
+              "description": "Colorful buttons to control your RGB Lights (579★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4817,7 +4817,7 @@
             {
               "node_type": "item",
               "title": "Hue-Like Light Card",
-              "description": "Light card styled and laid out like the Philips Hue app, with grouped scenes and per-bulb control (389★).",
+              "description": "Light card styled and laid out like the Philips Hue app, with grouped scenes and per-bulb control (392★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4880,7 +4880,7 @@
             {
               "node_type": "item",
               "title": "ha-map-card",
-              "description": "Leaflet-based map card with history trails, custom tile layers, and tap actions (138★).",
+              "description": "Leaflet-based map card with history trails, custom tile layers, and tap actions (141★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4915,7 +4915,7 @@
             {
               "node_type": "item",
               "title": "Advanced Camera Card",
-              "description": "Comprehensive camera card with timelines, galleries, snapshots, clips, and per-event playback (1,191★).",
+              "description": "Comprehensive camera card with timelines, galleries, snapshots, clips, and per-event playback (1,203★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4924,11 +4924,11 @@
                 "id": 394082552,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-08T03:51:26Z",
-                "open_issues": 158,
+                "last_commit": "2026-11-09T00:20:25Z",
+                "open_issues": 154,
                 "owner": "dermotduffy",
                 "repo": "advanced-camera-card",
-                "stars": 1208,
+                "stars": 1210,
                 "topics": [
                   "cctv",
                   "frigate",
@@ -4948,7 +4948,7 @@
             {
               "node_type": "item",
               "title": "Vacuum Map Card",
-              "description": "This card provides a user-friendly way to fully control Xiaomi (Roborock/Viomi/Dreame/Roidmi) and Neato (+ possibly other) vacuums (1,947★).",
+              "description": "This card provides a user-friendly way to fully control Xiaomi (Roborock/Viomi/Dreame/Roidmi) and Neato (+ possibly other) vacuums (1,951★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4987,7 +4987,7 @@
             {
               "node_type": "item",
               "title": "Vacuum Card",
-              "description": "A card for controlling a robot vacuum (1,262★).",
+              "description": "A card for controlling a robot vacuum (1,270★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5017,7 +5017,7 @@
             {
               "node_type": "item",
               "title": "Valetudo Map",
-              "description": "Display the live map from a robot vacuum running Valetudo (cloudless firmware) directly on a dashboard (322★).",
+              "description": "Display the live map from a robot vacuum running Valetudo (cloudless firmware) directly on a dashboard (323★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5051,7 +5051,7 @@
             {
               "node_type": "item",
               "title": "Calendar Card Pro",
-              "description": "Customizable calendar card with event grouping, location indicators, and a clean modern look (1,225★).",
+              "description": "Customizable calendar card with event grouping, location indicators, and a clean modern look (1,277★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5060,11 +5060,11 @@
                 "id": 939311749,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-08T11:31:53Z",
+                "last_commit": "2026-11-08T19:34:07Z",
                 "open_issues": 30,
                 "owner": "alexpfau",
                 "repo": "calendar-card-pro",
-                "stars": 1285,
+                "stars": 1289,
                 "topics": [
                   "calendar",
                   "card",
@@ -5080,7 +5080,7 @@
             {
               "node_type": "item",
               "title": "Atomic Calendar Revive",
-              "description": "Calendar card with advanced settings (678★).",
+              "description": "Calendar card with advanced settings (679★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5139,7 +5139,7 @@
             {
               "node_type": "item",
               "title": "Trash Card",
-              "description": "Show the next trash pickup type (paper, plastic, organic) based on a calendar entity, with color-coded icons (381★).",
+              "description": "Show the next trash pickup type (paper, plastic, organic) based on a calendar entity, with color-coded icons (384★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5180,7 +5180,7 @@
             {
               "node_type": "item",
               "title": "HA Firemote",
-              "description": "Virtual remote for Apple TV, Fire TV, Chromecast, Homatics, Shield, onn., Roku, Xiaomi, and more (1,086★).",
+              "description": "Virtual remote for Apple TV, Fire TV, Chromecast, Homatics, Shield, onn., Roku, Xiaomi, and more (1,098★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5193,7 +5193,7 @@
                 "open_issues": 210,
                 "owner": "PRProd",
                 "repo": "HA-Firemote",
-                "stars": 1101,
+                "stars": 1103,
                 "topics": [
                   "amazon-fire",
                   "amazon-fire-tv",
@@ -5222,7 +5222,7 @@
             {
               "node_type": "item",
               "title": "Universal Remote Card",
-              "description": "Fully customizable virtual remote for any media device, supporting custom buttons and haptics (613★).",
+              "description": "Fully customizable virtual remote for any media device, supporting custom buttons and haptics (619★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5235,7 +5235,7 @@
                 "open_issues": 3,
                 "owner": "Nerwyn",
                 "repo": "universal-remote-card",
-                "stars": 621,
+                "stars": 624,
                 "topics": [
                   "adb",
                   "android-tv",
@@ -5263,7 +5263,7 @@
             {
               "node_type": "item",
               "title": "LG WebOS Remote Control",
-              "description": "Remote Control for LG TV WebOS (587★).",
+              "description": "Remote Control for LG TV WebOS (593★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5333,7 +5333,7 @@
             {
               "node_type": "item",
               "title": "Wall Panel",
-              "description": "Wall-panel mode and photo-screensaver for tablets mounted on the wall (885★).",
+              "description": "Wall-panel mode and photo-screensaver for tablets mounted on the wall (887★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5343,10 +5343,10 @@
                 "language": "JavaScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-24T12:25:21Z",
-                "open_issues": 36,
+                "open_issues": 37,
                 "owner": "j-a-n",
                 "repo": "lovelace-wallpanel",
-                "stars": 888,
+                "stars": 889,
                 "topics": [
                   "dashboard",
                   "fullscreen",
@@ -5365,7 +5365,7 @@
             {
               "node_type": "item",
               "title": "Kiosk Mode",
-              "description": "Hide the header, sidebar, and overflow menu for a clean kiosk-style view (817★).",
+              "description": "Hide the header, sidebar, and overflow menu for a clean kiosk-style view (827★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5400,7 +5400,7 @@
         {
           "node_type": "item",
           "title": "Dwains Dashboard",
-          "description": "A fully auto-generating dashboard for desktop, tablet and mobile (2,077★).",
+          "description": "A fully auto-generating dashboard for desktop, tablet and mobile (2,079★).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5458,7 +5458,7 @@
         {
           "node_type": "item",
           "title": "Frosted Glass",
-          "description": "Modern frosted-glass dark and light themes with translucent cards (1,041★).",
+          "description": "Modern frosted-glass dark and light themes with translucent cards (1,062★).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5471,7 +5471,7 @@
             "open_issues": 10,
             "owner": "wessamlauf",
             "repo": "homeassistant-frosted-glass-themes",
-            "stars": 1066,
+            "stars": 1067,
             "topics": [
               "dark-theme",
               "hacs",
@@ -5488,7 +5488,7 @@
         {
           "node_type": "item",
           "title": "iOS Themes",
-          "description": "Themes inspired by iOS dark and light modes (881★).",
+          "description": "Themes inspired by iOS dark and light modes (883★).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5509,7 +5509,7 @@
         {
           "node_type": "item",
           "title": "LCARS",
-          "description": "Star Trek LCARS-inspired theme for the bridge feel (593★).",
+          "description": "Star Trek LCARS-inspired theme for the bridge feel (601★).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5518,7 +5518,7 @@
             "id": 534353896,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-08T00:17:27Z",
+            "last_commit": "2026-11-09T00:37:58Z",
             "open_issues": 20,
             "owner": "th3jesta",
             "repo": "ha-lcars",
@@ -5542,7 +5542,7 @@
         {
           "node_type": "item",
           "title": "Catppuccin",
-          "description": "Soothing pastel theme matching the popular Catppuccin palette across editors and apps (506★).",
+          "description": "Soothing pastel theme matching the popular Catppuccin palette across editors and apps (515★).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5551,8 +5551,8 @@
             "id": 570909059,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-06T07:32:55Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-09T06:28:42Z",
+            "open_issues": 10,
             "owner": "catppuccin",
             "repo": "home-assistant",
             "stars": 517,
@@ -5569,7 +5569,7 @@
         {
           "node_type": "item",
           "title": "Material You",
-          "description": "Material Design 3 theme that adapts to your accent color (481★).",
+          "description": "Material Design 3 theme that adapts to your accent color (482★).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5601,7 +5601,7 @@
         {
           "node_type": "item",
           "title": "Graphite",
-          "description": "Calm and clean theme with a focused, low-contrast feel (462★).",
+          "description": "Calm and clean theme with a focused, low-contrast feel (470★).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5614,7 +5614,7 @@
             "open_issues": 2,
             "owner": "TilmanGriesel",
             "repo": "graphite",
-            "stars": 470,
+            "stars": 471,
             "topics": [
               "calm",
               "clean",
@@ -5637,7 +5637,7 @@
         {
           "node_type": "item",
           "title": "visionOS",
-          "description": "Theme inspired by Apple's visionOS (431★).",
+          "description": "Theme inspired by Apple's visionOS (435★).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5718,7 +5718,7 @@
         {
           "node_type": "item",
           "title": "Slate",
-          "description": "A dark theme close to the vanilla look (141★).",
+          "description": "A dark theme close to the vanilla look (142★).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5743,7 +5743,7 @@
         {
           "node_type": "item",
           "title": "Nordic",
-          "description": "Light and dark themes in a Nordic palette, with several blue-tinted variants (44★).",
+          "description": "Light and dark themes in a Nordic palette, with several blue-tinted variants (43★).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5848,11 +5848,11 @@
                 "id": 85435841,
                 "language": "Shell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T14:29:50Z",
-                "open_issues": 18,
+                "last_commit": "2026-11-09T09:48:08Z",
+                "open_issues": 19,
                 "owner": "home-assistant",
                 "repo": "apps",
-                "stars": 2256,
+                "stars": 2258,
                 "topics": [
                   "automation",
                   "docker",
@@ -5875,11 +5875,11 @@
                 "id": 85435841,
                 "language": "Shell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T14:29:50Z",
-                "open_issues": 18,
+                "last_commit": "2026-11-09T09:48:08Z",
+                "open_issues": 19,
                 "owner": "home-assistant",
                 "repo": "apps",
-                "stars": 2256,
+                "stars": 2258,
                 "topics": [
                   "automation",
                   "docker",
@@ -5902,11 +5902,11 @@
                 "id": 85435841,
                 "language": "Shell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T14:29:50Z",
-                "open_issues": 18,
+                "last_commit": "2026-11-09T09:48:08Z",
+                "open_issues": 19,
                 "owner": "home-assistant",
                 "repo": "apps",
-                "stars": 2256,
+                "stars": 2258,
                 "topics": [
                   "automation",
                   "docker",
@@ -5929,11 +5929,11 @@
                 "id": 85435841,
                 "language": "Shell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T14:29:50Z",
-                "open_issues": 18,
+                "last_commit": "2026-11-09T09:48:08Z",
+                "open_issues": 19,
                 "owner": "home-assistant",
                 "repo": "apps",
-                "stars": 2256,
+                "stars": 2258,
                 "topics": [
                   "automation",
                   "docker",
@@ -5956,11 +5956,11 @@
                 "id": 85435841,
                 "language": "Shell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T14:29:50Z",
-                "open_issues": 18,
+                "last_commit": "2026-11-09T09:48:08Z",
+                "open_issues": 19,
                 "owner": "home-assistant",
                 "repo": "apps",
-                "stars": 2256,
+                "stars": 2258,
                 "topics": [
                   "automation",
                   "docker",
@@ -5983,11 +5983,11 @@
                 "id": 85435841,
                 "language": "Shell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T14:29:50Z",
-                "open_issues": 18,
+                "last_commit": "2026-11-09T09:48:08Z",
+                "open_issues": 19,
                 "owner": "home-assistant",
                 "repo": "apps",
-                "stars": 2256,
+                "stars": 2258,
                 "topics": [
                   "automation",
                   "docker",
@@ -6010,11 +6010,11 @@
                 "id": 85435841,
                 "language": "Shell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T14:29:50Z",
-                "open_issues": 18,
+                "last_commit": "2026-11-09T09:48:08Z",
+                "open_issues": 19,
                 "owner": "home-assistant",
                 "repo": "apps",
-                "stars": 2256,
+                "stars": 2258,
                 "topics": [
                   "automation",
                   "docker",
@@ -6037,11 +6037,11 @@
                 "id": 85435841,
                 "language": "Shell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T14:29:50Z",
-                "open_issues": 18,
+                "last_commit": "2026-11-09T09:48:08Z",
+                "open_issues": 19,
                 "owner": "home-assistant",
                 "repo": "apps",
-                "stars": 2256,
+                "stars": 2258,
                 "topics": [
                   "automation",
                   "docker",
@@ -6064,11 +6064,11 @@
                 "id": 85435841,
                 "language": "Shell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T14:29:50Z",
-                "open_issues": 18,
+                "last_commit": "2026-11-09T09:48:08Z",
+                "open_issues": 19,
                 "owner": "home-assistant",
                 "repo": "apps",
-                "stars": 2256,
+                "stars": 2258,
                 "topics": [
                   "automation",
                   "docker",
@@ -6089,7 +6089,7 @@
             {
               "node_type": "item",
               "title": "zigbee2mqtt",
-              "description": "Zigbee to MQTT bridge, get rid of your proprietary Zigbee bridges (15,753★).",
+              "description": "Zigbee to MQTT bridge, get rid of your proprietary Zigbee bridges (15,789★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6099,10 +6099,10 @@
                 "language": "TypeScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-06T16:41:50Z",
-                "open_issues": 500,
+                "open_issues": 505,
                 "owner": "Koenkk",
                 "repo": "zigbee2mqtt",
-                "stars": 15798,
+                "stars": 15804,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -6112,7 +6112,7 @@
             {
               "node_type": "item",
               "title": "Hass.io Google Drive Backup",
-              "description": "A complete and easy-to-configure solution for backing up to Google Drive (3,579★).",
+              "description": "A complete and easy-to-configure solution for backing up to Google Drive (3,582★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6136,7 +6136,7 @@
             {
               "node_type": "item",
               "title": "AppDaemon",
-              "description": "A loosely coupled, multi-threaded, sandboxed Python execution environment for writing automation apps (971★).",
+              "description": "A loosely coupled, multi-threaded, sandboxed Python execution environment for writing automation apps (970★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6145,8 +6145,8 @@
                 "id": 63267110,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T20:13:23Z",
-                "open_issues": 140,
+                "last_commit": "2026-11-09T09:58:01Z",
+                "open_issues": 143,
                 "owner": "AppDaemon",
                 "repo": "appdaemon",
                 "stars": 970,
@@ -6160,7 +6160,7 @@
             {
               "node_type": "item",
               "title": "Node-RED",
-              "description": "Flow-based programming for the Internet of Things (654★).",
+              "description": "Flow-based programming for the Internet of Things (658★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6169,8 +6169,8 @@
                 "id": 135750371,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-07T04:47:28Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-09T13:51:57Z",
+                "open_issues": 6,
                 "owner": "hassio-addons",
                 "repo": "app-node-red",
                 "stars": 660,
@@ -6189,7 +6189,7 @@
             {
               "node_type": "item",
               "title": "AdGuard Home",
-              "description": "A network-wide ad-and-tracker blocking DNS server with parental control (539★).",
+              "description": "A network-wide ad-and-tracker blocking DNS server with parental control (546★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6220,7 +6220,7 @@
             {
               "node_type": "item",
               "title": "SSH & Web Terminal",
-              "description": "SSH and Web-based terminal with tons of pre-loaded useful tools (540★).",
+              "description": "SSH and Web-based terminal with tons of pre-loaded useful tools (543★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6229,8 +6229,8 @@
                 "id": 100820626,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-11-07T12:45:29Z",
-                "open_issues": 15,
+                "last_commit": "2026-11-09T10:50:55Z",
+                "open_issues": 12,
                 "owner": "hassio-addons",
                 "repo": "app-ssh",
                 "stars": 543,
@@ -6251,7 +6251,7 @@
             {
               "node_type": "item",
               "title": "Grocy",
-              "description": "ERP beyond your fridge! A groceries & household management solution for your home (461★).",
+              "description": "ERP beyond your fridge! A groceries & household management solution for your home (462★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6283,7 +6283,7 @@
             {
               "node_type": "item",
               "title": "Aircast",
-              "description": "AirPlay capabilities for your Chromecast players (408★).",
+              "description": "AirPlay capabilities for your Chromecast players (410★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6314,7 +6314,7 @@
             {
               "node_type": "item",
               "title": "UniFi Controller",
-              "description": "The UniFi Controller allows you to manage your UniFi network using a web browser (386★).",
+              "description": "The UniFi Controller allows you to manage your UniFi network using a web browser (387★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6354,8 +6354,8 @@
                 "id": 151781327,
                 "language": "Dockerfile",
                 "license": "MIT",
-                "last_commit": "2026-11-07T13:01:44Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-09T09:20:02Z",
+                "open_issues": 5,
                 "owner": "hassio-addons",
                 "repo": "app-motioneye",
                 "stars": 339,
@@ -6375,7 +6375,7 @@
             {
               "node_type": "item",
               "title": "Grafana",
-              "description": "Open platform for beautiful analytics and monitoring (280★).",
+              "description": "Open platform for beautiful analytics and monitoring (281★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6492,7 +6492,7 @@
             {
               "node_type": "item",
               "title": "Plex Media Server",
-              "description": "Your recorded media beautifully organized and ready to stream (196★).",
+              "description": "Your recorded media beautifully organized and ready to stream (195★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6531,8 +6531,8 @@
                 "id": 147669094,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-11-07T17:19:50Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-09T09:41:25Z",
+                "open_issues": 2,
                 "owner": "hassio-addons",
                 "repo": "app-glances",
                 "stars": 194,
@@ -6553,7 +6553,7 @@
             {
               "node_type": "item",
               "title": "Traccar",
-              "description": "Modern GPS tracking platform (161★).",
+              "description": "Modern GPS tracking platform (160★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6644,8 +6644,8 @@
                 "id": 160347622,
                 "language": "Dockerfile",
                 "license": "MIT",
-                "last_commit": "2026-11-06T22:52:18Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-09T10:52:04Z",
+                "open_issues": 2,
                 "owner": "hassio-addons",
                 "repo": "app-jupyterlab",
                 "stars": 71,
@@ -6766,7 +6766,7 @@
             {
               "node_type": "item",
               "title": "Tasmota",
-              "description": "Firmware for ESP8266 boards and devices (24,900★).",
+              "description": "Firmware for ESP8266 boards and devices (24,968★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6775,11 +6775,11 @@
                 "id": 80286288,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-08T10:39:35Z",
-                "open_issues": 16,
+                "last_commit": "2026-11-09T13:09:48Z",
+                "open_issues": 15,
                 "owner": "arendst",
                 "repo": "Tasmota",
-                "stars": 24970,
+                "stars": 24974,
                 "topics": [
                   "arduino",
                   "automation",
@@ -6801,7 +6801,7 @@
             {
               "node_type": "item",
               "title": "Sonoff NSPanel",
-              "description": "Custom firmware for Sonoff NSPanel touchscreens with a Lovelace-style UI (997★).",
+              "description": "Custom firmware for Sonoff NSPanel touchscreens with a Lovelace-style UI (996★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6810,8 +6810,8 @@
                 "id": 445477700,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-06T19:02:05Z",
-                "open_issues": 63,
+                "last_commit": "2026-11-09T06:07:33Z",
+                "open_issues": 64,
                 "owner": "joBr99",
                 "repo": "nspanel-lovelace-ui",
                 "stars": 996,
@@ -6871,7 +6871,7 @@
             {
               "node_type": "item",
               "title": "OpenMQTTGateway",
-              "description": "A flexible MQTT gateway for IR, RF, BLE, MiFlora, SMS, and many sensors (4,109★).",
+              "description": "A flexible MQTT gateway for IR, RF, BLE, MiFlora, SMS, and many sensors (4,117★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6880,11 +6880,11 @@
                 "id": 68460326,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-08T00:38:10Z",
+                "last_commit": "2026-11-09T13:05:03Z",
                 "open_issues": 68,
                 "owner": "1technophile",
                 "repo": "OpenMQTTGateway",
-                "stars": 4118,
+                "stars": 4119,
                 "topics": [
                   "arduino",
                   "arduino-uno",
@@ -6912,7 +6912,7 @@
             {
               "node_type": "item",
               "title": "esp8266 Milight Hub",
-              "description": "Alternative hub for Milight/LimitlessLED devices that uses MQTT (1,048★).",
+              "description": "Alternative hub for Milight/LimitlessLED devices that uses MQTT (1,046★).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6925,7 +6925,7 @@
                 "open_issues": 181,
                 "owner": "sidoh",
                 "repo": "esp8266_milight_hub",
-                "stars": 1047,
+                "stars": 1048,
                 "topics": [
                   "easybulb",
                   "home-automation",
@@ -6976,7 +6976,7 @@
         {
           "node_type": "item",
           "title": "HASS Configurator",
-          "description": "Browser-based configuration file editor (338★).",
+          "description": "Browser-based configuration file editor (339★).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7007,7 +7007,7 @@
         {
           "node_type": "item",
           "title": "HA-Dockermon",
-          "description": "A Node.js service for RESTful switches to control Docker containers (289★).",
+          "description": "A Node.js service for RESTful switches to control Docker containers (287★).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7099,7 +7099,7 @@
         {
           "node_type": "item",
           "title": "HA Desktop Widget",
-          "description": "Desktop app and widget for Windows, macOS and Linux to control entities, watch cameras, view sensors and pin tiles to the desktop.",
+          "description": "Desktop app and widget for Windows, macOS and Linux to control entities, watch cameras, view sensors and pin tiles to the desktop (100★).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7112,7 +7112,7 @@
             "open_issues": 0,
             "owner": "Robertg761",
             "repo": "HA-Desktop-Widget",
-            "stars": 100,
+            "stars": 101,
             "topics": [
               "dashboard",
               "desktop-app",
@@ -7141,7 +7141,7 @@
         {
           "node_type": "item",
           "title": "Homebridge",
-          "description": "Lightweight Node.js server that bridges non-HomeKit devices into Apple Home, with a large plugin ecosystem (25,527★).",
+          "description": "Lightweight Node.js server that bridges non-HomeKit devices into Apple Home, with a large plugin ecosystem (25,541★).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7154,7 +7154,7 @@
             "open_issues": 11,
             "owner": "homebridge",
             "repo": "homebridge",
-            "stars": 25545,
+            "stars": 25547,
             "topics": [
               "hap",
               "homebridge",
@@ -7170,7 +7170,7 @@
         {
           "node_type": "item",
           "title": "Node-RED",
-          "description": "Flow-based visual programming tool for wiring together devices, APIs, and services, backed by the OpenJS Foundation (23,775★).",
+          "description": "Flow-based visual programming tool for wiring together devices, APIs, and services, backed by the OpenJS Foundation (23,819★).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7179,11 +7179,11 @@
             "id": 12618379,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T16:28:26Z",
+            "last_commit": "2026-11-09T13:31:16Z",
             "open_issues": 369,
             "owner": "node-red",
             "repo": "node-red",
-            "stars": 23823,
+            "stars": 23825,
             "topics": [
               "flow-based-programming",
               "javascript",
@@ -7198,7 +7198,7 @@
         {
           "node_type": "item",
           "title": "Domoticz",
-          "description": "A lightweight Home Automation System (3,824★).",
+          "description": "A lightweight Home Automation System (3,833★).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7207,7 +7207,7 @@
             "id": 40759227,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-08T10:57:40Z",
+            "last_commit": "2026-11-08T13:59:41Z",
             "open_issues": 5,
             "owner": "domoticz",
             "repo": "domoticz",
@@ -7240,7 +7240,7 @@
         {
           "node_type": "item",
           "title": "Gladys",
-          "description": "Open source program which runs on your Raspberry Pi (3,250★).",
+          "description": "Open source program which runs on your Raspberry Pi (3,270★).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7249,11 +7249,11 @@
             "id": 36928490,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-08T05:44:28Z",
-            "open_issues": 51,
+            "last_commit": "2026-11-09T13:23:25Z",
+            "open_issues": 49,
             "owner": "GladysAssistant",
             "repo": "Gladys",
-            "stars": 3271,
+            "stars": 3272,
             "topics": [
               "assistant",
               "automation",
@@ -7271,7 +7271,7 @@
         {
           "node_type": "item",
           "title": "ioBroker",
-          "description": "Integration platform for IoT with hundreds of adapters and strong European protocol support for KNX and HomeMatic (1,382★).",
+          "description": "Integration platform for IoT with hundreds of adapters and strong European protocol support for KNX and HomeMatic (1,385★).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7280,8 +7280,8 @@
             "id": 22886718,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-02T16:25:43Z",
-            "open_issues": 43,
+            "last_commit": "2026-11-09T11:28:46Z",
+            "open_issues": 40,
             "owner": "ioBroker",
             "repo": "ioBroker",
             "stars": 1386,
@@ -7306,8 +7306,8 @@
             "id": 26161892,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-07T21:04:34Z",
-            "open_issues": 57,
+            "last_commit": "2026-11-09T13:51:41Z",
+            "open_issues": 58,
             "owner": "jeedom",
             "repo": "core",
             "stars": 413,
@@ -7332,7 +7332,7 @@
         {
           "node_type": "item",
           "title": "awesome-selfhosted",
-          "description": "Curated list of awesome self hosted software (329,428★).",
+          "description": "Curated list of awesome self hosted software (334,197★).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7345,7 +7345,7 @@
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 334985,
+            "stars": 335341,
             "topics": [
               "awesome",
               "awesome-list",
@@ -7362,7 +7362,7 @@
         {
           "node_type": "item",
           "title": "awesome-iot",
-          "description": "Curated list of awesome Internet of Things projects and resources (4,529★).",
+          "description": "Curated list of awesome Internet of Things projects and resources (4,548★).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7375,7 +7375,7 @@
             "open_issues": 7,
             "owner": "HQarroum",
             "repo": "awesome-iot",
-            "stars": 4550,
+            "stars": 4552,
             "topics": [
               "awesome",
               "awesome-list",
@@ -7391,7 +7391,7 @@
         {
           "node_type": "item",
           "title": "awesome-mqtt",
-          "description": "Curated list of MQTT related stuff (2,408★).",
+          "description": "Curated list of MQTT related stuff (2,413★).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7421,7 +7421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T12:01:14.570Z",
+    "last_updated": "2026-11-09T14:05:26.459Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Home Assistant resources.",
@@ -7429,11 +7429,11 @@
       "id": 142909126,
       "language": "Python",
       "license": "CC-BY-4.0",
-      "last_commit": "2026-11-06T06:19:16Z",
-      "open_issues": 33,
+      "last_commit": "2026-11-09T12:42:56Z",
+      "open_issues": 32,
       "owner": "frenck",
       "repo": "awesome-home-assistant",
-      "stars": 8645,
+      "stars": 8651,
       "topics": [
         "awesome",
         "awesome-list",
@@ -7452,7 +7452,7 @@
         "smarthome"
       ]
     },
-    "original_repository_sha": "103c104df514ad1eed4164bd97da780681b12504",
+    "original_repository_sha": "928c94becfc16a5d632fc77f3f190b6387c52414",
     "enhanced_repository": "enhansome/enhansome-home-assistant",
     "enhanced_repository_description": null,
     "title": "Awesome Home Assistant with stars"
